@@ -1,0 +1,9046 @@
+{
+  "アズワン": {
+    "makername": "アズワン"
+  },
+  "アウトドアテック": {
+    "makername": "Outdoor Tech"
+  },
+  "ゼンケン": {
+    "makername": "ゼンケン"
+  },
+  "パナソニック": {
+    "makername": "Panasonic",
+    "methodname": "panasonic"
+  },
+  "ダッチウエストジャパン": {
+    "makername": "ダッチウエストジャパン"
+  },
+  "labo well": {
+    "makername": "LABO WELL"
+  },
+  "積水テクノ商事西日本": {
+    "makername": "積水テクノ商事西日本"
+  },
+  "エレクトロラックス・ジャパン": {
+    "makername": "Electrolux",
+    "methodname": "electrolux"
+  },
+  "ニシダ": {
+    "makername": "ニシダ"
+  },
+  "アイ・システムネットワーク": {
+    "makername": "アイ・システムネットワーク"
+  },
+  "寺田ポンプ製作所": {
+    "makername": "寺田ポンプ製作所"
+  },
+  "さくら製作所": {
+    "makername": "さくら製作所"
+  },
+  "矢田部レジン工業": {
+    "makername": "矢田部レジン工業"
+  },
+  "スワロー電機": {
+    "makername": "スワロー電機"
+  },
+  "ゲート": {
+    "makername": "ゲート"
+  },
+  "デジタルランド": {
+    "makername": "デジタルランド"
+  },
+  "高儀": {
+    "makername": "高儀"
+  },
+  "ユーエヌ": {
+    "makername": "ユーエヌ"
+  },
+  "モモインターナショナル": {
+    "makername": "モモインターナショナル"
+  },
+  "サードウェーブ": {
+    "makername": "サードウェーブ"
+  },
+  "mitsubishi heavy industries": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "ニュマークジャパンコーポレーション": {
+    "makername": "ニュマークジャパンコーポレーション"
+  },
+  "ヴィンテージ・プロダクションズ&コンサルティング": {
+    "makername": "ヴィンテージ・プロダクションズ&コンサルティング"
+  },
+  "oppo digital": {
+    "makername": "OPPO Digital"
+  },
+  "リンディー・セールス": {
+    "makername": "リンディー・セールス"
+  },
+  "サティスボンバー": {
+    "makername": "サティスボンバー"
+  },
+  "ユニチカトレーディング": {
+    "makername": "ユニチカトレーディング"
+  },
+  "vaio": {
+    "makername": "VAIO"
+  },
+  "アルペックス": {
+    "makername": "アルペックス"
+  },
+  "フューチャーコネクト": {
+    "makername": "フューチャーコネクト"
+  },
+  "tangent": {
+    "makername": "tangent"
+  },
+  "empex": {
+    "makername": "EMPEX"
+  },
+  "慶洋エンジニアリング": {
+    "makername": "慶洋エンジニアリング"
+  },
+  "明光商会": {
+    "makername": "明光商会"
+  },
+  "ゾックス": {
+    "makername": "ZOX",
+    "methodname": "zox"
+  },
+  "ortofon": {
+    "makername": "ortofon"
+  },
+  "タイムリー": {
+    "makername": "タイムリー"
+  },
+  "オリエンタル": {
+    "makername": "オリエンタル"
+  },
+  "izumi": {
+    "makername": "IZUMI",
+    "methodname": "izumi"
+  },
+  "東京瓦斯": {
+    "makername": "東京ガス",
+    "methodname": "tokyogas"
+  },
+  "ファイブアンドファイブ": {
+    "makername": "ファイブアンドファイブ"
+  },
+  "セイコーウオッチ": {
+    "makername": "SEIKO"
+  },
+  "au": {
+    "makername": "au"
+  },
+  "楽天": {
+    "makername": "楽天"
+  },
+  "zass": {
+    "makername": "ZASS"
+  },
+  "wacom": {
+    "makername": "wacom",
+    "methodname": "wacom"
+  },
+  "huntkey japan": {
+    "makername": "HUNTKEY JAPAN"
+  },
+  "nb": {
+    "makername": "NB"
+  },
+  "real life japan": {
+    "makername": "REAL LIFE JAPAN"
+  },
+  "ディクラッセ": {
+    "makername": "ディクラッセ"
+  },
+  "光興業": {
+    "makername": "光興業"
+  },
+  "recoil": {
+    "makername": "RECOIL"
+  },
+  "倉惣茶商店": {
+    "makername": "倉惣茶商店"
+  },
+  "sp gadgets": {
+    "makername": "SP Gadgets"
+  },
+  "マンフロット": {
+    "makername": "マンフロット"
+  },
+  "blueair": {
+    "makername": "Blueair"
+  },
+  "サムスン": {
+    "makername": "SAMSUNG"
+  },
+  "リズム時計工業": {
+    "makername": "リズム時計工業"
+  },
+  "ハック": {
+    "makername": "ハック"
+  },
+  "cowon": {
+    "makername": "COWON"
+  },
+  "シージャパン": {
+    "makername": "シージャパン"
+  },
+  "南海通商": {
+    "makername": "南海通商"
+  },
+  "羽立工業": {
+    "makername": "羽立工業"
+  },
+  "不二サッシ": {
+    "makername": "不二サッシ"
+  },
+  "シンガーハッピージャパン": {
+    "makername": "SINGER",
+    "methodname": "singer"
+  },
+  "ボンスター販売": {
+    "makername": "ボンスター"
+  },
+  "マルナカ": {
+    "makername": "マルナカ"
+  },
+  "リリック": {
+    "makername": "リリック"
+  },
+  "アーウィン": {
+    "makername": "アーウィン"
+  },
+  "丸隆": {
+    "makername": "丸隆"
+  },
+  "ザウンドインダストリートウキョウ": {
+    "makername": "ザウンドインダストリートウキョウ"
+  },
+  "秋田住友ベーク": {
+    "makername": "秋田住友ベーク"
+  },
+  "scosche": {
+    "makername": "SCOSCHE"
+  },
+  "友愛玩具": {
+    "makername": "友愛玩具"
+  },
+  "アルファックス・コイズミ": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "中旺ヘルス": {
+    "makername": "中旺ヘルス"
+  },
+  "サンリオ": {
+    "makername": "サンリオ"
+  },
+  "hearing components社": {
+    "makername": "Hearing Components"
+  },
+  "オレゴン": {
+    "makername": "オレゴン"
+  },
+  "sib": {
+    "makername": "SiB"
+  },
+  "ミヤビックス": {
+    "makername": "ミヤビックス"
+  },
+  "green wood": {
+    "makername": "Green wood",
+    "methodname": "greenwood"
+  },
+  "zound industries": {
+    "makername": "Zound Industries"
+  },
+  "phonon": {
+    "makername": "PHONON"
+  },
+  "アイテム": {
+    "makername": "アイテム"
+  },
+  "生活の木": {
+    "makername": "生活の木"
+  },
+  "マイクロンジャパン": {
+    "makername": "マイクロンジャパン"
+  },
+  "musetti": {
+    "makername": "Musetti"
+  },
+  "sdi technologies": {
+    "makername": "SDI Technologies"
+  },
+  "日本電興": {
+    "makername": "日本電興"
+  },
+  "allied telesis": {
+    "makername": "Allied Telesis",
+    "methodname": "allied_telesis"
+  },
+  "ロータリー.ヒロ": {
+    "makername": "ロータリー.ヒロ"
+  },
+  "エコー商会": {
+    "makername": "エコー商会"
+  },
+  "あまの": {
+    "makername": "あまの"
+  },
+  "東レ": {
+    "makername": "TORAY",
+    "methodname": "toray"
+  },
+  "dkshジャパン": {
+    "makername": "DKSHジャパン"
+  },
+  "オオニシプロフェッショナルビューティサービス": {
+    "makername": "オオニシプロフェッショナルビューティサービス"
+  },
+  "max": {
+    "makername": "MAX",
+    "methodname": "max"
+  },
+  "サニーライフジャパン": {
+    "makername": "サニーライフジャパン"
+  },
+  "logitec": {
+    "makername": "Logitec",
+    "methodname": "logitec"
+  },
+  "iremono": {
+    "makername": "IREMONO"
+  },
+  "ベビーロックミシン": {
+    "makername": "baby lock",
+    "methodname": "babylock"
+  },
+  "畑屋製作所": {
+    "makername": "畑屋製作所"
+  },
+  "エイム電子": {
+    "makername": "エイム電子"
+  },
+  "パストラルシンフォニー": {
+    "makername": "パストラルシンフォニー"
+  },
+  "イデアインターナショナル": {
+    "makername": "イデアインターナショナル"
+  },
+  "蛇の目ミシン工業": {
+    "makername": "JANOME",
+    "methodname": "janome"
+  },
+  "シリコンパワー": {
+    "makername": "シリコンパワー"
+  },
+  "エンティス": {
+    "makername": "エンティス"
+  },
+  "エー・リンク": {
+    "makername": "エー・リンク"
+  },
+  "セルトリックス・ジャパン": {
+    "makername": "Celltrix Japan"
+  },
+  "デンヨー": {
+    "makername": "デンヨー"
+  },
+  "asus": {
+    "makername": "ASUS",
+    "methodname": "asus"
+  },
+  "ハギワラソリューションズ": {
+    "makername": "ハギワラソリューションズ"
+  },
+  "ヴォーグインターナショナル": {
+    "makername": "ヴォーグインターナショナル"
+  },
+  "エバニュー": {
+    "makername": "エバニュー"
+  },
+  "エレクトロラックス": {
+    "makername": "Electrolux",
+    "methodname": "electrolux"
+  },
+  "ラッキーコーヒーマシン": {
+    "makername": "ラッキーコーヒーマシン"
+  },
+  "ager": {
+    "makername": "Ager"
+  },
+  "tiger": {
+    "makername": "TIGER",
+    "methodname": "tiger"
+  },
+  "ゼブラ": {
+    "makername": "ゼブラ"
+  },
+  "メリタジャパン": {
+    "makername": "Melitta",
+    "methodname": "melitta"
+  },
+  "japan create": {
+    "makername": "JAPAN CREATE"
+  },
+  "ワイヤーワールド": {
+    "makername": "ワイヤーワールド"
+  },
+  "アースモバイル": {
+    "makername": "アースモバイル"
+  },
+  "ufurl": {
+    "makername": "マクロス"
+  },
+  "フライト": {
+    "makername": "フライト"
+  },
+  "アイシン高丘": {
+    "makername": "アイシン高丘"
+  },
+  "大和製衡": {
+    "makername": "大和製衡"
+  },
+  "コイズミ照明": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "ダイショウコーポレーション": {
+    "makername": "ダイショウコーポレーション"
+  },
+  "エー・パワー": {
+    "makername": "エー・パワー"
+  },
+  "belkin": {
+    "makername": "Belkin Components"
+  },
+  "マイト工業": {
+    "makername": "マイト"
+  },
+  "willcom": {
+    "makername": "WILLCOM"
+  },
+  "オンライン生活": {
+    "makername": "オンライン生活"
+  },
+  "ヤマキヨ": {
+    "makername": "ヤマキヨ"
+  },
+  "ニシヤマ": {
+    "makername": "nishiyama"
+  },
+  "アルインコ": {
+    "makername": "アルインコ"
+  },
+  "juki": {
+    "makername": "JUKI",
+    "methodname": "juki"
+  },
+  "キャン": {
+    "makername": "キャン"
+  },
+  "トヨタヤ": {
+    "makername": "トヨタヤ"
+  },
+  "ホリシン": {
+    "makername": "ホリシン"
+  },
+  "アピックスインターナショナル": {
+    "makername": "アピックスインターナショナル"
+  },
+  "yseコーポレーション": {
+    "makername": "YSEコーポレーション"
+  },
+  "冨士井商会": {
+    "makername": "冨士井商会"
+  },
+  "ゼネック": {
+    "makername": "ゼネック"
+  },
+  "non": {
+    "makername": "non"
+  },
+  "ミード": {
+    "makername": "ミード"
+  },
+  "フジ鋼業": {
+    "makername": "フジ鋼業"
+  },
+  "トレンドサプライ": {
+    "makername": "トレンドサプライ"
+  },
+  "イーバリュー": {
+    "makername": "藤原産業",
+    "methodname": "fujiwara"
+  },
+  "ディラック": {
+    "makername": "ディラック"
+  },
+  "remainderband": {
+    "makername": "Remainderband"
+  },
+  "プロスタッフ": {
+    "makername": "プロスタッフ"
+  },
+  "日立リビングサプライ": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "アトラス": {
+    "makername": "アトラス"
+  },
+  "イリイ": {
+    "makername": "イリイ"
+  },
+  "emobile": {
+    "makername": "ソフトバンク"
+  },
+  "共立電気計器": {
+    "makername": "共立電気計器"
+  },
+  "エム・ティ・アイ": {
+    "makername": "エム・ティ・アイ"
+  },
+  "成川米穀": {
+    "makername": "成川米穀"
+  },
+  "富士見産業": {
+    "makername": "富士見産業"
+  },
+  "シンセイ": {
+    "makername": "シンセイ"
+  },
+  "松葉納豆製造所": {
+    "makername": "松葉納豆製造所"
+  },
+  "カプコン": {
+    "makername": "カプコン"
+  },
+  "アイホン": {
+    "makername": "AIPHONE",
+    "methodname": "aiphone"
+  },
+  "イマムラ": {
+    "makername": "イマムラ"
+  },
+  "toastabags": {
+    "makername": "toastabags"
+  },
+  "アクセルトレーディング": {
+    "makername": "アクセルトレーディング"
+  },
+  "ハートフル・ジャパン": {
+    "makername": "ハートフル・ジャパン"
+  },
+  "明石水産": {
+    "makername": "明石水産"
+  },
+  "chemex": {
+    "makername": "CHEMEX"
+  },
+  "兼古製作所": {
+    "makername": "兼古製作所"
+  },
+  "artecnica": {
+    "makername": "Artecnica"
+  },
+  "富士重工業": {
+    "makername": "富士重工業"
+  },
+  "nivac": {
+    "makername": "NIVAC"
+  },
+  "銀一": {
+    "makername": "銀一"
+  },
+  "gateway": {
+    "makername": "Gateway"
+  },
+  "ファニーワング": {
+    "makername": "ファニーワング"
+  },
+  "denon": {
+    "makername": "DENON",
+    "methodname": "denon"
+  },
+  "dynaudio japan": {
+    "makername": "DYNAUDIO JAPAN"
+  },
+  "ナレッジ・デザイン": {
+    "makername": "ナレッジ・デザイン"
+  },
+  "ニューフォース": {
+    "makername": "ニューフォース"
+  },
+  "青木製作所": {
+    "makername": "青木製作所"
+  },
+  "トヨスター": {
+    "makername": "トヨスター"
+  },
+  "エッチ・エヌ・ビー": {
+    "makername": "エッチ・エヌ・ビー"
+  },
+  "セブン・セブン": {
+    "makername": "セブン・セブン"
+  },
+  "スリーアップ": {
+    "makername": "スリーアップ"
+  },
+  "イーアンドケー": {
+    "makername": "イーアンドケー"
+  },
+  "beyerdynamic": {
+    "makername": "beyerdynamic"
+  },
+  "ルーメン": {
+    "makername": "ルーメン"
+  },
+  "sennheiser": {
+    "makername": "SENNHEISER"
+  },
+  "skullcandy japan": {
+    "makername": "Skullcandy"
+  },
+  "ヤーマン": {
+    "makername": "ヤーマン"
+  },
+  "dels": {
+    "makername": "Dels"
+  },
+  "アズイチ": {
+    "makername": "アズイチ"
+  },
+  "casio": {
+    "makername": "CASIO",
+    "methodname": "casio"
+  },
+  "満天社": {
+    "makername": "満天社"
+  },
+  "niteize": {
+    "makername": "NITEIZE"
+  },
+  "東芝マテリアル": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "トリコインダストリーズ": {
+    "makername": "トリコインダストリーズ"
+  },
+  "富士通東芝": {
+    "makername": "富士通東芝"
+  },
+  "前園サウンドラボ": {
+    "makername": "前園サウンドラボ"
+  },
+  "brunton": {
+    "makername": "BRUNTON"
+  },
+  "braun ブラウン m-30": {
+    "makername": "BRAUN",
+    "methodname": "braun"
+  },
+  "竹内電機製作所": {
+    "makername": "竹内電機製作所"
+  },
+  "アナングインテル": {
+    "makername": "アナングインテル"
+  },
+  "f.r.c": {
+    "makername": "FRC"
+  },
+  "nds": {
+    "makername": "NDS"
+  },
+  "a-data": {
+    "makername": "A-DATA"
+  },
+  "maxampere": {
+    "makername": "Maxampere"
+  },
+  "headphonecentre": {
+    "makername": "HeadphoneCentre"
+  },
+  "エクセルサウンド": {
+    "makername": "エクセルサウンド"
+  },
+  "デビカ": {
+    "makername": "デビカ"
+  },
+  "polar": {
+    "makername": "POLAR"
+  },
+  "peugeot": {
+    "makername": "PEUGEOT"
+  },
+  "内田洋行": {
+    "makername": "内田洋行"
+  },
+  "wise tech": {
+    "makername": "Wise Tech"
+  },
+  "キヤノンマーケティングジャパン": {
+    "makername": "Canon",
+    "methodname": "canon"
+  },
+  "eva solo": {
+    "makername": "Eva solo"
+  },
+  "アクツコンニャク": {
+    "makername": "アクツコンニャク"
+  },
+  "stayer": {
+    "makername": "STAYER"
+  },
+  "フカダック": {
+    "makername": "フカダック"
+  },
+  "ノムラテック": {
+    "makername": "ノムラテック"
+  },
+  "日本電気": {
+    "makername": "NEC",
+    "methodname": "nec"
+  },
+  "ラトックシステム": {
+    "makername": "RATOC",
+    "methodname": "ratocsystems"
+  },
+  "レッツ・コーポレーション": {
+    "makername": "レッツ・コーポレーション"
+  },
+  "トラスコ中山": {
+    "makername": "トラスコ中山"
+  },
+  "富士商": {
+    "makername": "富士商"
+  },
+  "maquino": {
+    "makername": "マキノトレーディング"
+  },
+  "youwa": {
+    "makername": "YOUWA",
+    "methodname": "youwa"
+  },
+  "エッシェンバッハ光学ジャパン": {
+    "makername": "エッシェンバッハ"
+  },
+  "tjmデザイン": {
+    "makername": "TJMデザイン"
+  },
+  "コーセートレーディング": {
+    "makername": "コーセートレーディング"
+  },
+  "セトクラフト": {
+    "makername": "セトクラフト"
+  },
+  "イチネンtasco": {
+    "makername": "イチネンTASCO"
+  },
+  "earasers": {
+    "makername": "earasers"
+  },
+  "三栄": {
+    "makername": "三栄"
+  },
+  "サン・エルメック": {
+    "makername": "サン・エルメック"
+  },
+  "彩光デザイン": {
+    "makername": "彩光デザイン"
+  },
+  "ヤザワコーポレーション": {
+    "makername": "YAZAWA",
+    "methodname": "yazawa"
+  },
+  "日本トラストテクノロジー": {
+    "makername": "日本トラストテクノロジー"
+  },
+  "エーゼット": {
+    "makername": "エーゼット"
+  },
+  "プランドゥ": {
+    "makername": "プランドゥ"
+  },
+  "ノアファミリー": {
+    "makername": "ノアファミリー"
+  },
+  "wsl japan": {
+    "makername": "WSL JAPAN"
+  },
+  "チトセ": {
+    "makername": "チトセ"
+  },
+  "belex": {
+    "makername": "BELEX"
+  },
+  "フィスラー": {
+    "makername": "フィスラー"
+  },
+  "アイアン": {
+    "makername": "アイアン"
+  },
+  "アオヤギコーポレーション": {
+    "makername": "アオヤギコーポレーション"
+  },
+  "エムアイビー": {
+    "makername": "MIB"
+  },
+  "nouvelle": {
+    "makername": "NOUVELLE"
+  },
+  "朝日医理科": {
+    "makername": "朝日医理科"
+  },
+  "河島製作所": {
+    "makername": "河島製作所"
+  },
+  "三和水産": {
+    "makername": "三和"
+  },
+  "十全商会": {
+    "makername": "十全商会"
+  },
+  "vita riccos": {
+    "makername": "Vita Riccos"
+  },
+  "トップ工業": {
+    "makername": "トップ工業"
+  },
+  "サン": {
+    "makername": "サン"
+  },
+  "cellularline": {
+    "makername": "cellular line"
+  },
+  "terraillon": {
+    "makername": "Terraillon"
+  },
+  "テスコム": {
+    "makername": "TESCOM",
+    "methodname": "tescom"
+  },
+  "ハクバ": {
+    "makername": "ハクバ"
+  },
+  "ジョビー": {
+    "makername": "ジョビー"
+  },
+  "インデックス": {
+    "makername": "インデックス"
+  },
+  "mighty bright": {
+    "makername": "MIGHTY BRIGHT"
+  },
+  "グロリア魔法瓶製作所": {
+    "makername": "グロリア魔法瓶製作所"
+  },
+  "山勝美濃陶苑": {
+    "makername": "山勝美濃陶苑"
+  },
+  "大塚硝子": {
+    "makername": "大塚硝子"
+  },
+  "伊藤産業": {
+    "makername": "伊藤産業"
+  },
+  "koizumi": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "エラック": {
+    "makername": "エラック"
+  },
+  "日本グローバル照明": {
+    "makername": "日本グローバル照明"
+  },
+  "ウィルコム": {
+    "makername": "WILLCOM"
+  },
+  "ear technology": {
+    "makername": "Ear Technology"
+  },
+  "ピーエーエス": {
+    "makername": "ピーエーエス"
+  },
+  "lenox": {
+    "makername": "LENOX"
+  },
+  "プロジェクト": {
+    "makername": "プロジェクト"
+  },
+  "アイエー・フーズ": {
+    "makername": "アイエー・フーズ"
+  },
+  "thermos": {
+    "makername": "THERMOS"
+  },
+  "横浜ベイサイドネット": {
+    "makername": "横浜ベイサイドネット"
+  },
+  "アール・エム": {
+    "makername": "アール・エム"
+  },
+  "カシムラ": {
+    "makername": "Kashimura",
+    "methodname": "kashimura"
+  },
+  "ジイテックス": {
+    "makername": "ジイテックス"
+  },
+  "愛罐コーポレーション": {
+    "makername": "愛罐コーポレーション"
+  },
+  "ルミナス": {
+    "makername": "DOSHISHA",
+    "methodname": "doshisha"
+  },
+  "スケーター": {
+    "makername": "スケーター"
+  },
+  "藤本電業": {
+    "makername": "藤本電業"
+  },
+  "aladdin": {
+    "makername": "Aladdin",
+    "methodname": "aic"
+  },
+  "ニルフィスク": {
+    "makername": "ニルフィスク"
+  },
+  "ncaインターナショナル": {
+    "makername": "NCAインターナショナル"
+  },
+  "gentos": {
+    "makername": "GENTOS",
+    "methodname": "gentos"
+  },
+  "ナビオ": {
+    "makername": "ナビオ"
+  },
+  "makita マキタ": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "大見工業": {
+    "makername": "大見工業"
+  },
+  "三菱レイヨン・クリンスイ": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "大山食品": {
+    "makername": "大山食品"
+  },
+  "ディーフ": {
+    "makername": "ディーフ"
+  },
+  "アクシス": {
+    "makername": "アクシス"
+  },
+  "コールマンジャパン": {
+    "makername": "コールマンジャパン"
+  },
+  "sk11": {
+    "makername": "藤原産業",
+    "methodname": "fujiwara"
+  },
+  "ifi-audio": {
+    "makername": "iFI-Audio",
+    "methodname": "afi_audio"
+  },
+  "ネスレ": {
+    "makername": "ネスレ"
+  },
+  "宮本商店": {
+    "makername": "宮本商店"
+  },
+  "テプロス通商": {
+    "makername": "テプロス通商"
+  },
+  "富士通ゼネラル": {
+    "makername": "FUJITSU GENERAL",
+    "methodname": "fujitsu_general"
+  },
+  "フィフティ": {
+    "makername": "フィフティ"
+  },
+  "サキ": {
+    "makername": "サキ"
+  },
+  "プラス": {
+    "makername": "プラス"
+  },
+  "アンシャンテ": {
+    "makername": "アンシャンテ"
+  },
+  "シネックスインフォテック": {
+    "makername": "シネックスインフォテック"
+  },
+  "ディテール": {
+    "makername": "ディテール"
+  },
+  "wtbワタベコーポレーション": {
+    "makername": "WTBワタベコーポレーション"
+  },
+  "エーオープンジャパン": {
+    "makername": "エーオープンジャパン"
+  },
+  "ボーダレス": {
+    "makername": "ボーダレス"
+  },
+  "オンリーセレクト": {
+    "makername": "オンリーセレクト"
+  },
+  "古河電池": {
+    "makername": "古河電池"
+  },
+  "カンキョー": {
+    "makername": "カンキョー"
+  },
+  "stayerホールディングス": {
+    "makername": "STAYER"
+  },
+  "ライオン事務器": {
+    "makername": "ライオン事務器"
+  },
+  "佐藤商事": {
+    "makername": "佐藤商事"
+  },
+  "ナガオカトレーディング": {
+    "makername": "ナガオカトレーディング"
+  },
+  "サナーエレクトロニクス": {
+    "makername": "サナーエレクトロニクス"
+  },
+  "エックスワン": {
+    "makername": "エックスワン"
+  },
+  "neumann": {
+    "makername": "NEUMANN"
+  },
+  "バンダイナムコゲームス": {
+    "makername": "バンダイ"
+  },
+  "クー・インターナショナル": {
+    "makername": "クー・インターナショナル"
+  },
+  "キヤノン": {
+    "makername": "Canon",
+    "methodname": "canon"
+  },
+  "株式会社グローリッジ": {
+    "makername": "GLORIDGE"
+  },
+  "ステイヤー": {
+    "makername": "ステイヤー"
+  },
+  "ヒューレット・パッカード": {
+    "makername": "HP"
+  },
+  "la vie": {
+    "makername": "LA VIE"
+  },
+  "マルヨシ陶器": {
+    "makername": "マルヨシ陶器"
+  },
+  "rothco": {
+    "makername": "Rothco"
+  },
+  "プレアデスシステムデザイン": {
+    "makername": "プレアデスシステムデザイン"
+  },
+  "alo audio": {
+    "makername": "ALO Audio"
+  },
+  "森永エンジニアリング": {
+    "makername": "森永エンジニアリング"
+  },
+  "ケルヒャー": {
+    "makername": "KARCHER",
+    "methodname": "karcher"
+  },
+  "ベセトジャパン": {
+    "makername": "BESETO JAPAN"
+  },
+  "三菱マテリアル": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "エドニス": {
+    "makername": "エドニス"
+  },
+  "アーキサイト": {
+    "makername": "アーキサイト"
+  },
+  "リコープロダクションプリントソリューションズ・ジャパン": {
+    "makername": "RICOH",
+    "methodname": "ricoh"
+  },
+  "マルマンプロダクツ": {
+    "makername": "maruman"
+  },
+  "サンディスク": {
+    "makername": "サンディスク"
+  },
+  "アイトック": {
+    "makername": "アイトック"
+  },
+  "ソニーモバイルコミュニケーションズ": {
+    "makername": "Sony mobile"
+  },
+  "松木技研": {
+    "makername": "松木技研"
+  },
+  "iskin": {
+    "makername": "iSkin"
+  },
+  "静和ybj": {
+    "makername": "静和YBJ"
+  },
+  "i.b.s": {
+    "makername": "I.B.S"
+  },
+  "タカギ": {
+    "makername": "タカギ"
+  },
+  "swissmar": {
+    "makername": "Swissmar"
+  },
+  "ライト": {
+    "makername": "ライト"
+  },
+  "ヒロセ電子システム": {
+    "makername": "ヒロセ電子システム"
+  },
+  "paloma": {
+    "makername": "Paloma",
+    "methodname": "paloma"
+  },
+  "日本ヒューレット・パッカード": {
+    "makername": "HP"
+  },
+  "イーケイジャパン": {
+    "makername": "イーケイジャパン"
+  },
+  "sunpot": {
+    "makername": "sunpot",
+    "methodname": "sunpot"
+  },
+  "ニューエックス": {
+    "makername": "ニューエックス"
+  },
+  "ブッシュネル・アウトドア・プロダクツ・ジャパン": {
+    "makername": "ブッシュネル"
+  },
+  "centrance": {
+    "makername": "Centrance"
+  },
+  "オーディオテクニカ": {
+    "makername": "audio-technica",
+    "methodname": "audio_technica"
+  },
+  "中嶋蒲鉾": {
+    "makername": "中嶋蒲鉾"
+  },
+  "sony": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "jacob jensen": {
+    "makername": "JACOB JENSEN"
+  },
+  "イツワ商事": {
+    "makername": "イツワ商事"
+  },
+  "skinplayer": {
+    "makername": "SKINPLAYER"
+  },
+  "広華物産": {
+    "makername": "広華物産"
+  },
+  "ユニックスコーポレーション": {
+    "makername": "ユニックスコーポレーション"
+  },
+  "松田豆腐店": {
+    "makername": "松田豆腐店"
+  },
+  "tokyo trading": {
+    "makername": "TOKYO TRADING"
+  },
+  "nakatomi": {
+    "makername": "NAKATOMI",
+    "methodname": "nakatomi"
+  },
+  "シルバーアイ": {
+    "makername": "シルバーアイ"
+  },
+  "フーヴィ": {
+    "makername": "フーヴィ"
+  },
+  "セガ": {
+    "makername": "セガ"
+  },
+  "ホームクオリティ": {
+    "makername": "ホームクオリティ"
+  },
+  "サイバーガジェット": {
+    "makername": "サイバーガジェット"
+  },
+  "ディンプレックス・ジャパン": {
+    "makername": "Dimplex"
+  },
+  "パロマ": {
+    "makername": "Paloma",
+    "methodname": "paloma"
+  },
+  "ホットワイヤーズ": {
+    "makername": "ホットワイヤーズ"
+  },
+  "ハンファqセルズジャパン": {
+    "makername": "ハンファ・ジャパン"
+  },
+  "クリプトン": {
+    "makername": "クリプトン"
+  },
+  "corsair": {
+    "makername": "CORSAIR"
+  },
+  "samsung": {
+    "makername": "SAMSUNG"
+  },
+  "kamu": {
+    "makername": "KAMU"
+  },
+  "アルファーテック": {
+    "makername": "アルファーテック"
+  },
+  "ラジカル": {
+    "makername": "ラジカル"
+  },
+  "イー・ピー・アイ": {
+    "makername": "イー・ピー・アイ"
+  },
+  "htc": {
+    "makername": "HTC"
+  },
+  "東京磁石工業": {
+    "makername": "東京磁石工業"
+  },
+  "moshi": {
+    "makername": "Moshi"
+  },
+  "パイモア": {
+    "makername": "パイモア"
+  },
+  "ritz": {
+    "makername": "RITZ"
+  },
+  "eizo": {
+    "makername": "EIZO",
+    "methodname": "eizo"
+  },
+  "supertooth": {
+    "makername": "SuperTooth"
+  },
+  "原田織物": {
+    "makername": "原田織物"
+  },
+  "アントレックス": {
+    "makername": "アントレックス"
+  },
+  "ミザールテック": {
+    "makername": "ミザール"
+  },
+  "ピジョン": {
+    "makername": "ピジョン"
+  },
+  "ピクセラ": {
+    "makername": "ピクセラ"
+  },
+  "タイジ": {
+    "makername": "タイジ"
+  },
+  "シチズン・システムズ": {
+    "makername": "CITIZEN"
+  },
+  "sonicare": {
+    "makername": "PHILIPS",
+    "methodname": "philips"
+  },
+  "神東": {
+    "makername": "神東"
+  },
+  "ロッキー": {
+    "makername": "ロッキー"
+  },
+  "aqua": {
+    "makername": "AQUA",
+    "methodname": "aqua"
+  },
+  "incipio": {
+    "makername": "INCIPIO"
+  },
+  "岐阜プラスチック工業": {
+    "makername": "岐阜プラスチック工業"
+  },
+  "メース": {
+    "makername": "メース"
+  },
+  "デジスコドットコム": {
+    "makername": "デジスコドットコム"
+  },
+  "テムコジャパン": {
+    "makername": "テムコ"
+  },
+  "ワイエスティー": {
+    "makername": "ワイエスティー"
+  },
+  "モアベスト": {
+    "makername": "モアベスト"
+  },
+  "秦運動具工業": {
+    "makername": "HATAS"
+  },
+  "mplamps": {
+    "makername": "MPLAMPS"
+  },
+  "ソフトバンク": {
+    "makername": "ソフトバンク"
+  },
+  "msy": {
+    "makername": "MSY"
+  },
+  "クイックサンプロダクツ": {
+    "makername": "クイックサンプロダクツ"
+  },
+  "ベス工業": {
+    "makername": "ベス工業"
+  },
+  "noa": {
+    "makername": "NOA"
+  },
+  "フジキン": {
+    "makername": "フジキン"
+  },
+  "ジェイビーエス": {
+    "makername": "ジェイビーエス"
+  },
+  "サンヨウ": {
+    "makername": "サンヨウ"
+  },
+  "ソニー・ピクチャーズエンタテインメント": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "日本船燈": {
+    "makername": "日本船燈"
+  },
+  "soul electronics": {
+    "makername": "SOUL Electronics"
+  },
+  "幸和製作所": {
+    "makername": "幸和製作所"
+  },
+  "コキン": {
+    "makername": "コキン"
+  },
+  "南貿易": {
+    "makername": "南貿易"
+  },
+  "新生産業": {
+    "makername": "新生産業"
+  },
+  "オルゴ": {
+    "makername": "ALLGO",
+    "methodname": "allgo"
+  },
+  "balmuda": {
+    "makername": "BALMUDA"
+  },
+  "石丸合成樹脂": {
+    "makername": "石丸合成樹脂"
+  },
+  "イチグチ": {
+    "makername": "イチグチ"
+  },
+  "d'z style": {
+    "makername": "D'z STYLE"
+  },
+  "ツボ万": {
+    "makername": "ツボ万"
+  },
+  "シグネット": {
+    "makername": "シグネット"
+  },
+  "本間冬治工業": {
+    "makername": "本間冬治工業"
+  },
+  "アビッドテクノロジー": {
+    "makername": "アビッドテクノロジー"
+  },
+  "東洋石創": {
+    "makername": "東洋石創"
+  },
+  "サンコーミタチ": {
+    "makername": "サンコーミタチ"
+  },
+  "ヘルスリードジャパン": {
+    "makername": "ヘルスリードジャパン"
+  },
+  "キシマ": {
+    "makername": "キシマ"
+  },
+  "クロスワーク": {
+    "makername": "クロスワーク"
+  },
+  "エリートスクリーン": {
+    "makername": "エリートスクリーン"
+  },
+  "inax": {
+    "makername": "INAX",
+    "methodname": "inax"
+  },
+  "富士ゼロックス": {
+    "makername": "富士ゼロックス",
+    "methodname": "fujixerox"
+  },
+  "ミックススタイル": {
+    "makername": "ミックススタイル"
+  },
+  "東邦瓦斯": {
+    "makername": "東邦瓦斯"
+  },
+  "beseto japan": {
+    "makername": "BESETO JAPAN"
+  },
+  "サンデン・リテールシステム": {
+    "makername": "サンデン・リテールシステム"
+  },
+  "アイティプロテック": {
+    "makername": "アイティプロテック"
+  },
+  "タムロン": {
+    "makername": "TAMRON",
+    "methodname": "tamron"
+  },
+  "サヌキ": {
+    "makername": "サヌキ"
+  },
+  "住本製作所": {
+    "makername": "住本製作所"
+  },
+  "ヒロックス": {
+    "makername": "ヒロックス"
+  },
+  "fanny wang": {
+    "makername": "Fanny Wang"
+  },
+  "ainex": {
+    "makername": "AINEX"
+  },
+  "ホーマーイオン研究所": {
+    "makername": "ホーマーイオン研究所"
+  },
+  "withings": {
+    "makername": "Withings"
+  },
+  "ハイアールジャパンセールス": {
+    "makername": "Haier",
+    "methodname": "haier"
+  },
+  "ゲームテック": {
+    "makername": "ゲームテック"
+  },
+  "ソウイジャパン": {
+    "makername": "ソウイジャパン"
+  },
+  "ハインズワーク": {
+    "makername": "ハインズワーク"
+  },
+  "スカイライトコーポレーション": {
+    "makername": "スカイライトコーポレーション"
+  },
+  "rinnai": {
+    "makername": "Rinnai",
+    "methodname": "rinnai"
+  },
+  "ドウシシャ": {
+    "makername": "DOSHISHA",
+    "methodname": "doshisha"
+  },
+  "キングストンテクノロジー": {
+    "makername": "Kingston"
+  },
+  "オンズ": {
+    "makername": "オンズ"
+  },
+  "ヴァイン": {
+    "makername": "ヴァイン"
+  },
+  "guzzini": {
+    "makername": "guzzini"
+  },
+  "asustek": {
+    "makername": "ASUS",
+    "methodname": "asus"
+  },
+  "hegel": {
+    "makername": "HEGEL"
+  },
+  "コンテック": {
+    "makername": "コンテック"
+  },
+  "日本セラミック": {
+    "makername": "日本セラミック"
+  },
+  "シグマエーピーオーシステム販売": {
+    "makername": "SIGMA",
+    "methodname": "sigma"
+  },
+  "サタケ": {
+    "makername": "サタケ"
+  },
+  "フォーサイト": {
+    "makername": "フォーサイト"
+  },
+  "ブレイン": {
+    "makername": "ブレイン"
+  },
+  "monotaro": {
+    "makername": "MonotaRO"
+  },
+  "エイケイ舎": {
+    "makername": "エイケイ舎"
+  },
+  "フォーカルポイントコンピューター": {
+    "makername": "フォーカルポイント"
+  },
+  "comon(カモン)": {
+    "makername": "COMON"
+  },
+  "apple computer": {
+    "makername": "Apple"
+  },
+  "ホーム・スキノベーションズ・ジャパン": {
+    "makername": "ホーム・スキノベーションズ・ジャパン"
+  },
+  "esco": {
+    "makername": "エスコ"
+  },
+  "aee technology": {
+    "makername": "AEE Technology"
+  },
+  "fox": {
+    "makername": "Fox"
+  },
+  "因幡電機産業": {
+    "makername": "因幡電機産業"
+  },
+  "sci asia limited": {
+    "makername": "SCI Asia Limited"
+  },
+  "アサヒ興洋": {
+    "makername": "アサヒ興洋"
+  },
+  "シーマ・ラボラトリー": {
+    "makername": "シーマ・ラボラトリー"
+  },
+  "日本デキシー": {
+    "makername": "日本デキシー"
+  },
+  "トリア・ビューティ・ジャパン": {
+    "makername": "トリア・ビューティ・ジャパン"
+  },
+  "ファミリー": {
+    "makername": "ファミリー"
+  },
+  "citizen": {
+    "makername": "CITIZEN"
+  },
+  "わがんせ": {
+    "makername": "わがんせ"
+  },
+  "coby manufacturing company": {
+    "makername": "COBY MANUFACTURING COMPANY"
+  },
+  "krk": {
+    "makername": "KRK"
+  },
+  "ビートソニック": {
+    "makername": "ビートソニック"
+  },
+  "ヂャンティ商会": {
+    "makername": "ヂャンティ商会"
+  },
+  "tasco": {
+    "makername": "TASCO"
+  },
+  "上西産業": {
+    "makername": "上西産業"
+  },
+  "不二貿易": {
+    "makername": "不二貿易"
+  },
+  "コムトップ": {
+    "makername": "コムトップ"
+  },
+  "エスケイジャパンセールス": {
+    "makername": "エスケイジャパン",
+    "methodname": "skj"
+  },
+  "ダクシン": {
+    "makername": "ダクシン"
+  },
+  "ヨコヤマコーポレーション": {
+    "makername": "ヨコヤマコーポレーション"
+  },
+  "ウイニングボアー": {
+    "makername": "スエカゲツール"
+  },
+  "白光": {
+    "makername": "白光"
+  },
+  "エプソン": {
+    "makername": "EPSON",
+    "methodname": "epson"
+  },
+  "オムロン": {
+    "makername": "OMRON",
+    "methodname": "omron"
+  },
+  "オート": {
+    "makername": "オート"
+  },
+  "アンデックス・ユウ": {
+    "makername": "アンデックス・ユウ"
+  },
+  "日本ゼネラル・アプライアンス": {
+    "makername": "日本ゼネラル・アプライアンス"
+  },
+  "ジェニュイン": {
+    "makername": "ジェニュイン"
+  },
+  "アイファイ・オーディオ": {
+    "makername": "iFI-Audio",
+    "methodname": "afi_audio"
+  },
+  "アルファ工業": {
+    "makername": "アルファ工業"
+  },
+  "ロブテックス": {
+    "makername": "ロブテックス"
+  },
+  "vacuvin": {
+    "makername": "VACUVIN"
+  },
+  "tcp": {
+    "makername": "TCP"
+  },
+  "伊東屋": {
+    "makername": "伊東屋"
+  },
+  "ロックリッジサウンドジャパン": {
+    "makername": "ロックリッジサウンドジャパン"
+  },
+  "オーブ": {
+    "makername": "オーブ"
+  },
+  "ケンブリッジオーディオ": {
+    "makername": "ケンブリッジオーディオ"
+  },
+  "東京メタル": {
+    "makername": "TOME"
+  },
+  "安原製作所": {
+    "makername": "安原製作所"
+  },
+  "四元食品工業": {
+    "makername": "四元食品工業"
+  },
+  "ティー・アンド・カンパニー": {
+    "makername": "ティー・アンド・カンパニー"
+  },
+  "東洋マーク製作所": {
+    "makername": "東洋マーク製作所"
+  },
+  "seiko": {
+    "makername": "SEIKO"
+  },
+  "グラフテック": {
+    "makername": "グラフテック"
+  },
+  "カイホウジャパン": {
+    "makername": "カイホウジャパン"
+  },
+  "プロシード": {
+    "makername": "プロシード"
+  },
+  "コジット": {
+    "makername": "コジット"
+  },
+  "ザワード": {
+    "makername": "ザワード"
+  },
+  "kobo": {
+    "makername": "楽天"
+  },
+  "toto": {
+    "makername": "TOTO",
+    "methodname": "toto"
+  },
+  "アジアネットワークス": {
+    "makername": "アジアネットワークス"
+  },
+  "tone": {
+    "makername": "TONE"
+  },
+  "アートナップ": {
+    "makername": "アートナップ"
+  },
+  "若松屋": {
+    "makername": "若松屋"
+  },
+  "hearing components": {
+    "makername": "Hearing Components"
+  },
+  "イーメックス": {
+    "makername": "イーメックス"
+  },
+  "antelope audio": {
+    "makername": "Antelope Audio"
+  },
+  "イー・エム・エー": {
+    "makername": "イー・エム・エー"
+  },
+  "サンハーティネス香産": {
+    "makername": "サンハーティネス香産"
+  },
+  "ソフィアデジタル": {
+    "makername": "ソフィアデジタル"
+  },
+  "ミツワ": {
+    "makername": "ミツワ"
+  },
+  "伸晃": {
+    "makername": "伸晃"
+  },
+  "ティ・ユー・エフ": {
+    "makername": "ティ・ユー・エフ"
+  },
+  "バザール豆腐": {
+    "makername": "バザール豆腐"
+  },
+  "ビッグスター": {
+    "makername": "ビッグスター"
+  },
+  "ジャガーインターナショナルコーポレーション": {
+    "makername": "JAGUAR",
+    "methodname": "jaguar"
+  },
+  "マグレックス": {
+    "makername": "マグレックス"
+  },
+  "カートン光学": {
+    "makername": "カートン光学"
+  },
+  "大進": {
+    "makername": "大進"
+  },
+  "スバル": {
+    "makername": "スバル"
+  },
+  "other": {
+    "makername": "other"
+  },
+  "ダイヤモンド": {
+    "makername": "ダイヤモンド"
+  },
+  "nuc電子": {
+    "makername": "NUC電子"
+  },
+  "ジェフコム": {
+    "makername": "ジェフコム"
+  },
+  "ピエラス": {
+    "makername": "ピエラス"
+  },
+  "ryobi": {
+    "makername": "RYOBI",
+    "methodname": "ryobi"
+  },
+  "グッズマン": {
+    "makername": "グッズマン"
+  },
+  "vornado": {
+    "makername": "Vornado"
+  },
+  "onkyo": {
+    "makername": "ONKYO",
+    "methodname": "onkyo"
+  },
+  "丸亀": {
+    "makername": "丸亀"
+  },
+  "コシナ": {
+    "makername": "コシナ"
+  },
+  "ハリオ": {
+    "makername": "HARIO"
+  },
+  "八木アンテナ": {
+    "makername": "YAGI"
+  },
+  "椙山紡織": {
+    "makername": "椙山紡織"
+  },
+  "咲来良": {
+    "makername": "咲来良"
+  },
+  "metabones": {
+    "makername": "METABONES"
+  },
+  "スズケン": {
+    "makername": "スズケン"
+  },
+  "テクニカルオーディオデバイセズラボラトリーズ": {
+    "makername": "テクニカルオーディオデバイセズラボラトリーズ"
+  },
+  "スタープラチナ": {
+    "makername": "スタープラチナ"
+  },
+  "アレッシィ": {
+    "makername": "ALESSI"
+  },
+  "日本育児": {
+    "makername": "日本育児"
+  },
+  "エムエスアイコンピュータジャパン": {
+    "makername": "エムエスアイコンピュータジャパン"
+  },
+  "キクタニ": {
+    "makername": "キクタニ"
+  },
+  "dji": {
+    "makername": "DJI"
+  },
+  "yamada": {
+    "makername": "yamada",
+    "methodname": "yamada"
+  },
+  "キングソフト": {
+    "makername": "キングソフト"
+  },
+  "小柳出電気商会": {
+    "makername": "オヤイデ"
+  },
+  "エスエンピーネット": {
+    "makername": "エスエンピーネット"
+  },
+  "makita": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "桜井": {
+    "makername": "桜井"
+  },
+  "ジェイ・ヴォックス": {
+    "makername": "ジェイ・ヴォックス"
+  },
+  "gechic corporation": {
+    "makername": "GeChic Corporation"
+  },
+  "三和電気計器": {
+    "makername": "三和"
+  },
+  "イースタンサウンドファクトリー": {
+    "makername": "イースタンサウンドファクトリー"
+  },
+  "ファーストレイト": {
+    "makername": "ファーストレイト"
+  },
+  "アズマ": {
+    "makername": "アズマ"
+  },
+  "ホワイトエバー": {
+    "makername": "ホワイトエバー"
+  },
+  "梶原産業": {
+    "makername": "梶原産業"
+  },
+  "ネスレ日本": {
+    "makername": "ネスレ"
+  },
+  "エコヨーロピアン": {
+    "makername": "エコヨーロピアン"
+  },
+  "アテックス": {
+    "makername": "ATEX",
+    "methodname": "atex"
+  },
+  "アピデ": {
+    "makername": "precomo"
+  },
+  "captain stag": {
+    "makername": "CAPTAIN STAG"
+  },
+  "グルマンディーズ": {
+    "makername": "グルマンディーズ"
+  },
+  "eight one": {
+    "makername": "エイトワン"
+  },
+  "檜山製作所": {
+    "makername": "檜山製作所"
+  },
+  "i-ne": {
+    "makername": "I-ne"
+  },
+  "大国食品": {
+    "makername": "大国食品"
+  },
+  "伊原企販": {
+    "makername": "伊原企販"
+  },
+  "山東電気": {
+    "makername": "山東電気"
+  },
+  "ナカミチ販売": {
+    "makername": "ナカミチ"
+  },
+  "satechi": {
+    "makername": "Satechi"
+  },
+  "ワコートレーディング": {
+    "makername": "ワコートレーディング"
+  },
+  "akart": {
+    "makername": "AKART"
+  },
+  "京セラミタ": {
+    "makername": "京セラ"
+  },
+  "transcend": {
+    "makername": "Transcend",
+    "methodname": "transcend"
+  },
+  "スリーエムヘルスケア": {
+    "makername": "スリーエムヘルスケア"
+  },
+  "ナイコム": {
+    "makername": "ナイコム"
+  },
+  "クリタック": {
+    "makername": "クリタック"
+  },
+  "アマミ": {
+    "makername": "アマミ"
+  },
+  "栄紙業": {
+    "makername": "栄紙業"
+  },
+  "トライオード": {
+    "makername": "トライオード"
+  },
+  "象印": {
+    "makername": "ZOJIRUSHI",
+    "methodname": "zojirushi"
+  },
+  "近代インターナショナル": {
+    "makername": "近代インターナショナル"
+  },
+  "グリーンハウス": {
+    "makername": "GREEN HOUSE",
+    "methodname": "green_house"
+  },
+  "リーベックス": {
+    "makername": "リーベックス"
+  },
+  "岩谷産業": {
+    "makername": "Iwatani",
+    "methodname": "iwatani"
+  },
+  "マクロス": {
+    "makername": "マクロス"
+  },
+  "uqmobile": {
+    "makername": "Uqmobile"
+  },
+  "エムエーパッケージング": {
+    "makername": "エムエーパッケージング"
+  },
+  "日本エレクトロ・ハーモニックス": {
+    "makername": "日本エレクトロ・ハーモニックス"
+  },
+  "デノン": {
+    "makername": "DENON",
+    "methodname": "denon"
+  },
+  "タジマモーターコーポレーション": {
+    "makername": "タジマモーターコーポレーション"
+  },
+  "こだわり工房": {
+    "makername": "こだわり工房"
+  },
+  "コモライフ": {
+    "makername": "コモライフ"
+  },
+  "長尾製作所": {
+    "makername": "長尾製作所"
+  },
+  "鳴海製陶": {
+    "makername": "鳴海製陶"
+  },
+  "teknos": {
+    "makername": "TEKNOS",
+    "methodname": "teknos"
+  },
+  "ハシートップイン": {
+    "makername": "ハシモト"
+  },
+  "キョーリツコーポレーション": {
+    "makername": "キョーリツコーポレーション"
+  },
+  "イージステクノロジー": {
+    "makername": "イージステクノロジー"
+  },
+  "旭電機化成": {
+    "makername": "旭電機化成"
+  },
+  "メトロ電気工業": {
+    "makername": "メトロ電気工業"
+  },
+  "クレセル": {
+    "makername": "クレセル"
+  },
+  "タイムドメイン": {
+    "makername": "タイムドメイン"
+  },
+  "samyang": {
+    "makername": "SAMYANG"
+  },
+  "山下": {
+    "makername": "山下"
+  },
+  "チェリーテラス": {
+    "makername": "チェリーテラス"
+  },
+  "bialetti": {
+    "makername": "Bialetti"
+  },
+  "エルモ社": {
+    "makername": "ELMO"
+  },
+  "サムスン電子ジャパン": {
+    "makername": "SAMSUNG"
+  },
+  "本間製作所": {
+    "makername": "本間製作所"
+  },
+  "リバティジャパン": {
+    "makername": "リバティ"
+  },
+  "京セラ": {
+    "makername": "京セラ"
+  },
+  "阪和": {
+    "makername": "HANWA",
+    "methodname": "hanwa"
+  },
+  "real cable": {
+    "makername": "Real Cable"
+  },
+  "混沌レコード": {
+    "makername": "混沌レコード"
+  },
+  "マクサー電機": {
+    "makername": "マクサー"
+  },
+  "マルミ": {
+    "makername": "マルミ"
+  },
+  "ドリテック": {
+    "makername": "dretec",
+    "methodname": "dretec"
+  },
+  "コロナ電業": {
+    "makername": "コロナ電業"
+  },
+  "mitsumaru japan": {
+    "makername": "Mitsumaru Japan"
+  },
+  "contour": {
+    "makername": "Contour"
+  },
+  "ペリカン": {
+    "makername": "ペリカン"
+  },
+  "ドメティック": {
+    "makername": "ドメティック"
+  },
+  "太知ホールディングス": {
+    "makername": "太知ホールディングス"
+  },
+  "テクノ": {
+    "makername": "テクノ"
+  },
+  "noritz": {
+    "makername": "NORITZ",
+    "methodname": "noritz"
+  },
+  "sigma": {
+    "makername": "SIGMA",
+    "methodname": "sigma"
+  },
+  "アクティス": {
+    "makername": "アクティス"
+  },
+  "トランセンド・ジャパン": {
+    "makername": "Transcend",
+    "methodname": "transcend"
+  },
+  "hatch": {
+    "makername": "HATCH"
+  },
+  "キリンビバレッジ": {
+    "makername": "キリンビバレッジ"
+  },
+  "かのりゅう": {
+    "makername": "かのりゅう"
+  },
+  "藤原産業": {
+    "makername": "藤原産業",
+    "methodname": "fujiwara"
+  },
+  "アスベル": {
+    "makername": "アスベル"
+  },
+  "マルハチ産業": {
+    "makername": "マルハチ産業"
+  },
+  "旭化成ホームプロダクツ": {
+    "makername": "旭化成ホームプロダクツ"
+  },
+  "cut&paste": {
+    "makername": "Cut&Paste"
+  },
+  "ノルコーポレーション": {
+    "makername": "ノルコーポレーション"
+  },
+  "イスペット": {
+    "makername": "イスペット"
+  },
+  "ロア・インターナショナル": {
+    "makername": "ロア"
+  },
+  "ソニー・コンピュータエンタテインメント": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "ワールドジェイビー": {
+    "makername": "ワールドジェイビー"
+  },
+  "セキセイ": {
+    "makername": "セキセイ"
+  },
+  "フロントランナー": {
+    "makername": "フロントランナー"
+  },
+  "アサヒサンレッド": {
+    "makername": "アサヒサンレッド"
+  },
+  "russell hobbs": {
+    "makername": "Russell Hobbs"
+  },
+  "八光工業": {
+    "makername": "八光工業"
+  },
+  "まるわ": {
+    "makername": "まるわ"
+  },
+  "hurom": {
+    "makername": "HUROM"
+  },
+  "サンコー": {
+    "makername": "サンコー"
+  },
+  "日立  白くまくん": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "マサオコーポレーション": {
+    "makername": "マサオコーポレーション"
+  },
+  "ムサシ": {
+    "makername": "ムサシ"
+  },
+  "バルミューダ": {
+    "makername": "BALMUDA"
+  },
+  "yu-2企画": {
+    "makername": "Yu-2企画"
+  },
+  "アルファp": {
+    "makername": "アルファP"
+  },
+  "アイ・ティー・エス": {
+    "makername": "アイ・ティー・エス"
+  },
+  "ワーナーエンターテイメントジャパン": {
+    "makername": "ワーナーエンターテイメントジャパン"
+  },
+  "moa store": {
+    "makername": "MOA STORE"
+  },
+  "キッツマイクロフィルター": {
+    "makername": "キッツマイクロフィルター"
+  },
+  "liaail": {
+    "makername": "LIAAIL"
+  },
+  "ケイランド": {
+    "makername": "ケイランド"
+  },
+  "マウスコンピューター": {
+    "makername": "マウスコンピューター"
+  },
+  "スエカゲツール": {
+    "makername": "スエカゲツール"
+  },
+  "クラカメラ": {
+    "makername": "クラカメラ"
+  },
+  "henge docks": {
+    "makername": "Henge Docks"
+  },
+  "レック": {
+    "makername": "レック"
+  },
+  "高久産業": {
+    "makername": "高久産業"
+  },
+  "オーディオリプラス": {
+    "makername": "オーディオリプラス"
+  },
+  "望月製粉製麺所": {
+    "makername": "望月製粉製麺所"
+  },
+  "レンズベビー": {
+    "makername": "レンズベビー"
+  },
+  "ジェイドコーポレーション": {
+    "makername": "ジェイドコーポレーション"
+  },
+  "藤田電機商会": {
+    "makername": "藤田電機商会"
+  },
+  "ジャストコーポレーション": {
+    "makername": "ジャストコーポレーション"
+  },
+  "ファースト・ランニング": {
+    "makername": "ファースト・ランニング"
+  },
+  "セラヴィ": {
+    "makername": "セラヴィ"
+  },
+  "津田商会": {
+    "makername": "津田商会"
+  },
+  "shuyoka partners": {
+    "makername": "Shuyoka Partners"
+  },
+  "ソフトバンクコマース&サービス": {
+    "makername": "ソフトバンク"
+  },
+  "アルファーテックシステムサービス": {
+    "makername": "アルファーテック"
+  },
+  "コンプライ": {
+    "makername": "Comply"
+  },
+  "昭光プラスチック製品": {
+    "makername": "昭光プラスチック製品"
+  },
+  "ミーレ・ジャパン": {
+    "makername": "ミーレ・ジャパン"
+  },
+  "的場電機製作所": {
+    "makername": "的場電機製作所"
+  },
+  "コニカミノルタ": {
+    "makername": "コニカミノルタ"
+  },
+  "style": {
+    "makername": "Style"
+  },
+  "ユーエーシー": {
+    "makername": "ユーエーシー"
+  },
+  "トーレンス": {
+    "makername": "トーレンス"
+  },
+  "三松テックス": {
+    "makername": "三松テックス"
+  },
+  "チノン": {
+    "makername": "チノン"
+  },
+  "電響社": {
+    "makername": "電響社"
+  },
+  "デバイスネット": {
+    "makername": "デバイスネット"
+  },
+  "日本電信電話": {
+    "makername": "NTT"
+  },
+  "新世代": {
+    "makername": "新世代"
+  },
+  "vessel": {
+    "makername": "VESSEL"
+  },
+  "中央工営": {
+    "makername": "中央工営"
+  },
+  "ニーズ": {
+    "makername": "ニーズ"
+  },
+  "mtg": {
+    "makername": "MTG"
+  },
+  "水本機械製作所": {
+    "makername": "水本機械製作所"
+  },
+  "cado": {
+    "makername": "cado",
+    "methodname": "cado"
+  },
+  "サナダ精工": {
+    "makername": "サナダ精工"
+  },
+  "日動工業": {
+    "makername": "日動工業"
+  },
+  "福昌": {
+    "makername": "福昌"
+  },
+  "カスタム": {
+    "makername": "カスタム"
+  },
+  "エスケイジャパン": {
+    "makername": "エスケイジャパン",
+    "methodname": "skj"
+  },
+  "wellrich": {
+    "makername": "Wellrich"
+  },
+  "オーエス": {
+    "makername": "オーエス"
+  },
+  "ハーマンインターナショナル": {
+    "makername": "ハーマンインターナショナル"
+  },
+  "slc": {
+    "makername": "SLC"
+  },
+  "fujiiryoki": {
+    "makername": "FUJIIRYOKI",
+    "methodname": "fujiiryoki"
+  },
+  "プロテック": {
+    "makername": "プロテック"
+  },
+  "gn netcom": {
+    "makername": "GN Netcom"
+  },
+  "みのる産業": {
+    "makername": "みのる産業"
+  },
+  "oki": {
+    "makername": "OKI"
+  },
+  "adaptec": {
+    "makername": "ADAPTEC"
+  },
+  "ラナップ": {
+    "makername": "ラナップ"
+  },
+  "富士通東芝モバイルコミュニケーションズ": {
+    "makername": "富士通東芝モバイルコミュニケーションズ"
+  },
+  "ヨシカワ": {
+    "makername": "ヨシカワ"
+  },
+  "ボンダスジャパン": {
+    "makername": "BONDHUS"
+  },
+  "セレストロン": {
+    "makername": "Celestron"
+  },
+  "富士工業": {
+    "makername": "富士工業",
+    "methodname": "fjic"
+  },
+  "parrot": {
+    "makername": "Parrot"
+  },
+  "ユピテル": {
+    "makername": "ユピテル"
+  },
+  "ズーム": {
+    "makername": "ズーム"
+  },
+  "ダルトン": {
+    "makername": "ダルトン"
+  },
+  "tamron": {
+    "makername": "TAMRON",
+    "methodname": "tamron"
+  },
+  "ボッシュ bosch": {
+    "makername": "BOSCH",
+    "methodname": "bosch"
+  },
+  "ムラエ商事": {
+    "makername": "ムラエ商事"
+  },
+  "電興社": {
+    "makername": "電興社"
+  },
+  "堀内鏡工業": {
+    "makername": "堀内鏡工業"
+  },
+  "アックスヤマザキ": {
+    "makername": "アックスヤマザキ"
+  },
+  "firestone audio": {
+    "makername": "Firestone Audio"
+  },
+  "エーオーアイ・ジャパン": {
+    "makername": "エーオーアイ・ジャパン"
+  },
+  "日昌医療器": {
+    "makername": "日昌医療器"
+  },
+  "大豆油糧": {
+    "makername": "大豆油糧"
+  },
+  "nichiwa電子": {
+    "makername": "NICHIWA電子"
+  },
+  "セルサス": {
+    "makername": "セルサス"
+  },
+  "アイコム": {
+    "makername": "アイコム"
+  },
+  "大石アンドアソシエイツ": {
+    "makername": "大石アンドアソシエイツ"
+  },
+  "アイレックス": {
+    "makername": "アイレックス"
+  },
+  "エレメンツ": {
+    "makername": "エレメンツ"
+  },
+  "三洋電機": {
+    "makername": "SANYO",
+    "methodname": "panasonic"
+  },
+  "ブラザー販売": {
+    "makername": "brother",
+    "methodname": "brother"
+  },
+  "サンコーテクノ": {
+    "makername": "サンコーテクノ"
+  },
+  "スーパーツール": {
+    "makername": "スーパーツール"
+  },
+  "武田コーポレーション": {
+    "makername": "武田コーポレーション"
+  },
+  "テック": {
+    "makername": "TEAC",
+    "methodname": "teac"
+  },
+  "富士ソフト": {
+    "makername": "富士ソフト"
+  },
+  "エコリカ": {
+    "makername": "ecorica"
+  },
+  "トップランド": {
+    "makername": "トップランド"
+  },
+  "シーブイエス": {
+    "makername": "シーブイエス"
+  },
+  "precomo": {
+    "makername": "precomo"
+  },
+  "plantronics": {
+    "makername": "Plantronics"
+  },
+  "pro-ject": {
+    "makername": "Pro-Ject"
+  },
+  "小倉製作所": {
+    "makername": "小倉製作所"
+  },
+  "すまいる": {
+    "makername": "すまいる"
+  },
+  "東志": {
+    "makername": "東志"
+  },
+  "e-blue": {
+    "makername": "E-BLUE"
+  },
+  "bmx robot japan": {
+    "makername": "BMX robot Japan"
+  },
+  "太陽工房": {
+    "makername": "太陽工房"
+  },
+  "星光商事": {
+    "makername": "星光商事"
+  },
+  "aoc": {
+    "makername": "AOC"
+  },
+  "レ・クリント": {
+    "makername": "LE KLINT"
+  },
+  "ドリームメーカー": {
+    "makername": "ドリームメーカー"
+  },
+  "角田無線電機": {
+    "makername": "角田無線電機"
+  },
+  "toray": {
+    "makername": "TORAY",
+    "methodname": "toray"
+  },
+  "育良精機": {
+    "makername": "育良精機"
+  },
+  "ibm": {
+    "makername": "IBM"
+  },
+  "roccat": {
+    "makername": "ROCCAT"
+  },
+  "ディーアンドエムホールディングス": {
+    "makername": "ディーアンドエムホールディングス",
+    "methodname": "dmh"
+  },
+  "st": {
+    "makername": "ST"
+  },
+  "kipon": {
+    "makername": "KIPON"
+  },
+  "アセック": {
+    "makername": "アセック"
+  },
+  "東京メタル工業": {
+    "makername": "TOME"
+  },
+  "ハーマン": {
+    "makername": "HARMAN",
+    "methodname": "harman"
+  },
+  "topview": {
+    "makername": "TOPVIEW"
+  },
+  "le": {
+    "makername": "LE KLINT"
+  },
+  "オッポ": {
+    "makername": "オッポ"
+  },
+  "omron": {
+    "makername": "OMRON",
+    "methodname": "omron"
+  },
+  "ティグロン": {
+    "makername": "ティグロン"
+  },
+  "ダイトク": {
+    "makername": "ダイトク"
+  },
+  "アオヤマ": {
+    "makername": "アオヤマ"
+  },
+  "brother": {
+    "makername": "brother",
+    "methodname": "brother"
+  },
+  "アクア": {
+    "makername": "AQUA",
+    "methodname": "aqua"
+  },
+  "武田": {
+    "makername": "武田"
+  },
+  "shuttletec": {
+    "makername": "Shuttletec"
+  },
+  "シンラクリエイション": {
+    "makername": "シンラクリエイション"
+  },
+  "九州竹村電機": {
+    "makername": "九州竹村電機"
+  },
+  "アビライト": {
+    "makername": "アビライト"
+  },
+  "ミスターカード": {
+    "makername": "ミスターカード"
+  },
+  "サトレックス": {
+    "makername": "サトレックス"
+  },
+  "mk": {
+    "makername": "MK",
+    "methodname": "mk"
+  },
+  "ドリマックス": {
+    "makername": "ドリマックス"
+  },
+  "janome": {
+    "makername": "JANOME",
+    "methodname": "janome"
+  },
+  "パークトレーディングス": {
+    "makername": "パークトレーディングス"
+  },
+  "maruman": {
+    "makername": "maruman"
+  },
+  "プラマイゼロ": {
+    "makername": "プラマイゼロ"
+  },
+  "coizumi": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "ダイニチ工業": {
+    "makername": "DAINICHI",
+    "methodname": "dainichi"
+  },
+  "ファミリーイナダ": {
+    "makername": "FAMILY INADA",
+    "methodname": "family_inada"
+  },
+  "アクロス": {
+    "makername": "アクロス"
+  },
+  "イモタニ": {
+    "makername": "イモタニ"
+  },
+  "おおたけ": {
+    "makername": "おおたけ"
+  },
+  "ナニワ研磨工業": {
+    "makername": "ナニワ研磨工業"
+  },
+  "アレグロ": {
+    "makername": "アレグロ"
+  },
+  "タックルプランニング": {
+    "makername": "タックルプランニング"
+  },
+  "エッチ・エヌ・ビー販売": {
+    "makername": "エッチ・エヌ・ビー"
+  },
+  "空研": {
+    "makername": "空研"
+  },
+  "ツクバ": {
+    "makername": "ツクバ"
+  },
+  "コメット": {
+    "makername": "コメット"
+  },
+  "コアウェーブ": {
+    "makername": "コアウェーブ"
+  },
+  "元気の水": {
+    "makername": "元気の水"
+  },
+  "ニコンイメージングジャパン": {
+    "makername": "Nikon",
+    "methodname": "nikon"
+  },
+  "七陽商事": {
+    "makername": "七陽商事"
+  },
+  "スペシャルフィーチャー/マキタ": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "サンテックオプト": {
+    "makername": "サンテックオプト"
+  },
+  "kingston": {
+    "makername": "Kingston"
+  },
+  "エアテックス": {
+    "makername": "エアテックス"
+  },
+  "コイズミファニテック": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "ifi audio": {
+    "makername": "iFI-Audio",
+    "methodname": "afi_audio"
+  },
+  "グローバル": {
+    "makername": "グローバル"
+  },
+  "electrolux": {
+    "makername": "Electrolux",
+    "methodname": "electrolux"
+  },
+  "カナエ紙工": {
+    "makername": "カナエ紙工"
+  },
+  "センタック": {
+    "makername": "センタック"
+  },
+  "トーマスインターナショナル": {
+    "makername": "トーマスインターナショナル"
+  },
+  "surefire": {
+    "makername": "SUREFIRE"
+  },
+  "ハスクバーナ": {
+    "makername": "ハスクバーナ"
+  },
+  "ニード": {
+    "makername": "ニード"
+  },
+  "seca": {
+    "makername": "seca"
+  },
+  "イサムコーポレーション": {
+    "makername": "イサムコーポレーション"
+  },
+  "亀島製陶所": {
+    "makername": "亀島製陶所"
+  },
+  "アーク・ヒル": {
+    "makername": "アーク・ヒル"
+  },
+  "divoom": {
+    "makername": "Divoom"
+  },
+  "toyo living": {
+    "makername": "TOYO LIVING",
+    "methodname": "toyoliving"
+  },
+  "サンポット": {
+    "makername": "sunpot",
+    "methodname": "sunpot"
+  },
+  "エッシェンバッハ": {
+    "makername": "エッシェンバッハ"
+  },
+  "i.o data": {
+    "makername": "I.O DATA",
+    "methodname": "iodata"
+  },
+  "humanscale": {
+    "makername": "Humanscale"
+  },
+  "中山福": {
+    "makername": "中山福"
+  },
+  "cypher labs": {
+    "makername": "Cypher Labs"
+  },
+  "ダイコー": {
+    "makername": "DAIKO",
+    "methodname": "daiko"
+  },
+  "kojo": {
+    "makername": "KOJO"
+  },
+  "インターネットイニシアティブ": {
+    "makername": "インターネットイニシアティブ"
+  },
+  "中村屋": {
+    "makername": "中村屋"
+  },
+  "lenovo": {
+    "makername": "Lenovo"
+  },
+  "コーウェイ": {
+    "makername": "コーウェイ"
+  },
+  "沖データ": {
+    "makername": "沖データ"
+  },
+  "image craft": {
+    "makername": "Image Craft"
+  },
+  "古寺製作所": {
+    "makername": "古寺製作所"
+  },
+  "株式会社ユーワ": {
+    "makername": "YOUWA",
+    "methodname": "youwa"
+  },
+  "mykronoz": {
+    "makername": "MyKronoz"
+  },
+  "バイ・デザイン": {
+    "makername": "バイ・デザイン"
+  },
+  "大西賢製販": {
+    "makername": "大西賢製販"
+  },
+  "日本プラントロニクス": {
+    "makername": "日本プラントロニクス"
+  },
+  "アーランド": {
+    "makername": "アーランド"
+  },
+  "nocs": {
+    "makername": "NOCS"
+  },
+  "基陽": {
+    "makername": "基陽"
+  },
+  "リス": {
+    "makername": "リス"
+  },
+  "アーツ・インテリジェンス": {
+    "makername": "アーツ・インテリジェンス"
+  },
+  "ワンアップ": {
+    "makername": "ワンアップ"
+  },
+  "レダ": {
+    "makername": "レダ"
+  },
+  "イシガキ産業": {
+    "makername": "イシガキ産業"
+  },
+  "東浜商事": {
+    "makername": "東浜商事"
+  },
+  "マックス": {
+    "makername": "MAX",
+    "methodname": "max"
+  },
+  "aerial7": {
+    "makername": "AERIAL7"
+  },
+  "ローランド": {
+    "makername": "ローランド"
+  },
+  "steelseries": {
+    "makername": "SteelSeries"
+  },
+  "コンポジット": {
+    "makername": "コンポジット"
+  },
+  "エフ・アール・シー": {
+    "makername": "FRC"
+  },
+  "ゼネラル": {
+    "makername": "ゼネラル"
+  },
+  "アグレッド": {
+    "makername": "AGLED",
+    "methodname": "agled"
+  },
+  "louis poulsen": {
+    "makername": "louis poulsen"
+  },
+  "サカイトレーディング": {
+    "makername": "サカイトレーディング"
+  },
+  "ニコン": {
+    "makername": "Nikon",
+    "methodname": "nikon"
+  },
+  "epiion": {
+    "makername": "ヘルスリードジャパン"
+  },
+  "time&space": {
+    "makername": "Time&Space"
+  },
+  "マクセルスマートコミュニケーションズ": {
+    "makername": "maxell"
+  },
+  "青芳製作所": {
+    "makername": "青芳製作所"
+  },
+  "モトローラ・モビリティ・ジャパン": {
+    "makername": "モトローラ・モビリティ・ジャパン"
+  },
+  "zero": {
+    "makername": "ZERO"
+  },
+  "ブラックマジックデザイン": {
+    "makername": "ブラックマジックデザイン"
+  },
+  "北村製作所": {
+    "makername": "北村製作所"
+  },
+  "bravell inc.": {
+    "makername": "Bravell Inc."
+  },
+  "メルシー": {
+    "makername": "メルシー"
+  },
+  "イノマタ化学": {
+    "makername": "イノマタ化学"
+  },
+  "docter": {
+    "makername": "DOCTER"
+  },
+  "l&p": {
+    "makername": "L&P"
+  },
+  "ロッキーインターナショナル": {
+    "makername": "ロッキー"
+  },
+  "rooro": {
+    "makername": "柳瀬"
+  },
+  "ファンタメルー": {
+    "makername": "ファンタメルー"
+  },
+  "池商": {
+    "makername": "池商"
+  },
+  "電材ネット": {
+    "makername": "電材ネット"
+  },
+  "オークス": {
+    "makername": "オークス"
+  },
+  "ユニック": {
+    "makername": "ユニック"
+  },
+  "タローズ": {
+    "makername": "タローズ"
+  },
+  "westone": {
+    "makername": "Westone"
+  },
+  "b&sパートナーズ": {
+    "makername": "B&Sパートナーズ"
+  },
+  "knチヨダ": {
+    "makername": "KNチヨダ"
+  },
+  "高嶌": {
+    "makername": "高嶌"
+  },
+  "株式会社エントリージャパン": {
+    "makername": "株式会社エントリージャパン"
+  },
+  "ebm": {
+    "makername": "ハミルトンビーチ"
+  },
+  "三国屋豆腐店": {
+    "makername": "三国屋豆腐店"
+  },
+  "カールテクノ": {
+    "makername": "カールテクノ"
+  },
+  "セイキ販売": {
+    "makername": "セイキ販売"
+  },
+  "akaishi": {
+    "makername": "AKAISHI"
+  },
+  "bigiu": {
+    "makername": "bigiu"
+  },
+  "マイン": {
+    "makername": "マイン"
+  },
+  "ttr": {
+    "makername": "TTR"
+  },
+  "ライオン": {
+    "makername": "ライオン"
+  },
+  "ポラロイド": {
+    "makername": "ポラロイド"
+  },
+  "オグラ": {
+    "makername": "オグラ"
+  },
+  "浅沼商会": {
+    "makername": "浅沼商会"
+  },
+  "川崎精機製作所": {
+    "makername": "川崎精機製作所"
+  },
+  "elpa": {
+    "makername": "ELPA",
+    "methodname": "elpa"
+  },
+  "オヤイデ": {
+    "makername": "オヤイデ"
+  },
+  "ジャパンポーレックス": {
+    "makername": "ジャパンポーレックス"
+  },
+  "ハクバ写真産業": {
+    "makername": "ハクバ"
+  },
+  "中一光学│zhong yi optics": {
+    "makername": "中一光学│ZHONG YI OPTICS"
+  },
+  "greattool": {
+    "makername": "アークランドサカモト"
+  },
+  "jesttax": {
+    "makername": "JESTTAX"
+  },
+  "ヒノデ化工": {
+    "makername": "ヒノデ化工"
+  },
+  "ucc上島珈琲": {
+    "makername": "UCC上島珈琲"
+  },
+  "新興製作所": {
+    "makername": "新興製作所"
+  },
+  "京商": {
+    "makername": "京商"
+  },
+  "大河商事": {
+    "makername": "大河商事"
+  },
+  "キヤノンファインテック": {
+    "makername": "Canon",
+    "methodname": "canon"
+  },
+  "エンプレイス": {
+    "makername": "エンプレイス"
+  },
+  "トモ・コーポレーション": {
+    "makername": "トモ・コーポレーション"
+  },
+  "ルックイースト": {
+    "makername": "ルックイースト"
+  },
+  "シー・エフ・デー販売": {
+    "makername": "シー・エフ・デー"
+  },
+  "豊光": {
+    "makername": "豊光"
+  },
+  "マイクロソリューション": {
+    "makername": "マイクロソリューション"
+  },
+  "アクシネット・ジャパン・インク": {
+    "makername": "アクシネット・ジャパン・インク"
+  },
+  "トキマ": {
+    "makername": "トキマ"
+  },
+  "ウィキャン": {
+    "makername": "ウィキャン"
+  },
+  "萩野商店": {
+    "makername": "萩野商店"
+  },
+  "sunflag": {
+    "makername": "SUNFLAG"
+  },
+  "東芝": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "グループセブジャパン": {
+    "makername": "T-fal"
+  },
+  "サンスター": {
+    "makername": "サンスター"
+  },
+  "アライドテレシス": {
+    "makername": "Allied Telesis",
+    "methodname": "allied_telesis"
+  },
+  "セレン": {
+    "makername": "セレン"
+  },
+  "iwatani": {
+    "makername": "Iwatani",
+    "methodname": "iwatani"
+  },
+  "潮出版社": {
+    "makername": "潮出版社"
+  },
+  "comm plus biz": {
+    "makername": "Comm Plus Biz"
+  },
+  "スターバックスコーヒージャパン": {
+    "makername": "スターバックスコーヒージャパン"
+  },
+  "杉山金属": {
+    "makername": "杉山金属"
+  },
+  "gefen": {
+    "makername": "Gefen",
+    "methodname": "gefen"
+  },
+  "ハイ・メイク": {
+    "makername": "ハイ・メイク"
+  },
+  "三洋化成": {
+    "makername": "三洋化成"
+  },
+  "lourdes": {
+    "makername": "ATEX",
+    "methodname": "atex"
+  },
+  "日辰電機製作所": {
+    "makername": "日辰電機製作所"
+  },
+  "三菱電機": {
+    "makername": "Mitsubishi",
+    "methodname": "mitsubishi"
+  },
+  "パラマ・テック": {
+    "makername": "パラマ・テック"
+  },
+  "monster cable": {
+    "makername": "MONSTER"
+  },
+  "sankaエレクトロニクス": {
+    "makername": "SANKAエレクトロニクス"
+  },
+  "グリム": {
+    "makername": "グリム"
+  },
+  "sba": {
+    "makername": "SBA"
+  },
+  "ultrasone": {
+    "makername": "ULTRASONE"
+  },
+  "馬印": {
+    "makername": "馬印"
+  },
+  "ナックインダストリー": {
+    "makername": "KNACK Industry"
+  },
+  "dreamfarm": {
+    "makername": "Dreamfarm"
+  },
+  "エスキュービズム通商": {
+    "makername": "エスキュービズム通商"
+  },
+  "エルテック": {
+    "makername": "エルテック"
+  },
+  "ミムゴ": {
+    "makername": "ミムゴ"
+  },
+  "h&c技術研究所": {
+    "makername": "H&C技術研究所"
+  },
+  "astrodeck": {
+    "makername": "ASTRODECK"
+  },
+  "ergotron inc.": {
+    "makername": "ERGOTRON"
+  },
+  "yamagiwa": {
+    "makername": "YAMAGIWA"
+  },
+  "ホープス": {
+    "makername": "ホープス"
+  },
+  "ティーズファクトリー": {
+    "makername": "ティーズファクトリー"
+  },
+  "ラナ": {
+    "makername": "ラナ"
+  },
+  "カンタービレ": {
+    "makername": "カンタービレ"
+  },
+  "ダイワインダストリ": {
+    "makername": "ダイワインダストリ"
+  },
+  "behringer": {
+    "makername": "BEHRINGER"
+  },
+  "スワン電器": {
+    "makername": "スワン電器"
+  },
+  "スマイル": {
+    "makername": "スマイル"
+  },
+  "関西通信電線": {
+    "makername": "関西通信電線"
+  },
+  "ナカシマ": {
+    "makername": "ナカシマ"
+  },
+  "山田照明": {
+    "makername": "yamada",
+    "methodname": "yamada"
+  },
+  "東レインターナショナル": {
+    "makername": "TORAY",
+    "methodname": "toray"
+  },
+  "小林鉄工所": {
+    "makername": "小林鉄工所"
+  },
+  "トーホー": {
+    "makername": "JESTTAX"
+  },
+  "fellows": {
+    "makername": "Fellows",
+    "methodname": "fellows"
+  },
+  "オーニット": {
+    "makername": "オーニット"
+  },
+  "タニカ電器": {
+    "makername": "タニカ電器"
+  },
+  "アズスタイル": {
+    "makername": "アズスタイル"
+  },
+  "outdoor tech": {
+    "makername": "Outdoor Tech"
+  },
+  "ミネックスメタル": {
+    "makername": "ミネックスメタル"
+  },
+  "旭東": {
+    "makername": "旭東"
+  },
+  "ワキ": {
+    "makername": "ワキ"
+  },
+  "三菱重工業": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "カクダイ": {
+    "makername": "カクダイ"
+  },
+  "シマノ": {
+    "makername": "シマノ"
+  },
+  "ケンコー": {
+    "makername": "Kenko Tokina",
+    "methodname": "kenko_tokina"
+  },
+  "クールリバー": {
+    "makername": "クールリバー"
+  },
+  "ドレメル": {
+    "makername": "ドレメル"
+  },
+  "東洋アルミエコープロダクツ": {
+    "makername": "東洋アルミエコープロダクツ"
+  },
+  "ラムマウント": {
+    "makername": "ラムマウント"
+  },
+  "フォスター電機": {
+    "makername": "フォスター電機"
+  },
+  "kyocera": {
+    "makername": "KYOCERA"
+  },
+  "ヒビノ": {
+    "makername": "ヒビノ"
+  },
+  "宮崎製作所": {
+    "makername": "宮崎製作所"
+  },
+  "神沢": {
+    "makername": "神沢鉄工"
+  },
+  "小泉成器": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "otas": {
+    "makername": "OTAS"
+  },
+  "logicool": {
+    "makername": "logicool"
+  },
+  "ワイズ": {
+    "makername": "ワイズ"
+  },
+  "メディアクラフト": {
+    "makername": "メディアクラフト"
+  },
+  "ボーマ": {
+    "makername": "ボーマ"
+  },
+  "daikin": {
+    "makername": "DAIKIN",
+    "methodname": "daikin"
+  },
+  "イトーヨーカ堂": {
+    "makername": "イトーヨーカ堂"
+  },
+  "マークスインターナショナル": {
+    "makername": "マークス"
+  },
+  "高木金属工業": {
+    "makername": "高木金属工業"
+  },
+  "イーライフ": {
+    "makername": "イーライフ"
+  },
+  "コイズミ": {
+    "makername": "KOIZUMI",
+    "methodname": "koizumi"
+  },
+  "マイルストーン": {
+    "makername": "マイルストーン"
+  },
+  "インダストリーコーワ": {
+    "makername": "インダストリーコーワ"
+  },
+  "cellular line": {
+    "makername": "cellular line"
+  },
+  "リバティ": {
+    "makername": "リバティ"
+  },
+  "吉田食品工業": {
+    "makername": "吉田食品工業"
+  },
+  "フジカ": {
+    "makername": "フジカ"
+  },
+  "テンヨー": {
+    "makername": "テンヨー"
+  },
+  "エムケイエンタプライズ": {
+    "makername": "エムケイエンタプライズ"
+  },
+  "マキタ電動工具": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "新協和産業": {
+    "makername": "新協和産業"
+  },
+  "エストゥエス": {
+    "makername": "エストゥエス"
+  },
+  "sho-bi": {
+    "makername": "SHO-BI"
+  },
+  "日本綿棒": {
+    "makername": "日本綿棒"
+  },
+  "ホルベイン画材": {
+    "makername": "ホルベイン画材"
+  },
+  "トリニティ": {
+    "makername": "トリニティ"
+  },
+  "サンダイヤ": {
+    "makername": "サンダイヤ"
+  },
+  "h2 life": {
+    "makername": "H2 LIFE"
+  },
+  "リョービ": {
+    "makername": "RYOBI",
+    "methodname": "ryobi"
+  },
+  "ビクセン": {
+    "makername": "Vixen",
+    "methodname": "vixen"
+  },
+  "アコースティックリバイブ": {
+    "makername": "アコースティックリバイブ"
+  },
+  "バーコ": {
+    "makername": "バーコ"
+  },
+  "銀鳥産業": {
+    "makername": "銀鳥産業"
+  },
+  "林工芸": {
+    "makername": "林工芸"
+  },
+  "モービルネット": {
+    "makername": "モービルネット"
+  },
+  "琳聡堂": {
+    "makername": "琳聡堂"
+  },
+  "山二": {
+    "makername": "山二"
+  },
+  "吉井電気": {
+    "makername": "吉井電気"
+  },
+  "エツミ": {
+    "makername": "エツミ"
+  },
+  "cleair": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "コレガ": {
+    "makername": "コレガ"
+  },
+  "クリヤマ": {
+    "makername": "クリヤマ"
+  },
+  "メディコム・トイ": {
+    "makername": "メディコム・トイ"
+  },
+  "ニッシンジャパン": {
+    "makername": "ニッシンジャパン"
+  },
+  "花皇": {
+    "makername": "花皇"
+  },
+  "rm co, ltd,.": {
+    "makername": "アール・エム"
+  },
+  "mis": {
+    "makername": "MIS"
+  },
+  "ピーシーあきんど": {
+    "makername": "ピーシーあきんど"
+  },
+  "朝日電器": {
+    "makername": "ELPA",
+    "methodname": "elpa"
+  },
+  "ユニバーサルシステムズ": {
+    "makername": "ユニバーサルシステムズ"
+  },
+  "日本ケミコス": {
+    "makername": "日本ケミコス"
+  },
+  "ガードフォースジャパン": {
+    "makername": "ガードフォースジャパン"
+  },
+  "和泉屋": {
+    "makername": "和泉屋"
+  },
+  "ディシジョン": {
+    "makername": "ディシジョン"
+  },
+  "新進商会": {
+    "makername": "新進商会"
+  },
+  "tribeca": {
+    "makername": "Tribeca"
+  },
+  "xledia": {
+    "makername": "XLEDIA"
+  },
+  "サンハヤト": {
+    "makername": "サンハヤト"
+  },
+  "necパーソナルコンピュータ": {
+    "makername": "NEC",
+    "methodname": "nec"
+  },
+  "三菱アルミニウム": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "venta": {
+    "makername": "Venta"
+  },
+  "オリンパス": {
+    "makername": "OLYMPUS",
+    "methodname": "olympus"
+  },
+  "日立マクセル": {
+    "makername": "maxell"
+  },
+  "オーデリック": {
+    "makername": "ODELIC"
+  },
+  "ケーメディヤ販売": {
+    "makername": "ケーメディヤ"
+  },
+  "gibson": {
+    "makername": "Gibson"
+  },
+  "クロバー": {
+    "makername": "クロバー"
+  },
+  "クオカプランニング": {
+    "makername": "クオカプランニング"
+  },
+  "ネスター": {
+    "makername": "ネスター"
+  },
+  "アイネックス": {
+    "makername": "アイネックス"
+  },
+  "grado": {
+    "makername": "GRADO"
+  },
+  "クラフトワーク": {
+    "makername": "クラフトワーク"
+  },
+  "xtrememac": {
+    "makername": "XtremeMac"
+  },
+  "thermarest": {
+    "makername": "Thermarest"
+  },
+  "木曽工芸": {
+    "makername": "木曽工芸"
+  },
+  "和コーポレーション": {
+    "makername": "和コーポレーション"
+  },
+  "yamazen": {
+    "makername": "YAMAZEN",
+    "methodname": "yamazen"
+  },
+  "carbon audio": {
+    "makername": "Carbon Audio"
+  },
+  "リンレイ": {
+    "makername": "リンレイ"
+  },
+  "キントー": {
+    "makername": "キントー"
+  },
+  "エプソン販売": {
+    "makername": "EPSON",
+    "methodname": "epson"
+  },
+  "モニターオーディオ": {
+    "makername": "Monitor Audio"
+  },
+  "富士通アイソテック": {
+    "makername": "富士通アイソテック"
+  },
+  "河合楽器製作所": {
+    "makername": "河合楽器製作所"
+  },
+  "イーサプライズ": {
+    "makername": "イーサプライズ"
+  },
+  "ワキタ": {
+    "makername": "ワキタ"
+  },
+  "泉": {
+    "makername": "泉"
+  },
+  "pga": {
+    "makername": "PGA"
+  },
+  "創和": {
+    "makername": "創和"
+  },
+  "山研工業": {
+    "makername": "山研工業"
+  },
+  "ツインバード工業": {
+    "makername": "TWINBIRD",
+    "methodname": "twinbird"
+  },
+  "ブロードウォッチ": {
+    "makername": "ブロードウォッチ"
+  },
+  "ティファール": {
+    "makername": "T-fal"
+  },
+  "太洋電機産業": {
+    "makername": "太洋電機産業"
+  },
+  "ピュアリビング": {
+    "makername": "ピュアリビング"
+  },
+  "テクソル": {
+    "makername": "テクソル"
+  },
+  "プレーリードッグ": {
+    "makername": "プレーリードッグ"
+  },
+  "イトー": {
+    "makername": "イトー"
+  },
+  "ポッシュフェイス": {
+    "makername": "ポッシュフェイス"
+  },
+  "global・dc": {
+    "makername": "GLOBAL・DC"
+  },
+  "バイリーンクリエイト": {
+    "makername": "バイリーンクリエイト"
+  },
+  "ナカムラ": {
+    "makername": "ナカムラ"
+  },
+  "エンペックス": {
+    "makername": "EMPEX"
+  },
+  "fitbit": {
+    "makername": "Fitbit"
+  },
+  "odelic": {
+    "makername": "ODELIC"
+  },
+  "勝山": {
+    "makername": "勝山"
+  },
+  "渡久クリエイト": {
+    "makername": "渡久クリエイト"
+  },
+  "electricalland": {
+    "makername": "ElectricalLand"
+  },
+  "r.w.c": {
+    "makername": "R.W.C"
+  },
+  "ペガサスキャンドル": {
+    "makername": "ペガサスキャンドル"
+  },
+  "ihome": {
+    "makername": "iHOME"
+  },
+  "セイワ・プロ": {
+    "makername": "セイワ・プロ"
+  },
+  "クレトム": {
+    "makername": "クレトム"
+  },
+  "シック・ジャパン": {
+    "makername": "シック・ジャパン"
+  },
+  "明治": {
+    "makername": "明治"
+  },
+  "アサヒペン": {
+    "makername": "アサヒペン"
+  },
+  "ネスプレッソ": {
+    "makername": "ネスレ"
+  },
+  "サンフラッグ": {
+    "makername": "SUNFLAG"
+  },
+  "ヤスダ通商": {
+    "makername": "ヤスダ通商"
+  },
+  "ニプロ": {
+    "makername": "ニプロ"
+  },
+  "ktc": {
+    "makername": "KTC"
+  },
+  "日光トレーディング": {
+    "makername": "日光トレーディング"
+  },
+  "oppo": {
+    "makername": "OPPO Digital"
+  },
+  "マルウ海野商店": {
+    "makername": "マルウ海野商店"
+  },
+  "t-fal": {
+    "makername": "T-fal"
+  },
+  "新津興器": {
+    "makername": "新津興器"
+  },
+  "tome": {
+    "makername": "TOME"
+  },
+  "オリンパスイメージング": {
+    "makername": "OLYMPUS",
+    "methodname": "olympus"
+  },
+  "リアルシステム": {
+    "makername": "リアルシステム"
+  },
+  "クイジナートハンドミキサー 9段階切替 cuisinart hm-90s 【並行輸入】": {
+    "makername": "Cuisinart",
+    "methodname": "cuisinart"
+  },
+  "ダイニチ": {
+    "makername": "DAINICHI",
+    "methodname": "dainichi"
+  },
+  "とうしょう": {
+    "makername": "とうしょう"
+  },
+  "bnb": {
+    "makername": "bnb"
+  },
+  "デバイスタイルホールディングス": {
+    "makername": "deviceSTYLE"
+  },
+  "phonic": {
+    "makername": "PHONIC"
+  },
+  "タッチパネル・システムズ": {
+    "makername": "タッチパネル・システムズ"
+  },
+  "サイテック": {
+    "makername": "サイテック"
+  },
+  "サンパック": {
+    "makername": "サンパック"
+  },
+  "日本瓦斯": {
+    "makername": "日本瓦斯"
+  },
+  "エアージェイ": {
+    "makername": "エアージェイ"
+  },
+  "デル": {
+    "makername": "DELL"
+  },
+  "美貴本": {
+    "makername": "美貴本"
+  },
+  "ハホニコ": {
+    "makername": "ハホニコ"
+  },
+  "イーグルジャパン": {
+    "makername": "イーグルジャパン"
+  },
+  "tjc": {
+    "makername": "TJC"
+  },
+  "dretec": {
+    "makername": "dretec",
+    "methodname": "dretec"
+  },
+  "ntt西日本": {
+    "makername": "NTT"
+  },
+  "ビューティフルエンジェル": {
+    "makername": "ビューティフルエンジェル"
+  },
+  "レキットベンキーザー・ジャパン": {
+    "makername": "レキットベンキーザー・ジャパン"
+  },
+  "シアターハウス": {
+    "makername": "シアターハウス"
+  },
+  "紀州物産": {
+    "makername": "紀州物産"
+  },
+  "m.mowbray prestigio": {
+    "makername": "M.Mowbray"
+  },
+  "t&t corporation": {
+    "makername": "T&T CORPORATION"
+  },
+  "協立工芸": {
+    "makername": "協立工芸"
+  },
+  "albedo": {
+    "makername": "ALBEDO"
+  },
+  "shuoing digital scienc co,ltd": {
+    "makername": "Shuoing Digital Scienc Co,Ltd"
+  },
+  "ibeda-chemie": {
+    "makername": "IBEDA-CHEMIE"
+  },
+  "le klint": {
+    "makername": "LE KLINT"
+  },
+  "アキバストック": {
+    "makername": "アキバストック"
+  },
+  "ダンロップホームプロダクツ": {
+    "makername": "ダンロップホームプロダクツ"
+  },
+  "イトウ": {
+    "makername": "イトウ"
+  },
+  "アズマ工業": {
+    "makername": "アズマ工業"
+  },
+  "コクヨs&t": {
+    "makername": "コクヨS&T"
+  },
+  "フックアップ": {
+    "makername": "フックアップ"
+  },
+  "cs": {
+    "makername": "CS"
+  },
+  "ガストーン": {
+    "makername": "ガストーン"
+  },
+  "コルグ": {
+    "makername": "コルグ"
+  },
+  "アサヒ": {
+    "makername": "アサヒ"
+  },
+  "テレホンリース": {
+    "makername": "テレホンリース"
+  },
+  "アキュヴァンス": {
+    "makername": "アキュヴァンス"
+  },
+  "speck products": {
+    "makername": "Speck Products"
+  },
+  "末広": {
+    "makername": "末広"
+  },
+  "costel japan": {
+    "makername": "COSTEL JAPAN"
+  },
+  "ケィ・マック": {
+    "makername": "ケィ・マック"
+  },
+  "シー・エフ・デー": {
+    "makername": "シー・エフ・デー"
+  },
+  "amiインターナショナル": {
+    "makername": "AMIインターナショナル"
+  },
+  "rha": {
+    "makername": "RHA"
+  },
+  "c & m audio": {
+    "makername": "C & M AUDIO"
+  },
+  "toshiba": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "sudio": {
+    "makername": "Sudio"
+  },
+  "バクマ工業": {
+    "makername": "バクマ工業"
+  },
+  "ダイニチ電子": {
+    "makername": "ダイニチ電子"
+  },
+  "セイコーインスツル": {
+    "makername": "SEIKO"
+  },
+  "リンケージ": {
+    "makername": "リンケージ"
+  },
+  "来夢": {
+    "makername": "来夢"
+  },
+  "東和産業": {
+    "makername": "東和産業"
+  },
+  "dainichi": {
+    "makername": "DAINICHI",
+    "methodname": "dainichi"
+  },
+  "ニューレジストン": {
+    "makername": "ニューレジストン"
+  },
+  "瑞光メディカル": {
+    "makername": "瑞光メディカル"
+  },
+  "日本エイサー": {
+    "makername": "Acer"
+  },
+  "クレイツ": {
+    "makername": "クレイツ"
+  },
+  "ブロニカ": {
+    "makername": "ブロニカ"
+  },
+  "ジー・ディー商事": {
+    "makername": "ジー・ディー商事"
+  },
+  "ベストキャリー": {
+    "makername": "ベストキャリー"
+  },
+  "e-chance": {
+    "makername": "e-chance"
+  },
+  "シェルタートレーディング": {
+    "makername": "シェルタートレーディング"
+  },
+  "ロイヤル通販": {
+    "makername": "ロイヤル通販"
+  },
+  "名優": {
+    "makername": "名優"
+  },
+  "サントラスト": {
+    "makername": "サントラスト"
+  },
+  "スイデン": {
+    "makername": "Suiden",
+    "methodname": "suiden"
+  },
+  "インガソール・ランド": {
+    "makername": "インガソール・ランド"
+  },
+  "トヨタミシン": {
+    "makername": "AISIN",
+    "methodname": "aisin"
+  },
+  "heatec": {
+    "makername": "HEATEC"
+  },
+  "bone collection": {
+    "makername": "Bone Collection"
+  },
+  "恵安": {
+    "makername": "KEIAN",
+    "methodname": "keian"
+  },
+  "アキレス": {
+    "makername": "Achilles"
+  },
+  "モトユキ": {
+    "makername": "モトユキ"
+  },
+  "オズマ": {
+    "makername": "オズマ"
+  },
+  "misaki": {
+    "makername": "MISAKI"
+  },
+  "フラックス": {
+    "makername": "フラックス"
+  },
+  "富士通ビー・エス・シー": {
+    "makername": "富士通ビー・エス・シー"
+  },
+  "ジーマックス": {
+    "makername": "ジーマックス"
+  },
+  "エムシービケン": {
+    "makername": "エムシービケン"
+  },
+  "日本エー・アイ・シー": {
+    "makername": "Aladdin",
+    "methodname": "aic"
+  },
+  "オンキヨー": {
+    "makername": "ONKYO",
+    "methodname": "onkyo"
+  },
+  "celestron": {
+    "makername": "Celestron"
+  },
+  "アイメックスコンサルティングデビジョン": {
+    "makername": "アイメックスコンサルティングデビジョン"
+  },
+  "東芝ライテック": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "東邦商会": {
+    "makername": "東邦商会"
+  },
+  "浅子長吉商店": {
+    "makername": "浅子長吉商店"
+  },
+  "canon": {
+    "makername": "Canon",
+    "methodname": "canon"
+  },
+  "エー・フリーク": {
+    "makername": "エー・フリーク"
+  },
+  "東北環境": {
+    "makername": "東北環境"
+  },
+  "ホーザン": {
+    "makername": "ホーザン"
+  },
+  "ポーカロ・ライン": {
+    "makername": "ポーカロ・ライン"
+  },
+  "ラッセルホブス": {
+    "makername": "Russell Hobbs"
+  },
+  "フルテック": {
+    "makername": "フルテック"
+  },
+  "メモリー電子": {
+    "makername": "メモリー電子"
+  },
+  "モーザーベア": {
+    "makername": "Moser Baer"
+  },
+  "jabra": {
+    "makername": "Jabra"
+  },
+  "ティー・エム・ワイ": {
+    "makername": "ティー・エム・ワイ"
+  },
+  "三協": {
+    "makername": "三協"
+  },
+  "トータル・アイ": {
+    "makername": "トータル・アイ"
+  },
+  "大東電機工業": {
+    "makername": "THRIVE",
+    "methodname": "thrive"
+  },
+  "滝口木材": {
+    "makername": "滝口木材"
+  },
+  "カシオ計算機": {
+    "makername": "CASIO",
+    "methodname": "casio"
+  },
+  "新光金属": {
+    "makername": "新光金属"
+  },
+  "ケンコーコム": {
+    "makername": "ケンコーコム"
+  },
+  "hitec": {
+    "makername": "HITEC",
+    "methodname": "hitec"
+  },
+  "comply tm": {
+    "makername": "Comply"
+  },
+  "ゴールデンダンス": {
+    "makername": "ゴールデンダンス"
+  },
+  "ハイウィル": {
+    "makername": "ハイウィル"
+  },
+  "永倉食品": {
+    "makername": "永倉食品"
+  },
+  "日新商事": {
+    "makername": "日新商事"
+  },
+  "praxi": {
+    "makername": "Praxi"
+  },
+  "ライト精機": {
+    "makername": "ライト精機"
+  },
+  "ハタ鉱泉": {
+    "makername": "ハタ鉱泉"
+  },
+  "トライウイン": {
+    "makername": "トライウイン"
+  },
+  "アイビーエム": {
+    "makername": "IBM"
+  },
+  "プラスビジョン": {
+    "makername": "プラスビジョン"
+  },
+  "gクラッセ": {
+    "makername": "Gクラッセ"
+  },
+  "ホリスティックホールディングス": {
+    "makername": "ホリスティックホールディングス"
+  },
+  "ダイワボウ情報システム": {
+    "makername": "ダイワボウ情報システム"
+  },
+  "keian": {
+    "makername": "KEIAN",
+    "methodname": "keian"
+  },
+  "中尾園茶舗": {
+    "makername": "中尾園茶舗"
+  },
+  "ブランディングジャパン": {
+    "makername": "ブランディングジャパン"
+  },
+  "プラタ": {
+    "makername": "プラタ"
+  },
+  "ダイアン・サービス": {
+    "makername": "ダイアン・サービス"
+  },
+  "オンキヨー&パイオニアイノベーションズ": {
+    "makername": "ONKYO",
+    "methodname": "onkyo"
+  },
+  "ヒルトップ": {
+    "makername": "ヒルトップ"
+  },
+  "necカシオモバイルコミュニケーションズ": {
+    "makername": "NEC",
+    "methodname": "nec"
+  },
+  "アイリスオーヤマ": {
+    "makername": "IRIS OHYAMA",
+    "methodname": "irisohyama"
+  },
+  "富士電線工業": {
+    "makername": "富士電線工業"
+  },
+  "石塚硝子": {
+    "makername": "石塚硝子"
+  },
+  "三和金属": {
+    "makername": "三和"
+  },
+  "allgo": {
+    "makername": "ALLGO",
+    "methodname": "allgo"
+  },
+  "シーエーアイ": {
+    "makername": "シーエーアイ"
+  },
+  "三菱化学": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "アクセス": {
+    "makername": "アクセス"
+  },
+  "大槻豆腐店": {
+    "makername": "大槻豆腐店"
+  },
+  "マークス": {
+    "makername": "マークス"
+  },
+  "green house": {
+    "makername": "GREEN HOUSE",
+    "methodname": "green_house"
+  },
+  "シー・シー・ピー": {
+    "makername": "CCP",
+    "methodname": "ccp"
+  },
+  "プランニングdo": {
+    "makername": "プランニングDO"
+  },
+  "三和製作所": {
+    "makername": "三和"
+  },
+  "山陽精工": {
+    "makername": "山陽精工"
+  },
+  "ゴイチ": {
+    "makername": "ゴイチ"
+  },
+  "アップル": {
+    "makername": "Apple"
+  },
+  "日の丸食品工業": {
+    "makername": "日の丸食品工業"
+  },
+  "ニッチ": {
+    "makername": "ニッチ"
+  },
+  "東和電子": {
+    "makername": "東和電子"
+  },
+  "lexmark": {
+    "makername": "Lexmark"
+  },
+  "興和新薬": {
+    "makername": "興和新薬"
+  },
+  "エクセレントメディカル": {
+    "makername": "エクセレントメディカル"
+  },
+  "アーウィンジャパン": {
+    "makername": "アーウィン"
+  },
+  "sol republic": {
+    "makername": "Sol Republic"
+  },
+  "完実電気": {
+    "makername": "完実電気"
+  },
+  "nespresso": {
+    "makername": "ネスレ"
+  },
+  "gais": {
+    "makername": "GAIS"
+  },
+  "内外金物": {
+    "makername": "内外金物"
+  },
+  "ジューキ": {
+    "makername": "ジューキ"
+  },
+  "エコ・クリーン": {
+    "makername": "エコ・クリーン"
+  },
+  "スペック": {
+    "makername": "スペック"
+  },
+  "lep international": {
+    "makername": "LEP INTERNATIONAL"
+  },
+  "新亀製作所": {
+    "makername": "SUNFLAG"
+  },
+  "オルトフォンジャパン": {
+    "makername": "ortofon"
+  },
+  "日理": {
+    "makername": "日理"
+  },
+  "cerwin-vega": {
+    "makername": "CERWIN-VEGA"
+  },
+  "紀陽除虫菊": {
+    "makername": "紀陽除虫菊"
+  },
+  "ミネルジャパン": {
+    "makername": "ミネルジャパン"
+  },
+  "apogee": {
+    "makername": "Apogee"
+  },
+  "エネター": {
+    "makername": "エネター"
+  },
+  "アクシスコミュニケーションズ": {
+    "makername": "アクシスコミュニケーションズ"
+  },
+  "谷村実業": {
+    "makername": "谷村実業"
+  },
+  "ソリッド": {
+    "makername": "ソリッド"
+  },
+  "山岡金属工業": {
+    "makername": "山岡金属工業"
+  },
+  "ナスペック": {
+    "makername": "ナスペック"
+  },
+  "いいよねっと": {
+    "makername": "いいよねっと"
+  },
+  "miele": {
+    "makername": "Miele"
+  },
+  "ヤマハモーターパワープロダクツ": {
+    "makername": "ヤマハモーターパワープロダクツ"
+  },
+  "石崎電機製作所": {
+    "makername": "石崎電機製作所"
+  },
+  "レイメイ藤井": {
+    "makername": "レイメイ藤井"
+  },
+  "スタンダード": {
+    "makername": "スタンダード"
+  },
+  "エレス": {
+    "makername": "エレス"
+  },
+  "auc sale": {
+    "makername": "Auc Sale",
+    "methodname": "aucsale"
+  },
+  "fujifilm": {
+    "makername": "FUJIFILM",
+    "methodname": "fujifilm"
+  },
+  "アイ・オー・データ機器": {
+    "makername": "I.O DATA",
+    "methodname": "iodata"
+  },
+  "ニシトモ": {
+    "makername": "ニシトモ"
+  },
+  "x-rite": {
+    "makername": "X-Rite"
+  },
+  "ラブロス": {
+    "makername": "ラブロス"
+  },
+  "遊気創健美倶楽部": {
+    "makername": "遊気創健美倶楽部"
+  },
+  "メイダイ": {
+    "makername": "メイダイ"
+  },
+  "高敏": {
+    "makername": "高敏"
+  },
+  "フィフティスクエア": {
+    "makername": "フィフティスクエア"
+  },
+  "beyond": {
+    "makername": "BEYOND"
+  },
+  "栗山米菓": {
+    "makername": "栗山米菓"
+  },
+  "ロジテック": {
+    "makername": "Logitec",
+    "methodname": "logitec"
+  },
+  "jvc kenwood": {
+    "makername": "JVC KENWOOD",
+    "methodname": "jvc_kenwood"
+  },
+  "ニチネン": {
+    "makername": "ニチネン"
+  },
+  "アイ・オー・データ": {
+    "makername": "I.O DATA",
+    "methodname": "iodata"
+  },
+  "平成": {
+    "makername": "平成"
+  },
+  "フェザー安全剃刀": {
+    "makername": "フェザー安全剃刀"
+  },
+  "山下工業研究所": {
+    "makername": "山下工業研究所"
+  },
+  "遠藤金属工業": {
+    "makername": "ディクラッセ"
+  },
+  "山本電気": {
+    "makername": "YDK",
+    "methodname": "ydk"
+  },
+  "広電": {
+    "makername": "KODEN"
+  },
+  "ohm": {
+    "makername": "OHM",
+    "methodname": "ohm"
+  },
+  "アヴィニティ": {
+    "makername": "アヴィニティ"
+  },
+  "tanita": {
+    "makername": "TANITA",
+    "methodname": "tanita"
+  },
+  "矢嶋屋": {
+    "makername": "矢嶋屋"
+  },
+  "日立工機": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "エイトワン": {
+    "makername": "エイトワン"
+  },
+  "ユニテク": {
+    "makername": "ユニテク"
+  },
+  "鯛勝産業": {
+    "makername": "鯛勝産業"
+  },
+  "フレイムス": {
+    "makername": "フレイムス"
+  },
+  "kashimura": {
+    "makername": "Kashimura",
+    "methodname": "kashimura"
+  },
+  "acer": {
+    "makername": "Acer"
+  },
+  "olympus": {
+    "makername": "OLYMPUS",
+    "methodname": "olympus"
+  },
+  "ファイナルオーディオデザイン事務所": {
+    "makername": "Final Audio Design"
+  },
+  "m.mowbray": {
+    "makername": "M.Mowbray"
+  },
+  "elite screens": {
+    "makername": "Elite Screens"
+  },
+  "神田無線電機": {
+    "makername": "神田無線電機"
+  },
+  "alphamega": {
+    "makername": "AlphaMega"
+  },
+  "シンセイコーポレーション": {
+    "makername": "シンセイ"
+  },
+  "富士通テン": {
+    "makername": "富士通テン",
+    "methodname": "fujitsu_ten"
+  },
+  "東亜金属": {
+    "makername": "東亜金属"
+  },
+  "髙儀": {
+    "makername": "高儀"
+  },
+  "abitax": {
+    "makername": "ABITAX"
+  },
+  "後藤": {
+    "makername": "後藤"
+  },
+  "谷海苔店": {
+    "makername": "谷海苔店"
+  },
+  "スリー・アールシステム": {
+    "makername": "スリー・アールシステム"
+  },
+  "ケーブイケー": {
+    "makername": "KVK"
+  },
+  "インターフェスト": {
+    "makername": "インターフェスト"
+  },
+  "ハッピージャパン": {
+    "makername": "ハッピージャパン"
+  },
+  "東芝ライフスタイル": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "ノボフレックス": {
+    "makername": "ノボフレックス"
+  },
+  "ソニーマーケティング": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "カノー": {
+    "makername": "カノー"
+  },
+  "maxell": {
+    "makername": "maxell"
+  },
+  "吉崎木製工業": {
+    "makername": "吉崎木製工業"
+  },
+  "ネスカフェ": {
+    "makername": "ネスレ"
+  },
+  "イッセイ工業": {
+    "makername": "イッセイ工業"
+  },
+  "三徳水産": {
+    "makername": "三徳水産"
+  },
+  "モダンソリッド": {
+    "makername": "モダンソリッド"
+  },
+  "山佐時計計器": {
+    "makername": "山佐時計計器"
+  },
+  "アップマート": {
+    "makername": "アップマート"
+  },
+  "富士フイルム": {
+    "makername": "FUJIFILM",
+    "methodname": "fujifilm"
+  },
+  "東京企画販売": {
+    "makername": "東京企画"
+  },
+  "フソー化成": {
+    "makername": "フソー化成"
+  },
+  "清水電機工業": {
+    "makername": "清水電機工業"
+  },
+  "大洋水産": {
+    "makername": "大洋水産"
+  },
+  "丸山製作所": {
+    "makername": "丸山製作所"
+  },
+  "直村企画": {
+    "makername": "直村企画"
+  },
+  "harman": {
+    "makername": "HARMAN",
+    "methodname": "harman"
+  },
+  "ボザール": {
+    "makername": "ボザール"
+  },
+  "竹原製罐": {
+    "makername": "竹原製罐"
+  },
+  "ネットギア": {
+    "makername": "ネットギア"
+  },
+  "kvk": {
+    "makername": "KVK"
+  },
+  "柳瀬": {
+    "makername": "柳瀬"
+  },
+  "パパジーノ": {
+    "makername": "パパジーノ"
+  },
+  "ヒビノインターサウンド": {
+    "makername": "ヒビノインターサウンド"
+  },
+  "brita japan": {
+    "makername": "Brita"
+  },
+  "サーモス": {
+    "makername": "サーモス"
+  },
+  "エコバックスジャパン": {
+    "makername": "エコバックスジャパン"
+  },
+  "monoprice": {
+    "makername": "Monoprice"
+  },
+  "thorens": {
+    "makername": "THORENS"
+  },
+  "エビス": {
+    "makername": "エビス"
+  },
+  "エスカート": {
+    "makername": "エスカート"
+  },
+  "アンジュエール": {
+    "makername": "アンジュエール"
+  },
+  "ベルソス": {
+    "makername": "ベルソス"
+  },
+  "スペックコンピュータ": {
+    "makername": "スペックコンピュータ"
+  },
+  "qlix": {
+    "makername": "Qlix"
+  },
+  "マミヤ・デジタル・イメージング": {
+    "makername": "マミヤ・デジタル・イメージング"
+  },
+  "ジュエ": {
+    "makername": "ジュエ"
+  },
+  "クイジナートサンエイ": {
+    "makername": "Cuisinart",
+    "methodname": "cuisinart"
+  },
+  "cavジャパン": {
+    "makername": "CAVジャパン"
+  },
+  "宮地商会": {
+    "makername": "宮地商会"
+  },
+  "ケーメディヤ": {
+    "makername": "ケーメディヤ"
+  },
+  "日興ファインズ工業": {
+    "makername": "日興ファインズ工業"
+  },
+  "tdk": {
+    "makername": "TDK",
+    "methodname": "tdk"
+  },
+  "アドテック": {
+    "makername": "アドテック"
+  },
+  "アルケア": {
+    "makername": "アルケア"
+  },
+  "ハニー": {
+    "makername": "ハニー"
+  },
+  "県央貿易": {
+    "makername": "県央貿易"
+  },
+  "アーネスト": {
+    "makername": "アーネスト"
+  },
+  "カールツァイス": {
+    "makername": "カールツァイス"
+  },
+  "スリーエッチ": {
+    "makername": "スリーエッチ"
+  },
+  "ヤマコー": {
+    "makername": "ヤマコー"
+  },
+  "伊勢藤": {
+    "makername": "伊勢藤"
+  },
+  "アクアシステム": {
+    "makername": "アクアシステム"
+  },
+  "yazawa": {
+    "makername": "YAZAWA",
+    "methodname": "yazawa"
+  },
+  "シンワ工業": {
+    "makername": "シンワ工業"
+  },
+  "バイオスケール": {
+    "makername": "バイオスケール"
+  },
+  "ビッグウイング": {
+    "makername": "ビッグウイング"
+  },
+  "田中文金属": {
+    "makername": "田中文金属"
+  },
+  "ブラザー工業": {
+    "makername": "brother",
+    "methodname": "brother"
+  },
+  "elmo": {
+    "makername": "ELMO"
+  },
+  "コロナ": {
+    "makername": "コロナ",
+    "methodname": "corona"
+  },
+  "多摩電子工業": {
+    "makername": "多摩電子工業"
+  },
+  "シースター": {
+    "makername": "シースター"
+  },
+  "dee": {
+    "makername": "DEE"
+  },
+  "東洋リビング": {
+    "makername": "TOYO LIVING",
+    "methodname": "toyoliving"
+  },
+  "ビリープ": {
+    "makername": "ビリープ"
+  },
+  "テクレッドジャパン": {
+    "makername": "テクレッドジャパン"
+  },
+  "海信日本": {
+    "makername": "海信日本"
+  },
+  "アペリアフューズ": {
+    "makername": "アペリアフューズ"
+  },
+  "パロット": {
+    "makername": "パロット"
+  },
+  "新越金網": {
+    "makername": "新越金網"
+  },
+  "アレクソン": {
+    "makername": "アレクソン"
+  },
+  "jbアドバンスト・テクノロジー": {
+    "makername": "JBアドバンスト・テクノロジー"
+  },
+  "須恵廣工業": {
+    "makername": "須恵廣工業"
+  },
+  "karcher": {
+    "makername": "KARCHER",
+    "methodname": "karcher"
+  },
+  "クックパッドベビー": {
+    "makername": "クックパッドベビー"
+  },
+  "アンティバックジャパン": {
+    "makername": "アンティバックジャパン"
+  },
+  "早川バルブ製作所": {
+    "makername": "早川バルブ製作所"
+  },
+  "三宝商事": {
+    "makername": "三宝"
+  },
+  "ウェブクルーエージェンシー": {
+    "makername": "ウェブクルーエージェンシー"
+  },
+  "silver creation international": {
+    "makername": "Silver Creation International"
+  },
+  "bosch": {
+    "makername": "BOSCH",
+    "methodname": "bosch"
+  },
+  "前田シェルサービス": {
+    "makername": "前田シェルサービス"
+  },
+  "日本炭酸瓦斯": {
+    "makername": "日本炭酸瓦斯"
+  },
+  "raycop": {
+    "makername": "raycop",
+    "methodname": "raycop"
+  },
+  "ユーイング": {
+    "makername": "ユーイング",
+    "methodname": "uing"
+  },
+  "rec-mounts": {
+    "makername": "REC-MOUNTS"
+  },
+  "interform": {
+    "makername": "INTERFORM"
+  },
+  "ear technology社": {
+    "makername": "Ear Technology"
+  },
+  "ソリッドアライアンス": {
+    "makername": "ソリッドアライアンス"
+  },
+  "平野商店": {
+    "makername": "平野商店"
+  },
+  "タカショー": {
+    "makername": "タカショー"
+  },
+  "丸福商会": {
+    "makername": "丸福商会"
+  },
+  "パール通商": {
+    "makername": "パール通商"
+  },
+  "rise": {
+    "makername": "Rise"
+  },
+  "スター精密": {
+    "makername": "スター精密"
+  },
+  "ジェイテクノ": {
+    "makername": "ジェイテクノ"
+  },
+  "ダイソン": {
+    "makername": "dyson",
+    "methodname": "dyson"
+  },
+  "hp": {
+    "makername": "HP"
+  },
+  "アユート": {
+    "makername": "アユート"
+  },
+  "zionote": {
+    "makername": "zionote"
+  },
+  "スタジオ・エヌ": {
+    "makername": "スタジオ・エヌ"
+  },
+  "任天堂": {
+    "makername": "任天堂"
+  },
+  "ポップリベット・ファスナー": {
+    "makername": "ポップリベット・ファスナー"
+  },
+  "ノーブル": {
+    "makername": "ノーブル"
+  },
+  "ydk": {
+    "makername": "YDK",
+    "methodname": "ydk"
+  },
+  "磁気研究所": {
+    "makername": "MAG-LAB"
+  },
+  "東京興電": {
+    "makername": "東京興電"
+  },
+  "thrive": {
+    "makername": "THRIVE",
+    "methodname": "thrive"
+  },
+  "karen hurom japan": {
+    "makername": "KAREN HUROM JAPAN"
+  },
+  "コニカミノルタビジネスソリューションズ": {
+    "makername": "コニカミノルタ"
+  },
+  "長谷川電機": {
+    "makername": "長谷川電機"
+  },
+  "ヤシカ": {
+    "makername": "YASHICA"
+  },
+  "ヘルメット潜水": {
+    "makername": "ヘルメット潜水"
+  },
+  "ホーチキ": {
+    "makername": "ホーチキ"
+  },
+  "idex": {
+    "makername": "IDEX"
+  },
+  "未来工業": {
+    "makername": "未来工業"
+  },
+  "ピーコック魔法瓶工業": {
+    "makername": "ピーコック魔法瓶工業"
+  },
+  "acデルコ": {
+    "makername": "ACデルコ"
+  },
+  "unika ユニカ": {
+    "makername": "ユニカ"
+  },
+  "ニクソントウキョウジャパン": {
+    "makername": "ニクソントウキョウジャパン"
+  },
+  "bowers & wilkins": {
+    "makername": "Bowers & Wilkins"
+  },
+  "光熔材": {
+    "makername": "光熔材"
+  },
+  "ミック": {
+    "makername": "ミック"
+  },
+  "サンメニー": {
+    "makername": "サンメニー"
+  },
+  "レッキス工業": {
+    "makername": "レッキス工業"
+  },
+  "アッシー": {
+    "makername": "アッシー"
+  },
+  "フィットライフ": {
+    "makername": "フィットライフ"
+  },
+  "プレクス": {
+    "makername": "プレクス"
+  },
+  "トレードワン": {
+    "makername": "トレードワン"
+  },
+  "アスカ": {
+    "makername": "Asmix",
+    "methodname": "asmix"
+  },
+  "ハッピートーク": {
+    "makername": "ハッピートーク"
+  },
+  "ティアック": {
+    "makername": "TEAC",
+    "methodname": "teac"
+  },
+  "アールシーエス": {
+    "makername": "アールシーエス"
+  },
+  "ブリタ": {
+    "makername": "Brita"
+  },
+  "東洋精器工業": {
+    "makername": "東洋精器工業"
+  },
+  "アビー": {
+    "makername": "アビー"
+  },
+  "oxo": {
+    "makername": "OXO"
+  },
+  "verbatim": {
+    "makername": " Verbatim"
+  },
+  "ネイトロボティクス": {
+    "makername": "ネイトロボティクス"
+  },
+  "立川ピン製作所": {
+    "makername": "立川ピン製作所"
+  },
+  "ホーコーエン": {
+    "makername": "ホーコーエン"
+  },
+  "イノベイション": {
+    "makername": "イノベイション"
+  },
+  "bodum": {
+    "makername": "Bodum"
+  },
+  "メインライン": {
+    "makername": "メインライン"
+  },
+  "アンサー": {
+    "makername": "アンサー"
+  },
+  "荒川製麺工場": {
+    "makername": "荒川製麺工場"
+  },
+  "美健": {
+    "makername": "美健"
+  },
+  "aeg": {
+    "makername": "AEG"
+  },
+  "iris ohyama": {
+    "makername": "IRIS OHYAMA",
+    "methodname": "irisohyama"
+  },
+  "中村製作所": {
+    "makername": "中村製作所"
+  },
+  "京セラドキュメントソリューションズ": {
+    "makername": "京セラ"
+  },
+  "高森コーキ": {
+    "makername": "高森コーキ"
+  },
+  "サイトロンジャパン": {
+    "makername": "Celestron"
+  },
+  "jjc": {
+    "makername": "JJC"
+  },
+  "irobot": {
+    "makername": "iRobot"
+  },
+  "ピーナッツクラブ": {
+    "makername": "ピーナッツクラブ"
+  },
+  "サエクコマース": {
+    "makername": "サエクコマース"
+  },
+  "necライティング": {
+    "makername": "NECライティング"
+  },
+  "威風堂": {
+    "makername": "威風堂"
+  },
+  "スムージィ": {
+    "makername": "スムージィ"
+  },
+  "amadana": {
+    "makername": "amadana"
+  },
+  "エボリューション": {
+    "makername": "エボリューション"
+  },
+  "ポニー": {
+    "makername": "ポニー"
+  },
+  "nyプランニング": {
+    "makername": "NYプランニング"
+  },
+  "hpl": {
+    "makername": "HPL"
+  },
+  "テクノトレード": {
+    "makername": "テクノトレード"
+  },
+  "キューブ": {
+    "makername": "キューブ"
+  },
+  "アイタス・ジャパン": {
+    "makername": "アイタス・ジャパン"
+  },
+  "興栄工業": {
+    "makername": "興栄工業"
+  },
+  "サクラクレパス": {
+    "makername": "サクラクレパス"
+  },
+  "エフエムコーポレーション": {
+    "makername": "エフエムコーポレーション"
+  },
+  "ダイヤテック": {
+    "makername": "ダイヤテック"
+  },
+  "シービージャパン": {
+    "makername": "シービージャパン"
+  },
+  "マキタ": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "岩谷マテリアル": {
+    "makername": "岩谷マテリアル"
+  },
+  "コアプラス": {
+    "makername": "コアプラス"
+  },
+  "コウデン": {
+    "makername": "KODEN"
+  },
+  "コスモテクノ": {
+    "makername": "コスモテクノ"
+  },
+  "松川食品": {
+    "makername": "松川食品"
+  },
+  "静岡製機": {
+    "makername": "静岡製機"
+  },
+  "三陽プレシジョン": {
+    "makername": "三陽プレシジョン"
+  },
+  "ナナオ": {
+    "makername": "EIZO",
+    "methodname": "eizo"
+  },
+  "f3ジャパン": {
+    "makername": "F3ジャパン"
+  },
+  "koden": {
+    "makername": "KODEN"
+  },
+  "マルニ木工": {
+    "makername": "マルニ木工"
+  },
+  "タミヤ": {
+    "makername": "タミヤ"
+  },
+  "ぷらっとホーム": {
+    "makername": "ぷらっとホーム"
+  },
+  "skullcandy": {
+    "makername": "Skullcandy"
+  },
+  "イース・コーポレーション": {
+    "makername": "イース・コーポレーション"
+  },
+  "ケルヒャージャパン": {
+    "makername": "KARCHER",
+    "methodname": "karcher"
+  },
+  "株式会社マキタ": {
+    "makername": "株式会社マキタ"
+  },
+  "モトデザイン": {
+    "makername": "モトデザイン"
+  },
+  "ジェイセップ九州": {
+    "makername": "ジェイセップ九州"
+  },
+  "丸竹": {
+    "makername": "丸竹"
+  },
+  "yagi": {
+    "makername": "YAGI"
+  },
+  "山真製鋸": {
+    "makername": "山真製鋸"
+  },
+  "advan technology": {
+    "makername": "Advan Technology"
+  },
+  "etg japan": {
+    "makername": "ETG Japan"
+  },
+  "兼松": {
+    "makername": "兼松"
+  },
+  "グーリングジャパン": {
+    "makername": "グーリングジャパン"
+  },
+  "カキツバタ": {
+    "makername": "カキツバタ"
+  },
+  "エル・ピー・エル": {
+    "makername": "エル・ピー・エル"
+  },
+  "読売新聞社": {
+    "makername": "読売新聞社"
+  },
+  "バーテックススタンダードlmr": {
+    "makername": "バーテックススタンダードLMR"
+  },
+  "キクタニミュージック": {
+    "makername": "キクタニミュージック"
+  },
+  "elecom": {
+    "makername": "ELECOM",
+    "methodname": "elecom"
+  },
+  "日本アンテナ": {
+    "makername": "日本アンテナ",
+    "methodname": "nippon_antenna"
+  },
+  "kom": {
+    "makername": "KOM"
+  },
+  "スタックス": {
+    "makername": "スタックス"
+  },
+  "開発企画": {
+    "makername": "開発企画"
+  },
+  "デンソー": {
+    "makername": "デンソー"
+  },
+  "ドリーム・ワールド": {
+    "makername": "ドリーム・ワールド"
+  },
+  "トップロード": {
+    "makername": "トップロード"
+  },
+  "サンクレスト": {
+    "makername": "サンクレスト"
+  },
+  "トーリ・ハン": {
+    "makername": "トーリ・ハン"
+  },
+  "nikon": {
+    "makername": "Nikon",
+    "methodname": "nikon"
+  },
+  "アイ・エム・エイ": {
+    "makername": "アイ・エム・エイ"
+  },
+  "日本ニーダー": {
+    "makername": "日本ニーダー"
+  },
+  "リンクス": {
+    "makername": "リンクス"
+  },
+  "yukon": {
+    "makername": "YUKON"
+  },
+  "アイセン": {
+    "makername": "アイセン"
+  },
+  "philips": {
+    "makername": "PHILIPS",
+    "methodname": "philips"
+  },
+  "nobrand": {
+    "makername": "NoBrand"
+  },
+  "electricalcentre": {
+    "makername": "ElectricalCentre"
+  },
+  "アイシーシー": {
+    "makername": "アイシーシー"
+  },
+  "ポラール": {
+    "makername": "POLAR"
+  },
+  "vivotek": {
+    "makername": "VIVOTEK"
+  },
+  "ドンキーボックス": {
+    "makername": "ドンキーボックス"
+  },
+  "superlux": {
+    "makername": "Superlux"
+  },
+  "オムロンヘルスケア": {
+    "makername": "OMRON",
+    "methodname": "omron"
+  },
+  "開明": {
+    "makername": "開明"
+  },
+  "ミツギロン": {
+    "makername": "ミツギロン"
+  },
+  "ラムダ": {
+    "makername": "ラムダ"
+  },
+  "堀内カラー": {
+    "makername": "堀内カラー"
+  },
+  "小久保工業所": {
+    "makername": "小久保工業所"
+  },
+  "b&o play": {
+    "makername": "B&O play"
+  },
+  "ボッシュ": {
+    "makername": "BOSCH",
+    "methodname": "bosch"
+  },
+  "リバーズ": {
+    "makername": "リバーズ"
+  },
+  "マスプロ": {
+    "makername": "マスプロ"
+  },
+  "ゼンハイザー": {
+    "makername": "SENNHEISER"
+  },
+  "日本オムニグロー": {
+    "makername": "日本オムニグロー"
+  },
+  "三信": {
+    "makername": "三信"
+  },
+  "西日本陶器": {
+    "makername": "西日本陶器"
+  },
+  "河部精密工業": {
+    "makername": "河部精密工業"
+  },
+  "旭光電機工業": {
+    "makername": "旭光電機工業"
+  },
+  "zack gmbh": {
+    "makername": "ZACK GMBH"
+  },
+  "フォーク": {
+    "makername": "フォーク"
+  },
+  "ホシザキ電機": {
+    "makername": "ホシザキ電機"
+  },
+  "polaroid": {
+    "makername": "Polaroid"
+  },
+  "テルモ": {
+    "makername": "TERUMO",
+    "methodname": "terumo"
+  },
+  "岩崎工業": {
+    "makername": "岩崎工業"
+  },
+  "ホルガ?": {
+    "makername": "HOLGA"
+  },
+  "アンツ": {
+    "makername": "アンツ"
+  },
+  "アネスト岩田": {
+    "makername": "アネスト岩田"
+  },
+  "ホーリック": {
+    "makername": "ホーリック"
+  },
+  "シチズン時計": {
+    "makername": "CITIZEN"
+  },
+  "クルールラボ": {
+    "makername": "クルールラボ"
+  },
+  "エス・ティー・イー": {
+    "makername": "エス・ティー・イー"
+  },
+  "グラソン": {
+    "makername": "グラソン"
+  },
+  "モバイルキャスト": {
+    "makername": "モバイルキャスト"
+  },
+  "twinbird": {
+    "makername": "TWINBIRD",
+    "methodname": "twinbird"
+  },
+  "ハミルトンビーチ": {
+    "makername": "ハミルトンビーチ"
+  },
+  "interdesign": {
+    "makername": "interDesign"
+  },
+  "日本アイ・ビー・エム": {
+    "makername": "IBM"
+  },
+  "ヒューレットパッカード": {
+    "makername": "HP"
+  },
+  "マッキンリーネクスト": {
+    "makername": "マッキンリーネクスト"
+  },
+  "コウォンジャパン": {
+    "makername": "コウォンジャパン"
+  },
+  "近畿製作所": {
+    "makername": "近畿製作所"
+  },
+  "セブンシーズ": {
+    "makername": "セブンシーズ"
+  },
+  "benq": {
+    "makername": "BenQ"
+  },
+  "th": {
+    "makername": "TH"
+  },
+  "honda": {
+    "makername": "本田技研工業"
+  },
+  "タカラトミー": {
+    "makername": "タカラトミー"
+  },
+  "cuisinart": {
+    "makername": "Cuisinart",
+    "methodname": "cuisinart"
+  },
+  "jura": {
+    "makername": "JURA"
+  },
+  "藤田商会": {
+    "makername": "藤田商会"
+  },
+  "コダック": {
+    "makername": "コダック"
+  },
+  "正木産業": {
+    "makername": "正木産業"
+  },
+  "fujitsu": {
+    "makername": "FUJITSU",
+    "methodname": "fujitsu"
+  },
+  "二幸電気工業": {
+    "makername": "二幸電気工業"
+  },
+  "ライフテック": {
+    "makername": "ライフテック"
+  },
+  "nttドコモ": {
+    "makername": "NTTドコモ"
+  },
+  "バーベイタム": {
+    "makername": " Verbatim"
+  },
+  "akg": {
+    "makername": "AKG"
+  },
+  "クリエイティブ・メディア": {
+    "makername": "クリエイティブ・メディア"
+  },
+  "コイケ": {
+    "makername": "コイケ"
+  },
+  "dyson": {
+    "makername": "dyson",
+    "methodname": "dyson"
+  },
+  "清水製作所": {
+    "makername": "清水製作所"
+  },
+  "シーバイエス": {
+    "makername": "シーバイエス"
+  },
+  "テーケー名古屋人形製陶": {
+    "makername": "テーケー名古屋人形製陶"
+  },
+  "vertex style": {
+    "makername": "Vertex"
+  },
+  "dometic": {
+    "makername": "Dometic"
+  },
+  "能登ダイヤ工業": {
+    "makername": "能登ダイヤ工業"
+  },
+  "池田食品": {
+    "makername": "池田食品"
+  },
+  "荒井貿易": {
+    "makername": "荒井貿易"
+  },
+  "大一産業": {
+    "makername": "大一産業"
+  },
+  "オムニ": {
+    "makername": "オムニ"
+  },
+  "ムラテックkds": {
+    "makername": "ムラテックKDS"
+  },
+  "アポロ医療機器株式会社": {
+    "makername": "アポロ医療機器株式会社"
+  },
+  "フェローズジャパン": {
+    "makername": "Fellows",
+    "methodname": "fellows"
+  },
+  "ユアサプライムス": {
+    "makername": "ユアサプライムス"
+  },
+  "コーポ": {
+    "makername": "コーポ"
+  },
+  "プレステージ": {
+    "makername": "プレステージ"
+  },
+  "プロモート": {
+    "makername": "プロモート"
+  },
+  "フリーコンセプト": {
+    "makername": "フリーコンセプト"
+  },
+  "中央産業": {
+    "makername": "中央産業"
+  },
+  "クレイダ・": {
+    "makername": "クレイダ"
+  },
+  "カーライル": {
+    "makername": "カーライル"
+  },
+  "バンダイビジュアル": {
+    "makername": "バンダイ"
+  },
+  "ワイナック": {
+    "makername": "ワイナック"
+  },
+  "urbanears": {
+    "makername": "URBANEARS"
+  },
+  "ifrogz": {
+    "makername": "iFrogz"
+  },
+  "ファイン": {
+    "makername": "ファイン"
+  },
+  "バッファロー": {
+    "makername": "BUFFALO",
+    "methodname": "buffalo"
+  },
+  "サニック": {
+    "makername": "サニック"
+  },
+  "キャストレード": {
+    "makername": "キャストレード"
+  },
+  "キャプテンスタッグ": {
+    "makername": "キャプテンスタッグ"
+  },
+  "baby lock": {
+    "makername": "baby lock",
+    "methodname": "babylock"
+  },
+  "クレファー": {
+    "makername": "クレファー"
+  },
+  "下村企販": {
+    "makername": "下村企販"
+  },
+  "nuforce": {
+    "makername": "NuForce"
+  },
+  "オーツカ光学": {
+    "makername": "オーツカ光学"
+  },
+  "ジェイトップ・ユーコー": {
+    "makername": "ジェイトップ・ユーコー"
+  },
+  "ファイテン": {
+    "makername": "ファイテン"
+  },
+  "griffin technology": {
+    "makername": "Griffin Technology"
+  },
+  "アンドグラッド": {
+    "makername": "アンドグラッド"
+  },
+  "マルミ光機": {
+    "makername": "マルミ光機"
+  },
+  "タツミ楽器": {
+    "makername": "タツミ楽器"
+  },
+  "delonghi": {
+    "makername": "De'Longhi",
+    "methodname": "delonghi"
+  },
+  "ローテル商事": {
+    "makername": "ローテル商事"
+  },
+  "タケダコーポレーション": {
+    "makername": "タケダコーポレーション"
+  },
+  "アイエヌティー": {
+    "makername": "アイエヌティー"
+  },
+  "jaguar": {
+    "makername": "JAGUAR",
+    "methodname": "jaguar"
+  },
+  "alessi": {
+    "makername": "ALESSI"
+  },
+  "オリエント": {
+    "makername": "オリエント"
+  },
+  "エムテック": {
+    "makername": "エムテック"
+  },
+  "インターポートインターナショナル": {
+    "makername": "インターポートインターナショナル"
+  },
+  "wella": {
+    "makername": "WELLA"
+  },
+  "アーテック": {
+    "makername": "アーテック"
+  },
+  "ネットワークジャパン": {
+    "makername": "ネットワークジャパン"
+  },
+  "ユーシン": {
+    "makername": "ユーシン"
+  },
+  "jtb商事": {
+    "makername": "JTB商事"
+  },
+  "アルバジャパン": {
+    "makername": "アルバジャパン"
+  },
+  "カイスイマレン": {
+    "makername": "カイスイマレン"
+  },
+  "オンキヨーデジタルソリューションズ": {
+    "makername": "ONKYO",
+    "methodname": "onkyo"
+  },
+  "シェリオン": {
+    "makername": "シェリオン"
+  },
+  "ナガノファクトリー": {
+    "makername": "ナガノファクトリー"
+  },
+  "三京": {
+    "makername": "三京"
+  },
+  "ブッシュネル": {
+    "makername": "ブッシュネル"
+  },
+  "アイラボファクトリー": {
+    "makername": "アイラボファクトリー"
+  },
+  "三宝": {
+    "makername": "三宝"
+  },
+  "ヨコタ工業": {
+    "makername": "ヨコタ工業"
+  },
+  "スペックス": {
+    "makername": "スペックス"
+  },
+  "ベスタクス": {
+    "makername": "ベスタクス"
+  },
+  "fmi": {
+    "makername": "FMI",
+    "methodname": "fmi"
+  },
+  "ピーナッツ・クラブ": {
+    "makername": "ピーナッツクラブ"
+  },
+  "sharp": {
+    "makername": "SHARP",
+    "methodname": "sharp"
+  },
+  "aigo": {
+    "makername": "aigo"
+  },
+  "ハヤミ工産": {
+    "makername": "ハヤミ工産"
+  },
+  "サンエックス": {
+    "makername": "サンエックス"
+  },
+  "オタリテック": {
+    "makername": "オタリテック"
+  },
+  "千住": {
+    "makername": "TEKNOS",
+    "methodname": "teknos"
+  },
+  "クレール": {
+    "makername": "クレール"
+  },
+  "中央自動車工業": {
+    "makername": "中央自動車工業"
+  },
+  "積水樹脂": {
+    "makername": "積水樹脂"
+  },
+  "htc nippon": {
+    "makername": "HTC"
+  },
+  "summerland": {
+    "makername": "SummerLand"
+  },
+  "アイピーフォー": {
+    "makername": "アイピーフォー"
+  },
+  "huawei": {
+    "makername": "HUAWEI",
+    "methodname": "huawei"
+  },
+  "ランドポート": {
+    "makername": "ランドポート"
+  },
+  "エースインターナショナルジャパン": {
+    "makername": "エースインターナショナルジャパン"
+  },
+  "グリーンエージェント": {
+    "makername": "グリーンエージェント"
+  },
+  "startech": {
+    "makername": "Startech"
+  },
+  "ラウダ": {
+    "makername": "ラウダ"
+  },
+  "グローバルフォルムコンクリート": {
+    "makername": "グローバルフォルムコンクリート"
+  },
+  "日立アプライアンス": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "ジェネシスホールディングス": {
+    "makername": "ジェネシスホールディングス"
+  },
+  "テムコ": {
+    "makername": "テムコ"
+  },
+  "富士パーツ商会": {
+    "makername": "富士パーツ商会"
+  },
+  "bose": {
+    "makername": "BOSE",
+    "methodname": "bose"
+  },
+  "family inada": {
+    "makername": "FAMILY INADA",
+    "methodname": "family_inada"
+  },
+  "春日": {
+    "makername": "春日"
+  },
+  "丸栄木工所": {
+    "makername": "丸栄木工所"
+  },
+  "メルクロス": {
+    "makername": "メルクロス"
+  },
+  "ヴァルテックス": {
+    "makername": "Vertex"
+  },
+  "gloridge": {
+    "makername": "GLORIDGE"
+  },
+  "アルミス": {
+    "makername": "アルミス"
+  },
+  "jvc": {
+    "makername": "JVC",
+    "methodname": "jvc_kenwood"
+  },
+  "アルファミック": {
+    "makername": "アルファミック"
+  },
+  "オプトマ": {
+    "makername": "OPTOMA TECHNOLOGY"
+  },
+  "佐治陶器": {
+    "makername": "佐治陶器"
+  },
+  "日省エンジニアリング": {
+    "makername": "日省エンジニアリング"
+  },
+  "マヤ工業": {
+    "makername": "マヤ工業"
+  },
+  "ユーコン": {
+    "makername": "YUKON"
+  },
+  "alessi アレッシィ": {
+    "makername": "ALESSI"
+  },
+  "the sharper image": {
+    "makername": "THE SHARPER IMAGE"
+  },
+  "デンケン": {
+    "makername": "デンケン"
+  },
+  "アネスト岩田キャンベル": {
+    "makername": "アネスト岩田"
+  },
+  "revol": {
+    "makername": "REVOL"
+  },
+  "日油技研工業": {
+    "makername": "日油技研工業"
+  },
+  "飛鳥": {
+    "makername": "飛鳥"
+  },
+  "ひさご電材": {
+    "makername": "ひさご電材"
+  },
+  "マルカイコーポレーション": {
+    "makername": "マルカイコーポレーション"
+  },
+  "lynn inkoop": {
+    "makername": "LYNN INKOOP"
+  },
+  "カドー": {
+    "makername": "cado",
+    "methodname": "cado"
+  },
+  "ドーフィールドジャパン": {
+    "makername": "ドーフィールドジャパン"
+  },
+  "leica": {
+    "makername": "Leica",
+    "methodname": "leica"
+  },
+  "エーディテクノ": {
+    "makername": "エーディテクノ"
+  },
+  "三木電器産業": {
+    "makername": "三木電器産業"
+  },
+  "zenフィールド": {
+    "makername": "ZENフィールド"
+  },
+  "フジ産業": {
+    "makername": "フジ産業"
+  },
+  "エンポリオ": {
+    "makername": "エンポリオ"
+  },
+  "オンキヨー&パイオニア": {
+    "makername": "ONKYO",
+    "methodname": "onkyo"
+  },
+  "タカラトミーアーツ": {
+    "makername": "タカラトミー"
+  },
+  "エスエスエーサービス": {
+    "makername": "エスエスエーサービス"
+  },
+  "伊藤超短波": {
+    "makername": "伊藤超短波"
+  },
+  "富士通": {
+    "makername": "FUJITSU",
+    "methodname": "fujitsu"
+  },
+  "ベッスル": {
+    "makername": "ベッスル"
+  },
+  "東京丸惣": {
+    "makername": "東京丸惣"
+  },
+  "ビーズ": {
+    "makername": "ビーズ"
+  },
+  "メテックス": {
+    "makername": "メテックス"
+  },
+  "コクヨ": {
+    "makername": "コクヨ"
+  },
+  "ヒーローグリーン": {
+    "makername": "ヒーローグリーン"
+  },
+  "アークス": {
+    "makername": "アークス"
+  },
+  "スナップオン・ツールズ": {
+    "makername": "スナップオン・ツールズ"
+  },
+  "セレック": {
+    "makername": "セレック"
+  },
+  "zalman": {
+    "makername": "ZALMAN"
+  },
+  "ワイドワーク": {
+    "makername": "ワイドワーク"
+  },
+  "ワイルドカード": {
+    "makername": "ワイルドカード"
+  },
+  "skb": {
+    "makername": "サカベ"
+  },
+  "三共コーポレーション": {
+    "makername": "三共コーポレーション"
+  },
+  "ジョワイユ": {
+    "makername": "ジョワイユ"
+  },
+  "リブランコーポレーション": {
+    "makername": "リブランコーポレーション"
+  },
+  "アメディア": {
+    "makername": "アメディア"
+  },
+  "大栄産業": {
+    "makername": "大栄産業"
+  },
+  "江部松商事": {
+    "makername": "江部松商事"
+  },
+  "ウェルリッチ": {
+    "makername": "ウェルリッチ"
+  },
+  "ウェルチ・アレン・ジャパン": {
+    "makername": "ウェルチ・アレン・ジャパン"
+  },
+  "オーム電機": {
+    "makername": "OHM",
+    "methodname": "ohm"
+  },
+  "セントレードm.e.": {
+    "makername": "セントレードM.E."
+  },
+  "ネスレ コンフェクショナリー": {
+    "makername": "ネスレ"
+  },
+  "貝印": {
+    "makername": "貝印"
+  },
+  "京中貿易": {
+    "makername": "京中貿易"
+  },
+  "大澤ワックス": {
+    "makername": "大澤ワックス"
+  },
+  "ケンコープロフェショナルイメージング": {
+    "makername": "Kenko Tokina",
+    "methodname": "kenko_tokina"
+  },
+  "asmix": {
+    "makername": "Asmix",
+    "methodname": "asmix"
+  },
+  "タイガー魔法瓶": {
+    "makername": "TIGER",
+    "methodname": "tiger"
+  },
+  "イチーナ": {
+    "makername": "イチーナ"
+  },
+  "カンサイ": {
+    "makername": "カンサイ"
+  },
+  "カミオジャパン": {
+    "makername": "カミオジャパン"
+  },
+  "信濃機販": {
+    "makername": "信濃機販"
+  },
+  "アートワークスタジオ": {
+    "makername": "アートワークスタジオ"
+  },
+  "オリオン機械": {
+    "makername": "オリオン機械"
+  },
+  "タムラック": {
+    "makername": "タムラック"
+  },
+  "evolve": {
+    "makername": "evolve"
+  },
+  "キャビン工業": {
+    "makername": "キャビン工業"
+  },
+  "曙産業": {
+    "makername": "曙産業"
+  },
+  "フカイ工業": {
+    "makername": "フカイ工業",
+    "methodname": "fukai"
+  },
+  "イワヤ": {
+    "makername": "イワヤ"
+  },
+  "朝日エルニック": {
+    "makername": "朝日エルニック"
+  },
+  "ユニデン": {
+    "makername": "Uniden",
+    "methodname": "uniden"
+  },
+  "ヘルスエンジン": {
+    "makername": "ヘルスエンジン"
+  },
+  "jplamp": {
+    "makername": "JPLAMP"
+  },
+  "澤藤電機": {
+    "makername": "澤藤電機"
+  },
+  "加賀ハイテック": {
+    "makername": "加賀ハイテック"
+  },
+  "寺田電機製作所": {
+    "makername": "寺田電機製作所"
+  },
+  "tbcグループ": {
+    "makername": "TBCグループ"
+  },
+  "西川産業": {
+    "makername": "西川産業"
+  },
+  "サムヤン": {
+    "makername": "SAMYANG"
+  },
+  "atima": {
+    "makername": "ATIMA"
+  },
+  "motorola": {
+    "makername": "Motorola"
+  },
+  "エピア": {
+    "makername": "エピア"
+  },
+  "andrea": {
+    "makername": "ANDREA"
+  },
+  "ラシージャパン": {
+    "makername": "ラシージャパン"
+  },
+  "ビグソン": {
+    "makername": "ビグソン"
+  },
+  "キョーワクリーン": {
+    "makername": "キョーワクリーン"
+  },
+  "保土ヶ谷電子販売": {
+    "makername": "保土ヶ谷電子販売"
+  },
+  "フジコトレーディング": {
+    "makername": "フジコトレーディング"
+  },
+  "aviiq": {
+    "makername": "AViiQ"
+  },
+  "タマハシ": {
+    "makername": "タマハシ"
+  },
+  "エネゲート": {
+    "makername": "エネゲート"
+  },
+  "伊藤忠商事": {
+    "makername": "伊藤忠商事"
+  },
+  "東邦金属工業": {
+    "makername": "東邦金属工業"
+  },
+  "asus  eee pc": {
+    "makername": "ASUS",
+    "methodname": "asus"
+  },
+  "エース食品": {
+    "makername": "エース食品"
+  },
+  "日本フォームサービス": {
+    "makername": "日本フォームサービス"
+  },
+  "福農産業": {
+    "makername": "福農産業"
+  },
+  "阪神交易": {
+    "makername": "阪神交易"
+  },
+  "エムケー電子": {
+    "makername": "エムケー電子"
+  },
+  "オーディオクエスト": {
+    "makername": "audioquest"
+  },
+  "ミガロ": {
+    "makername": "ミガロ"
+  },
+  "kryna": {
+    "makername": "KRYNA"
+  },
+  "achilles": {
+    "makername": "Achilles"
+  },
+  "lg": {
+    "makername": "LG",
+    "methodname": "lg"
+  },
+  "ナカトミ": {
+    "makername": "NAKATOMI",
+    "methodname": "nakatomi"
+  },
+  "プラネックスコミュニケーションズ": {
+    "makername": "PLANEX",
+    "methodname": "planex"
+  },
+  "google": {
+    "makername": "google"
+  },
+  "elabitax": {
+    "makername": "吉井電気"
+  },
+  "ntt": {
+    "makername": "NTT"
+  },
+  "ミニマム": {
+    "makername": "ミニマム"
+  },
+  "スパイス": {
+    "makername": "スパイス"
+  },
+  "三井物産": {
+    "makername": "三井物産"
+  },
+  "melitta": {
+    "makername": "Melitta",
+    "methodname": "melitta"
+  },
+  "アビタックス": {
+    "makername": "ABITAX"
+  },
+  "オーサワジャパン": {
+    "makername": "オーサワジャパン"
+  },
+  "丸七": {
+    "makername": "丸七"
+  },
+  "looxcie, inc": {
+    "makername": "Looxcie"
+  },
+  "ディーエイチシー": {
+    "makername": "ディーエイチシー"
+  },
+  "チップソージャパン": {
+    "makername": "チップソージャパン"
+  },
+  "三京ダイヤモンド工業": {
+    "makername": "三京"
+  },
+  "西和産業": {
+    "makername": "西和産業"
+  },
+  "ユーレックス": {
+    "makername": "ユーレックス"
+  },
+  "パワーショベル": {
+    "makername": "パワーショベル"
+  },
+  "フジ医療器": {
+    "makername": "FUJIIRYOKI",
+    "methodname": "fujiiryoki"
+  },
+  "エス・アイ・サプライ": {
+    "makername": "エス・アイ・サプライ"
+  },
+  "ベッセル": {
+    "makername": "VESSEL"
+  },
+  "イーストン": {
+    "makername": "イーストン"
+  },
+  "オオアサ電子": {
+    "makername": "オオアサ電子"
+  },
+  "アールアイジャパン": {
+    "makername": "アールアイジャパン"
+  },
+  "ファミリー・サービス・エイコー": {
+    "makername": "ファミリー・サービス・エイコー"
+  },
+  "ヒマサ金物": {
+    "makername": "ヒマサ金物"
+  },
+  "池田レンズ工業": {
+    "makername": "池田レンズ工業"
+  },
+  "リヒトラブ": {
+    "makername": "リヒトラブ"
+  },
+  "中部コーポレーション": {
+    "makername": "中部コーポレーション"
+  },
+  "瀧川": {
+    "makername": "瀧川"
+  },
+  "バンプレスト": {
+    "makername": "バンプレスト"
+  },
+  "スタート・ラボ": {
+    "makername": "スタート・ラボ"
+  },
+  "本田技研工業": {
+    "makername": "本田技研工業"
+  },
+  "日本碍子": {
+    "makername": "日本碍子"
+  },
+  "ミニー": {
+    "makername": "ミニー"
+  },
+  "ケイ・ジー・ワイ工業": {
+    "makername": "ケイ・ジー・ワイ工業"
+  },
+  "ナショナル": {
+    "makername": "Panasonic",
+    "methodname": "panasonic"
+  },
+  "monster": {
+    "makername": "MONSTER"
+  },
+  "銀座十字屋": {
+    "makername": "銀座十字屋"
+  },
+  "光陽社": {
+    "makername": "光陽社"
+  },
+  "ライブエンタープライズ": {
+    "makername": "ライブエンタープライズ"
+  },
+  "双日マシナリー": {
+    "makername": "双日マシナリー"
+  },
+  "oster": {
+    "makername": "oster"
+  },
+  "秋月貿易": {
+    "makername": "秋月貿易"
+  },
+  "awind": {
+    "makername": "Awind"
+  },
+  "イシハシ精工": {
+    "makername": "イシハシ精工"
+  },
+  "日本通信": {
+    "makername": "日本通信"
+  },
+  "青木茶舗": {
+    "makername": "青木茶舗"
+  },
+  "ソーゴ": {
+    "makername": "ソーゴ"
+  },
+  "ナカミチ": {
+    "makername": "ナカミチ"
+  },
+  "ピップ": {
+    "makername": "ピップ"
+  },
+  "ヤマソロ": {
+    "makername": "ヤマソロ"
+  },
+  "f.g.s": {
+    "makername": "F.G.S"
+  },
+  "山善": {
+    "makername": "YAMAZEN",
+    "methodname": "yamazen"
+  },
+  "ユーザー": {
+    "makername": "ユーザー"
+  },
+  "sms audio": {
+    "makername": "SMS Audio"
+  },
+  "近畿用品製造": {
+    "makername": "近畿用品製造"
+  },
+  "スター電器製造": {
+    "makername": "スター電器製造"
+  },
+  "バイオイオナース": {
+    "makername": "バイオイオナース"
+  },
+  "inbyte": {
+    "makername": "INBYTE"
+  },
+  "ディービーテクノロジー": {
+    "makername": "ディービーテクノロジー"
+  },
+  "タイムロード": {
+    "makername": "タイムロード"
+  },
+  "ドリームズ": {
+    "makername": "ドリームズ"
+  },
+  "sanus": {
+    "makername": "Sanus"
+  },
+  "ミザール": {
+    "makername": "ミザール"
+  },
+  "エフ・エム・アイ": {
+    "makername": "FMI",
+    "methodname": "fmi"
+  },
+  "日本エリートグループ": {
+    "makername": "日本エリートグループ"
+  },
+  "ロア": {
+    "makername": "ロア"
+  },
+  "ケルヒャージャパン株式会社": {
+    "makername": "KARCHER",
+    "methodname": "karcher"
+  },
+  "ブラント・ジャパン": {
+    "makername": "ブラント・ジャパン"
+  },
+  "ワコム": {
+    "makername": "wacom",
+    "methodname": "wacom"
+  },
+  "オークローンマーケティング": {
+    "makername": "オークローンマーケティング"
+  },
+  "ユニペックス": {
+    "makername": "ユニペックス"
+  },
+  "ワーテックス": {
+    "makername": "ワーテックス"
+  },
+  "東部大宇電子ジャパン": {
+    "makername": "東部大宇電子ジャパン"
+  },
+  "マイト": {
+    "makername": "マイト"
+  },
+  "knog": {
+    "makername": "Knog"
+  },
+  "アイディアファクトリー": {
+    "makername": "アイディアファクトリー"
+  },
+  "philips フィリップス": {
+    "makername": "PHILIPS",
+    "methodname": "philips"
+  },
+  "ミヤオカンパニーリミテド": {
+    "makername": "ミヤオカンパニーリミテド"
+  },
+  "柏書店松原": {
+    "makername": "柏書店松原"
+  },
+  "ワタナベ工業": {
+    "makername": "ワタナベ工業"
+  },
+  "カネセ": {
+    "makername": "カネセ"
+  },
+  "ナノテック・システムズ": {
+    "makername": "ナノテック・システムズ"
+  },
+  "ユゥ": {
+    "makername": "ユゥ"
+  },
+  "サンフレックス": {
+    "makername": "サンフレックス"
+  },
+  "ヴァーテックス": {
+    "makername": "Vertex"
+  },
+  "comply": {
+    "makername": "Comply"
+  },
+  "コーワ": {
+    "makername": "コーワ"
+  },
+  "共立ドクターズラボ": {
+    "makername": "共立ドクターズラボ"
+  },
+  "ミヤナガ": {
+    "makername": "ミヤナガ"
+  },
+  "コペックジャパン": {
+    "makername": "コペックジャパン"
+  },
+  "hamee": {
+    "makername": "Hamee"
+  },
+  "遠藤商事": {
+    "makername": "遠藤商事"
+  },
+  "elac": {
+    "makername": "ELAC"
+  },
+  "ボンスター": {
+    "makername": "ボンスター"
+  },
+  "日本ポステック": {
+    "makername": "日本ポステック"
+  },
+  "レイコップ": {
+    "makername": "raycop",
+    "methodname": "raycop"
+  },
+  "東京ガス": {
+    "makername": "東京ガス",
+    "methodname": "tokyogas"
+  },
+  "upq": {
+    "makername": "UPQ"
+  },
+  "インターフォルム": {
+    "makername": "INTERFORM"
+  },
+  "ヨネックス": {
+    "makername": "YONEX"
+  },
+  "春日屋食品": {
+    "makername": "春日屋食品"
+  },
+  "サミット・グローバル・ジャパン": {
+    "makername": "サミット・グローバル・ジャパン"
+  },
+  "ミックインターナショナル": {
+    "makername": "ミック"
+  },
+  "マルコメ": {
+    "makername": "マルコメ"
+  },
+  "トライトーン": {
+    "makername": "トライトーン"
+  },
+  "シャープ": {
+    "makername": "SHARP",
+    "methodname": "sharp"
+  },
+  "ボッシュ/bosch": {
+    "makername": "BOSCH",
+    "methodname": "bosch"
+  },
+  "saeco": {
+    "makername": "Saeco"
+  },
+  "オムロンコーリン": {
+    "makername": "OMRON",
+    "methodname": "omron"
+  },
+  "オフィックス": {
+    "makername": "オフィックス"
+  },
+  "ペンタックス": {
+    "makername": "RICOH",
+    "methodname": "ricoh"
+  },
+  "zojirushi": {
+    "makername": "ZOJIRUSHI",
+    "methodname": "zojirushi"
+  },
+  "日本精機宝石工業": {
+    "makername": "日本精機宝石工業"
+  },
+  "atex": {
+    "makername": "ATEX",
+    "methodname": "atex"
+  },
+  "アクター": {
+    "makername": "アクター"
+  },
+  "kawaguchi": {
+    "makername": "KAWAGUCHI"
+  },
+  "sony mobile": {
+    "makername": "Sony mobile"
+  },
+  "東京防音": {
+    "makername": "東京防音"
+  },
+  "ユリシー": {
+    "makername": "ユリシー"
+  },
+  "日本グリーンパックス": {
+    "makername": "日本グリーンパックス"
+  },
+  "rアンドm": {
+    "makername": "R&M"
+  },
+  "ブライトンネット": {
+    "makername": "ブライトンネット"
+  },
+  "ブラウン": {
+    "makername": "BRAUN",
+    "methodname": "braun"
+  },
+  "清水産業": {
+    "makername": "清水産業"
+  },
+  "panasonic/パナソニック": {
+    "makername": "Panasonic",
+    "methodname": "panasonic"
+  },
+  "stelton": {
+    "makername": "stelton"
+  },
+  "terumo": {
+    "makername": "TERUMO",
+    "methodname": "terumo"
+  },
+  "誉": {
+    "makername": "誉"
+  },
+  "扶桑精機": {
+    "makername": "扶桑精機"
+  },
+  "パアグ": {
+    "makername": "パアグ"
+  },
+  "アネット": {
+    "makername": "アネット"
+  },
+  "大光電機": {
+    "makername": "DAIKO",
+    "methodname": "daiko"
+  },
+  "オリエントコンピュータ株式会社": {
+    "makername": "オリエントコンピュータ"
+  },
+  "cambridgeaudio": {
+    "makername": "CAMBRIDGEAUDIO"
+  },
+  "アスコジャパン": {
+    "makername": "アスコジャパン"
+  },
+  "協和ハーモネット": {
+    "makername": "協和ハーモネット"
+  },
+  "wahl": {
+    "makername": "WAHL"
+  },
+  "samsumg": {
+    "makername": "SAMSUNG"
+  },
+  "ヴェルテクス": {
+    "makername": "Vertex"
+  },
+  "下村工業": {
+    "makername": "下村工業"
+  },
+  "インテック": {
+    "makername": "インテック"
+  },
+  "rcf": {
+    "makername": "RCF"
+  },
+  "八十八庵": {
+    "makername": "八十八庵"
+  },
+  "lsiロジック": {
+    "makername": "LSIロジック"
+  },
+  "シィー・ネット": {
+    "makername": "シィー・ネット"
+  },
+  "ロゼンスター": {
+    "makername": "ロゼンスター"
+  },
+  "スペクトル": {
+    "makername": "スペクトル"
+  },
+  "blomus": {
+    "makername": "Blomus"
+  },
+  "バンダイ": {
+    "makername": "バンダイ"
+  },
+  "エルゴトロン": {
+    "makername": "ERGOTRON"
+  },
+  "グリーンフラッシュジャパン": {
+    "makername": "グリーンフラッシュジャパン"
+  },
+  "インターコム": {
+    "makername": "インターコム"
+  },
+  "ブルークロス": {
+    "makername": "ブルークロス"
+  },
+  "monitor": {
+    "makername": "Monitor Audio"
+  },
+  "fairy": {
+    "makername": "Fairy"
+  },
+  "リコーイメージング": {
+    "makername": "RICOH",
+    "methodname": "ricoh"
+  },
+  "ワイ・エス・パークプロフェッショナル": {
+    "makername": "ワイ・エス・パークプロフェッショナル"
+  },
+  "大阪瓦斯": {
+    "makername": "大阪瓦斯"
+  },
+  "ウルトラエックス": {
+    "makername": "ウルトラエックス"
+  },
+  "フィールテック": {
+    "makername": "フィールテック"
+  },
+  "asics": {
+    "makername": "ASICS"
+  },
+  "ディーオン": {
+    "makername": "ディーオン"
+  },
+  "onanoff": {
+    "makername": "onanoff"
+  },
+  "十川産業": {
+    "makername": "十川産業"
+  },
+  "シチズン": {
+    "makername": "CITIZEN"
+  },
+  "モダンロイヤル": {
+    "makername": "モダンロイヤル"
+  },
+  "アクロジャパン": {
+    "makername": "アクロジャパン"
+  },
+  "プロクター・アンド・ギャンブル・ジャパン": {
+    "makername": "プレーリードッグ"
+  },
+  "コピター・ジャパン": {
+    "makername": "コピター・ジャパン"
+  },
+  "中島利器": {
+    "makername": "中島利器"
+  },
+  "ビクトリージャパン": {
+    "makername": "ビクトリージャパン"
+  },
+  "こどものかお": {
+    "makername": "こどものかお"
+  },
+  "kenko tokina": {
+    "makername": "Kenko Tokina",
+    "methodname": "kenko_tokina"
+  },
+  "lixil": {
+    "makername": "LIXIL",
+    "methodname": "lixil"
+  },
+  "necディスプレイソリューションズ": {
+    "makername": "NECディスプレイソリューションズ",
+    "methodname": "nec_display"
+  },
+  "クマザキエイム": {
+    "makername": "クマザキエイム"
+  },
+  "パール金属": {
+    "makername": "パール金属"
+  },
+  "ランサーリンク": {
+    "makername": "ランサーリンク"
+  },
+  "ソニッケアー": {
+    "makername": "ソニッケアー"
+  },
+  "バンダイナムコエンターテインメント": {
+    "makername": "バンダイ"
+  },
+  "スガタ": {
+    "makername": "スガタ"
+  },
+  "一興": {
+    "makername": "一興"
+  },
+  "shure incorporated": {
+    "makername": "SHURE"
+  },
+  "planex": {
+    "makername": "PLANEX",
+    "methodname": "planex"
+  },
+  "knosti": {
+    "makername": "Knosti"
+  },
+  "工進": {
+    "makername": "工進"
+  },
+  "ヤマハミュージックジャパン": {
+    "makername": "YAMAHA",
+    "methodname": "yamaha"
+  },
+  "城下工業": {
+    "makername": "城下工業"
+  },
+  "山崎実業": {
+    "makername": "山崎実業"
+  },
+  "大自工業": {
+    "makername": "大自工業"
+  },
+  "よし与工房": {
+    "makername": "よし与工房"
+  },
+  "ランズバーグ・インダストリー": {
+    "makername": "ランズバーグ・インダストリー"
+  },
+  "イースト コライト": {
+    "makername": "イースト コライト"
+  },
+  "シェモア": {
+    "makername": "シェモア"
+  },
+  "水生活製作所": {
+    "makername": "水生活製作所"
+  },
+  "イーバランス": {
+    "makername": "イーバランス"
+  },
+  "喜一工具": {
+    "makername": "喜一工具"
+  },
+  "ライカ": {
+    "makername": "Leica",
+    "methodname": "leica"
+  },
+  "フォーカルポイント": {
+    "makername": "フォーカルポイント"
+  },
+  "hns": {
+    "makername": "HNS"
+  },
+  "pioneer": {
+    "makername": "Pioneer",
+    "methodname": "pioneer"
+  },
+  "アビリティークリエイト": {
+    "makername": "アビリティークリエイト"
+  },
+  "アブソリュート": {
+    "makername": "アブソリュート"
+  },
+  "セントラル工商": {
+    "makername": "セントラル工商"
+  },
+  "the house of marley": {
+    "makername": "House of Marley"
+  },
+  "xperia": {
+    "makername": "Sony mobile"
+  },
+  "ウィナーズ": {
+    "makername": "ウィナーズ"
+  },
+  "日本コロムビア": {
+    "makername": "日本コロムビア"
+  },
+  "フィールドワーク": {
+    "makername": "フィールドワーク"
+  },
+  "ラックス": {
+    "makername": "ラックスマン"
+  },
+  "ホームテイスト": {
+    "makername": "ホームテイスト"
+  },
+  "グリーンオーナメント": {
+    "makername": "グリーンオーナメント"
+  },
+  "teac": {
+    "makername": "TEAC",
+    "methodname": "teac"
+  },
+  "astro deck": {
+    "makername": "ASTRODECK"
+  },
+  "マスクフジコー": {
+    "makername": "マスクフジコー"
+  },
+  "東芝エルイートレーディング": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "奈良木建": {
+    "makername": "奈良木建"
+  },
+  "グロウアップ": {
+    "makername": "グロウアップ"
+  },
+  "ジェイアンドシー": {
+    "makername": "ジェイアンドシー"
+  },
+  "トダ精光": {
+    "makername": "トダ精光"
+  },
+  "chicbuds": {
+    "makername": "ChicBuds"
+  },
+  "ローム": {
+    "makername": "ROHM",
+    "methodname": "agled"
+  },
+  "a1インターナショナル": {
+    "makername": "A1インターナショナル"
+  },
+  "ビエスタイル": {
+    "makername": "ビエスタイル"
+  },
+  "プラントロニクス": {
+    "makername": "Plantronics"
+  },
+  "大西工業": {
+    "makername": "大西工業"
+  },
+  "house of marley": {
+    "makername": "House of Marley"
+  },
+  "ヘーゲル": {
+    "makername": "HEGEL"
+  },
+  "beats": {
+    "makername": "beats by dr.dre"
+  },
+  "ワイ・エス・エヌ": {
+    "makername": "ワイ・エス・エヌ"
+  },
+  "numatic": {
+    "makername": "Numatic"
+  },
+  "aten": {
+    "makername": "ATEN"
+  },
+  "アトム興産": {
+    "makername": "アトム興産"
+  },
+  "杉田エース": {
+    "makername": "杉田エース"
+  },
+  "大沢商会": {
+    "makername": "大沢商会"
+  },
+  "コナミデジタルエンタテインメント": {
+    "makername": "コナミデジタルエンタテインメント"
+  },
+  "レモラツール": {
+    "makername": "レモラツール"
+  },
+  "ダイケン": {
+    "makername": "ダイケン"
+  },
+  "シチズンq&q": {
+    "makername": "CITIZEN"
+  },
+  "コニシス研究所": {
+    "makername": "コニシス研究所"
+  },
+  "hatas": {
+    "makername": "HATAS"
+  },
+  "日新産業": {
+    "makername": "日新産業"
+  },
+  "ロキテクノ": {
+    "makername": "ロキテクノ"
+  },
+  "hugogate": {
+    "makername": "HUGOGATE"
+  },
+  "マスタードシード": {
+    "makername": "マスタードシード"
+  },
+  "タカチ電機工業": {
+    "makername": "タカチ電機工業"
+  },
+  "raynox": {
+    "makername": "RAYNOX"
+  },
+  "dell": {
+    "makername": "DELL"
+  },
+  "インターリンクス": {
+    "makername": "インターリンクス"
+  },
+  "nissei": {
+    "makername": "NISSEI",
+    "methodname": "nissei"
+  },
+  "クリニーク": {
+    "makername": "クリニーク"
+  },
+  "アドウエーブ": {
+    "makername": "アドウエーブ"
+  },
+  "hitec multiplex japan,inc.": {
+    "makername": "HITEC",
+    "methodname": "hitec"
+  },
+  "ソニー": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "エルザジャパン": {
+    "makername": "エルザジャパン"
+  },
+  "三ッ谷電機": {
+    "makername": "三ッ谷電機"
+  },
+  "マキタ makita": {
+    "makername": "Makita",
+    "methodname": "makita"
+  },
+  "ハイ・リゾリューション": {
+    "makername": "ハイ・リゾリューション"
+  },
+  "コヴィア": {
+    "makername": "コヴィア"
+  },
+  "ジェントス": {
+    "makername": "GENTOS",
+    "methodname": "gentos"
+  },
+  "八興販売": {
+    "makername": "八興販売"
+  },
+  "toa": {
+    "makername": "TOA"
+  },
+  "moneual japan": {
+    "makername": "MONEUAL JAPAN"
+  },
+  "協和": {
+    "makername": "協和"
+  },
+  "グリーンウッド": {
+    "makername": "Green wood",
+    "methodname": "greenwood"
+  },
+  "アールオーエヌ": {
+    "makername": "アールオーエヌ"
+  },
+  "ミックスウェーブ": {
+    "makername": "ミックスウェーブ"
+  },
+  "レミックス": {
+    "makername": "レミックス"
+  },
+  "comon": {
+    "makername": "COMON"
+  },
+  "astrotec": {
+    "makername": "Astrotec"
+  },
+  "タバタ": {
+    "makername": "タバタ"
+  },
+  "コスミック": {
+    "makername": "コスミック"
+  },
+  "オプテックス": {
+    "makername": "オプテックス"
+  },
+  "マルチピュアジャパン": {
+    "makername": "マルチピュアジャパン"
+  },
+  "ルダート": {
+    "makername": "芳国産業"
+  },
+  "アレック": {
+    "makername": "アレック"
+  },
+  "devicestyle": {
+    "makername": "deviceSTYLE"
+  },
+  "池本刷子工業": {
+    "makername": "池本刷子工業"
+  },
+  "コベント・ガーデン": {
+    "makername": "コベント・ガーデン"
+  },
+  "東京セイル": {
+    "makername": "東京セイル"
+  },
+  "ルーペック": {
+    "makername": "ルーペック"
+  },
+  "坂本石灰工業所": {
+    "makername": "坂本石灰工業所"
+  },
+  "マルタカテクノ": {
+    "makername": "マルタカテクノ"
+  },
+  "メディア・インテグレーション": {
+    "makername": "メディア・インテグレーション"
+  },
+  "アペックスハート": {
+    "makername": "アペックスハート"
+  },
+  "三菱レイヨン": {
+    "makername": "Mitsubishi Heavy Industries",
+    "methodname": "mhi"
+  },
+  "福山商事": {
+    "makername": "福山商事"
+  },
+  "貝印カミソリ": {
+    "makername": "貝印カミソリ"
+  },
+  "gokoカメラ": {
+    "makername": "GOKOカメラ"
+  },
+  "ゲベット": {
+    "makername": "ゲベット"
+  },
+  "プレム": {
+    "makername": "プレム"
+  },
+  "brita": {
+    "makername": "Brita"
+  },
+  "セイコー珈琲": {
+    "makername": "セイコー珈琲"
+  },
+  "プロスター": {
+    "makername": "プロスター"
+  },
+  "405": {
+    "makername": "405"
+  },
+  "デイトリッパー": {
+    "makername": "デイトリッパー"
+  },
+  "toray international": {
+    "makername": "TORAY",
+    "methodname": "toray"
+  },
+  "坂本ラヂヲ": {
+    "makername": "坂本ラヂヲ"
+  },
+  "イーワテック販売": {
+    "makername": "イーワテック販売"
+  },
+  "accutone": {
+    "makername": "Accutone"
+  },
+  "スタイルクレア": {
+    "makername": "スタイルクレア"
+  },
+  "エスケイネット": {
+    "makername": "SKNET",
+    "methodname": "sknet"
+  },
+  "レマコム": {
+    "makername": "レマコム"
+  },
+  "アクラス": {
+    "makername": "アクラス"
+  },
+  "長澤ライティング": {
+    "makername": "長澤ライティング"
+  },
+  "ファイアスター": {
+    "makername": "ファイアスター"
+  },
+  "北陸商事": {
+    "makername": "北陸商事"
+  },
+  "hoya": {
+    "makername": "HOYA"
+  },
+  "gnネットコムジャパン": {
+    "makername": "GN Netcom"
+  },
+  "キポン": {
+    "makername": "キポン"
+  },
+  "日本マイクロソフト": {
+    "makername": "Microsoft"
+  },
+  "イトーキクレビオ": {
+    "makername": "イトーキクレビオ"
+  },
+  "オリエントコンピュータ": {
+    "makername": "オリエントコンピュータ"
+  },
+  "サンビー工業": {
+    "makername": "サンビー工業"
+  },
+  "テレビショッピング研究所": {
+    "makername": "テレビショッピング研究所"
+  },
+  "fujitsu general": {
+    "makername": "FUJITSU GENERAL",
+    "methodname": "fujitsu_general"
+  },
+  "スカイライフ": {
+    "makername": "スカイライフ"
+  },
+  "ricoh": {
+    "makername": "RICOH",
+    "methodname": "ricoh"
+  },
+  "マスプロ電工": {
+    "makername": "マスプロ"
+  },
+  "イメーション": {
+    "makername": "イメーション"
+  },
+  "星浦實業": {
+    "makername": "星浦實業"
+  },
+  "富士フィルム": {
+    "makername": "FUJIFILM",
+    "methodname": "fujifilm"
+  },
+  "ユーワ": {
+    "makername": "YOUWA",
+    "methodname": "youwa"
+  },
+  "オウルテック": {
+    "makername": "オウルテック"
+  },
+  "平野技研工業": {
+    "makername": "平野技研工業"
+  },
+  "パワーサポート": {
+    "makername": "パワーサポート"
+  },
+  "ヤマヨ測定機": {
+    "makername": "ヤマヨ測定機"
+  },
+  "yamaha": {
+    "makername": "YAMAHA",
+    "methodname": "yamaha"
+  },
+  "ボーズ": {
+    "makername": "BOSE",
+    "methodname": "bose"
+  },
+  "レノボ・エンタープライズ・ソリューションズ": {
+    "makername": "Lenovo"
+  },
+  "アームテック": {
+    "makername": "アームテック"
+  },
+  "ニコンビジョン": {
+    "makername": "Nikon",
+    "methodname": "nikon"
+  },
+  "エム・エイチ・シー": {
+    "makername": "エム・エイチ・シー"
+  },
+  "ファーウェイ": {
+    "makername": "HUAWEI",
+    "methodname": "huawei"
+  },
+  "ブルントン brunton": {
+    "makername": "Brunton"
+  },
+  "mili": {
+    "makername": "Mili"
+  },
+  "富士園": {
+    "makername": "富士園"
+  },
+  "ノーリツ": {
+    "makername": "NORITZ",
+    "methodname": "noritz"
+  },
+  "carotone": {
+    "makername": "CarotOne"
+  },
+  "アクティブ": {
+    "makername": "アクティブ"
+  },
+  "ファイブ&ファイブ": {
+    "makername": "ファイブ&ファイブ"
+  },
+  "ラピッド": {
+    "makername": "ラピッド"
+  },
+  "agcテクノグラス": {
+    "makername": "AGCテクノグラス"
+  },
+  "素数": {
+    "makername": "素数"
+  },
+  "システムトークス": {
+    "makername": "システムトークス"
+  },
+  "furuyama": {
+    "makername": "furuyama"
+  },
+  "株式会社イシハシ精工": {
+    "makername": "イシハシ精工"
+  },
+  "新日本照明": {
+    "makername": "新日本照明"
+  },
+  "京都機械工具": {
+    "makername": "京都機械工具"
+  },
+  "万丈": {
+    "makername": "万丈"
+  },
+  "バリュートレード": {
+    "makername": "バリュートレード"
+  },
+  "yashica": {
+    "makername": "YASHICA"
+  },
+  "ベリンガー": {
+    "makername": "ベリンガー"
+  },
+  "エンペックス気象計": {
+    "makername": "EMPEX"
+  },
+  "セイワ": {
+    "makername": "セイワ"
+  },
+  "グローリッジ株式会社": {
+    "makername": "GLORIDGE"
+  },
+  "ワーカー": {
+    "makername": "ワーカー"
+  },
+  "ウッドニー": {
+    "makername": "ウッドニー"
+  },
+  "アイテック": {
+    "makername": "アイテック"
+  },
+  "テクテク": {
+    "makername": "テクテク"
+  },
+  "gsユアサ": {
+    "makername": "GSユアサ"
+  },
+  "オーレック": {
+    "makername": "オーレック"
+  },
+  "アーニー": {
+    "makername": "アーニー"
+  },
+  "チクマ": {
+    "makername": "チクマ"
+  },
+  "愛朋産業": {
+    "makername": "愛朋産業"
+  },
+  "braun": {
+    "makername": "BRAUN",
+    "methodname": "braun"
+  },
+  "キュービック": {
+    "makername": "キュービック"
+  },
+  "ion audio": {
+    "makername": "ION Audio"
+  },
+  "gmj": {
+    "makername": "GMJ"
+  },
+  "ラドンナ": {
+    "makername": "ラドンナ"
+  },
+  "加藤電機": {
+    "makername": "加藤電機"
+  },
+  "オノマシン": {
+    "makername": "オノマシン"
+  },
+  "水友": {
+    "makername": "水友"
+  },
+  "psaudio": {
+    "makername": "PSAUDIO"
+  },
+  "三宅化学": {
+    "makername": "三宅化学"
+  },
+  "ノグチ": {
+    "makername": "ノグチ"
+  },
+  "ネイビー": {
+    "makername": "ネイビー"
+  },
+  "大友商事": {
+    "makername": "大友商事"
+  },
+  "ディナウディオ": {
+    "makername": "ディナウディオ"
+  },
+  "燦坤日本電器": {
+    "makername": "燦坤日本電器"
+  },
+  "zox": {
+    "makername": "ZOX",
+    "methodname": "zox"
+  },
+  "ドリームファクトリー": {
+    "makername": "ドリームファクトリー"
+  },
+  "株式会社やまびこ": {
+    "makername": "やまびこ"
+  },
+  "and": {
+    "makername": "AND",
+    "methodname": "aandd"
+  },
+  "ツカモトエイム": {
+    "makername": "ツカモトエイム",
+    "methodname": "tsukamoto_aim"
+  },
+  "三栄水栓製作所": {
+    "makername": "三栄"
+  },
+  "キーコーヒー": {
+    "makername": "キーコーヒー"
+  },
+  "ノボル電機": {
+    "makername": "ノボル電機"
+  },
+  "fukai/フカイ工業": {
+    "makername": "フカイ工業",
+    "methodname": "fukai"
+  },
+  "f-factory": {
+    "makername": "富士パーツ商会"
+  },
+  "マルゼン企画": {
+    "makername": "マルゼン企画"
+  },
+  "ビューソニック": {
+    "makername": "ビューソニック"
+  },
+  "tomorrowline": {
+    "makername": "TOMORROWLINE"
+  },
+  "audiofly": {
+    "makername": "Audiofly"
+  },
+  "tkg": {
+    "makername": "TKG"
+  },
+  "リックス": {
+    "makername": "リックス"
+  },
+  "ミタニ": {
+    "makername": "ミタニ"
+  },
+  "teamジャパン": {
+    "makername": "TEAMジャパン"
+  },
+  "遊歩人": {
+    "makername": "遊歩人"
+  },
+  "ベンキュージャパン": {
+    "makername": "BenQ"
+  },
+  "三和": {
+    "makername": "三和"
+  },
+  "シグマ": {
+    "makername": "SIGMA",
+    "methodname": "sigma"
+  },
+  "シナネン": {
+    "makername": "シナネン"
+  },
+  "ビタクラフトジャパン": {
+    "makername": "ビタクラフトジャパン"
+  },
+  "フジマイクロ": {
+    "makername": "フジマイクロ"
+  },
+  "カスタムジャパン": {
+    "makername": "カスタムジャパン"
+  },
+  "ジユ": {
+    "makername": "ジユ"
+  },
+  "パイオニア": {
+    "makername": "Pioneer",
+    "methodname": "pioneer"
+  },
+  "キソパワーツール": {
+    "makername": "キソパワーツール"
+  },
+  "ジップコーポレーション": {
+    "makername": "ジップコーポレーション"
+  },
+  "handcandy": {
+    "makername": "handcandy"
+  },
+  "スカラ": {
+    "makername": "スカラ"
+  },
+  "磯子蒟蒻製造所": {
+    "makername": "磯子蒟蒻製造所"
+  },
+  "リーダーメディアテクノ": {
+    "makername": "リーダーメディアテクノ"
+  },
+  "萩原": {
+    "makername": "萩原"
+  },
+  "太陽誘電": {
+    "makername": "太陽誘電"
+  },
+  "beats by dr.dre": {
+    "makername": "beats by dr.dre"
+  },
+  "キンカ": {
+    "makername": "キンカ"
+  },
+  "ヒロショウ": {
+    "makername": "ヒロショウ"
+  },
+  "ジャパンギャルズ": {
+    "makername": "ジャパンギャルズ"
+  },
+  "カースル": {
+    "makername": "カースル"
+  },
+  "三菱": {
+    "makername": "Mitsubishi",
+    "methodname": "mitsubishi"
+  },
+  "トーエイライト": {
+    "makername": "トーエイライト"
+  },
+  "ディーシーエス": {
+    "makername": "ディーシーエス"
+  },
+  "レボリューション": {
+    "makername": "レボリューション"
+  },
+  "松阪鉄工所": {
+    "makername": "松阪鉄工所"
+  },
+  "ビクターアドバンストメディア": {
+    "makername": "ビクターアドバンストメディア"
+  },
+  "トヨトミ": {
+    "makername": "TOYOTOMI",
+    "methodname": "toyotomi"
+  },
+  "ワイモバイル": {
+    "makername": "ソフトバンク"
+  },
+  "ナチュレ": {
+    "makername": "ナチュレ"
+  },
+  "アイオン": {
+    "makername": "アイオン"
+  },
+  "kuvings": {
+    "makername": "Kuvings"
+  },
+  "agled": {
+    "makername": "AGLED",
+    "methodname": "agled"
+  },
+  "fernandes": {
+    "makername": "FERNANDES"
+  },
+  "aiphone": {
+    "makername": "AIPHONE",
+    "methodname": "aiphone"
+  },
+  "ニトムズ": {
+    "makername": "ニトムズ"
+  },
+  "日本hp": {
+    "makername": "HP"
+  },
+  "ベストツール": {
+    "makername": "ベストツール"
+  },
+  "旭金属": {
+    "makername": "旭金属"
+  },
+  "神東工業": {
+    "makername": "神東"
+  },
+  "シナジートレーディング": {
+    "makername": "シナジートレーディング"
+  },
+  "ダイキン工業": {
+    "makername": "DAIKIN",
+    "methodname": "daikin"
+  },
+  "vertex": {
+    "makername": "Vertex"
+  },
+  "braven": {
+    "makername": "BRAVEN"
+  },
+  "ユニオンケミカー": {
+    "makername": "ユニオンケミカー"
+  },
+  "メタフィス": {
+    "makername": "メタフィス"
+  },
+  "デロンギ・ジャパン": {
+    "makername": "De'Longhi",
+    "methodname": "delonghi"
+  },
+  "金原商店": {
+    "makername": "金原商店"
+  },
+  "上村農園": {
+    "makername": "上村農園"
+  },
+  "ターガス": {
+    "makername": "ターガス"
+  },
+  "サンワサプライ": {
+    "makername": "SANWA SUPPLY",
+    "methodname": "sanwa"
+  },
+  "マウスコンピュータ": {
+    "makername": "マウスコンピューター"
+  },
+  "groom mate": {
+    "makername": "GROOM MATE"
+  },
+  "final": {
+    "makername": "Final Audio Design"
+  },
+  "ergotron": {
+    "makername": "ERGOTRON"
+  },
+  "プライム": {
+    "makername": "CJプライムショッピング"
+  },
+  "mercury": {
+    "makername": "MERCURY"
+  },
+  "エアリア": {
+    "makername": "エアリア"
+  },
+  "ジースタイル": {
+    "makername": "ジースタイル"
+  },
+  "adata": {
+    "makername": "ADATA"
+  },
+  "やまびこ": {
+    "makername": "やまびこ"
+  },
+  "サニア工業": {
+    "makername": "サニア工業"
+  },
+  "日本オイル工業": {
+    "makername": "日本オイル工業"
+  },
+  "アシター商事": {
+    "makername": "アシター商事"
+  },
+  "ジェーピーエヌ": {
+    "makername": "ジェーピーエヌ"
+  },
+  "坂謙": {
+    "makername": "坂謙"
+  },
+  "vixen": {
+    "makername": "Vixen",
+    "methodname": "vixen"
+  },
+  "日本ビジネスプラン": {
+    "makername": "日本ビジネスプラン"
+  },
+  "ワイドシステム": {
+    "makername": "ワイドシステム"
+  },
+  "hanwa": {
+    "makername": "HANWA",
+    "methodname": "hanwa"
+  },
+  "lg electronics japan": {
+    "makername": "LG",
+    "methodname": "lg"
+  },
+  "elitescreens": {
+    "makername": "Elite Screens"
+  },
+  "グローリッジ": {
+    "makername": "GLORIDGE"
+  },
+  "bondhus": {
+    "makername": "BONDHUS"
+  },
+  "apple inc.": {
+    "makername": "Apple"
+  },
+  "不二越": {
+    "makername": "不二越"
+  },
+  "丸栄タオル": {
+    "makername": "丸栄タオル"
+  },
+  "silicon power": {
+    "makername": "SILICON POWER"
+  },
+  "hitachi": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "looxcie": {
+    "makername": "Looxcie"
+  },
+  "ディズニー": {
+    "makername": "ディズニー"
+  },
+  "tescom": {
+    "makername": "TESCOM",
+    "methodname": "tescom"
+  },
+  "クレハ合繊": {
+    "makername": "クレハ合繊"
+  },
+  "イシグロ": {
+    "makername": "イシグロ"
+  },
+  "pqi japan": {
+    "makername": "PQI"
+  },
+  "大一商事": {
+    "makername": "大一商事"
+  },
+  "ツカモト": {
+    "makername": "ツカモトエイム",
+    "methodname": "tsukamoto_aim"
+  },
+  "長谷弘工業": {
+    "makername": "長谷弘工業"
+  },
+  "mighty wallet": {
+    "makername": "Mighty Wallet"
+  },
+  "アネックス": {
+    "makername": "アネックス"
+  },
+  "ケンコー・トキナー": {
+    "makername": "Kenko Tokina",
+    "methodname": "kenko_tokina"
+  },
+  "東江物産": {
+    "makername": "東江物産"
+  },
+  "アリイズ": {
+    "makername": "アリイズ"
+  },
+  "silicon": {
+    "makername": "SILICON POWER"
+  },
+  "メディカルone": {
+    "makername": "メディカルONE"
+  },
+  "親和産業": {
+    "makername": "親和産業"
+  },
+  "北陸土井工業": {
+    "makername": "北陸土井工業"
+  },
+  "celltrix japan": {
+    "makername": "Celltrix Japan"
+  },
+  "アデッソ": {
+    "makername": "アデッソ"
+  },
+  "サンワダイレクト": {
+    "makername": "SANWA SUPPLY",
+    "methodname": "sanwa"
+  },
+  "frc": {
+    "makername": "FRC"
+  },
+  "nec": {
+    "makername": "NEC",
+    "methodname": "nec"
+  },
+  "シーアンドシー・サンパック": {
+    "makername": "シーアンドシー・サンパック"
+  },
+  "アイシー": {
+    "makername": "アイシー"
+  },
+  "japanイヤホン製造": {
+    "makername": "JAPANイヤホン製造"
+  },
+  "伊藤屋国際": {
+    "makername": "伊藤屋国際"
+  },
+  "ブランケネーゼ": {
+    "makername": "ブランケネーゼ"
+  },
+  "cjプライムショッピング": {
+    "makername": "CJプライムショッピング"
+  },
+  "ハウスビーエム": {
+    "makername": "ハウスビーエム"
+  },
+  "アドトロンテクノロジー": {
+    "makername": "アドトロンテクノロジー"
+  },
+  "ラッキートレンディ": {
+    "makername": "ラッキートレンディ"
+  },
+  "プランテック": {
+    "makername": "プランテック"
+  },
+  "ニシケン": {
+    "makername": "ニシケン"
+  },
+  "淡野製作所": {
+    "makername": "淡野製作所"
+  },
+  "ビーティフィック": {
+    "makername": "ビーティフィック"
+  },
+  "センター商事": {
+    "makername": "センター商事"
+  },
+  "csr": {
+    "makername": "CSR"
+  },
+  "長谷川工業所": {
+    "makername": "長谷川工業所"
+  },
+  "レヂナ": {
+    "makername": "レヂナ"
+  },
+  "agetuya": {
+    "makername": "ローネジャパン"
+  },
+  "グリーンライフ": {
+    "makername": "グリーンライフ"
+  },
+  "水田工業": {
+    "makername": "水田工業"
+  },
+  "インタフェース": {
+    "makername": "インタフェース"
+  },
+  "東谷": {
+    "makername": "東谷"
+  },
+  "ユナイテッドコーヒージャパン": {
+    "makername": "ユナイテッドコーヒージャパン"
+  },
+  "spread": {
+    "makername": "SPREAD"
+  },
+  "パワーテック": {
+    "makername": "パワーテック"
+  },
+  "町田繊維工業": {
+    "makername": "町田繊維工業"
+  },
+  "マーベル": {
+    "makername": "マーベル"
+  },
+  "sureman": {
+    "makername": "SUREMAN"
+  },
+  "mackie": {
+    "makername": "MACKIE"
+  },
+  "エスコ": {
+    "makername": "エスコ"
+  },
+  "ナジャペレーネ": {
+    "makername": "ナジャペレーネ"
+  },
+  "haier": {
+    "makername": "Haier",
+    "methodname": "haier"
+  },
+  "ファイナル オーディオ": {
+    "makername": "Final Audio Design"
+  },
+  "イーグルエンタープライズ": {
+    "makername": "イーグルエンタープライズ"
+  },
+  "シースピリッツ": {
+    "makername": "シースピリッツ"
+  },
+  "スターリング": {
+    "makername": "スターリング"
+  },
+  "gammac": {
+    "makername": "Gammac"
+  },
+  "sis": {
+    "makername": "SIS"
+  },
+  "イーフロンティア": {
+    "makername": "イーフロンティア"
+  },
+  "リコー": {
+    "makername": "RICOH",
+    "methodname": "ricoh"
+  },
+  "川崎合成樹脂": {
+    "makername": "川崎合成樹脂"
+  },
+  "池永鉄工": {
+    "makername": "池永鉄工"
+  },
+  "日美": {
+    "makername": "日美"
+  },
+  "協同電子エンジニアリング": {
+    "makername": "協同電子エンジニアリング"
+  },
+  "mitsubishi": {
+    "makername": "Mitsubishi",
+    "methodname": "mitsubishi"
+  },
+  "マッキントッシュ": {
+    "makername": "マッキントッシュ"
+  },
+  "アプロス": {
+    "makername": "アプロス"
+  },
+  "グランドデュークス": {
+    "makername": "グランドデュークス"
+  },
+  "エー・アンド・デイ": {
+    "makername": "AND",
+    "methodname": "aandd"
+  },
+  "富士": {
+    "makername": "富士"
+  },
+  "スタイルラッシュ": {
+    "makername": "スタイルラッシュ"
+  },
+  "朝日技研工業": {
+    "makername": "朝日技研工業"
+  },
+  "サン自動車工業": {
+    "makername": "サン自動車工業"
+  },
+  "ユニカ": {
+    "makername": "ユニカ"
+  },
+  "瀬戸内通商": {
+    "makername": "瀬戸内通商"
+  },
+  "ライカカメラジャパン": {
+    "makername": "Leica",
+    "methodname": "leica"
+  },
+  "gopod": {
+    "makername": "Gopod"
+  },
+  "新東電器": {
+    "makername": "新東電器"
+  },
+  "トーコマ": {
+    "makername": "トーコマ"
+  },
+  "fiio": {
+    "makername": "Fiio"
+  },
+  "sanyo": {
+    "makername": "SANYO",
+    "methodname": "panasonic"
+  },
+  "ビッグフィールド": {
+    "makername": "ビッグフィールド"
+  },
+  "オーセラス販売": {
+    "makername": "オーセラス販売"
+  },
+  "永田金網製造": {
+    "makername": "永田金網製造"
+  },
+  "スターエム": {
+    "makername": "スターエム"
+  },
+  "ビーワイディージャパン": {
+    "makername": "ビーワイディージャパン"
+  },
+  "野澤産業": {
+    "makername": "野澤産業"
+  },
+  "クレエ": {
+    "makername": "クレエ"
+  },
+  "ジームス": {
+    "makername": "ジームス"
+  },
+  "ベッセル工業": {
+    "makername": "VESSEL"
+  },
+  "神田商会": {
+    "makername": "神田商会"
+  },
+  "カラテック": {
+    "makername": "カラテック"
+  },
+  "クラリオン": {
+    "makername": "クラリオン"
+  },
+  "イーナ": {
+    "makername": "イーナ"
+  },
+  "p&g": {
+    "makername": "P&G"
+  },
+  "サクラエコクリーン": {
+    "makername": "サクラエコクリーン"
+  },
+  "lala parfait": {
+    "makername": "シネックスインフォテック"
+  },
+  "イケヒコ・コーポレーション": {
+    "makername": "イケヒコ・コーポレーション"
+  },
+  "サンウエイ": {
+    "makername": "サンウエイ"
+  },
+  "ハイアールアクアセールス": {
+    "makername": "Haier",
+    "methodname": "haier"
+  },
+  "ホンマ製作所": {
+    "makername": "ホンマ製作所"
+  },
+  "マッドキャッツ": {
+    "makername": "マッドキャッツ"
+  },
+  "永山": {
+    "makername": "永山"
+  },
+  "オスターoster": {
+    "makername": "オスターOster"
+  },
+  "princess": {
+    "makername": "PRINCESS"
+  },
+  "ナカヤ": {
+    "makername": "ナカヤ"
+  },
+  "アーツ": {
+    "makername": "アーツ"
+  },
+  "coway": {
+    "makername": "coway"
+  },
+  "スープラ": {
+    "makername": "スープラ"
+  },
+  "ミツトモ製作所": {
+    "makername": "ミツトモ製作所"
+  },
+  "nexx": {
+    "makername": "NEXX"
+  },
+  "ask trading": {
+    "makername": "ASK TRADING"
+  },
+  "日章工業": {
+    "makername": "日章工業"
+  },
+  "pqi": {
+    "makername": "PQI"
+  },
+  "日本エスピー工業": {
+    "makername": "日本エスピー工業"
+  },
+  "final audio design": {
+    "makername": "Final Audio Design"
+  },
+  "明成": {
+    "makername": "明成"
+  },
+  "ハイアールアジア": {
+    "makername": "Haier",
+    "methodname": "haier"
+  },
+  "グローバルプロダクトプランニング": {
+    "makername": "グローバルプロダクトプランニング"
+  },
+  "現代百貨": {
+    "makername": "現代百貨"
+  },
+  "ニュー・デルタ・トレーディング": {
+    "makername": "ニュー・デルタ・トレーディング"
+  },
+  "misfit wearable": {
+    "makername": "MISFIT WEARABLE"
+  },
+  "メリタ": {
+    "makername": "Melitta",
+    "methodname": "melitta"
+  },
+  "アクティー": {
+    "makername": "アクティー"
+  },
+  "buffalo": {
+    "makername": "BUFFALO",
+    "methodname": "buffalo"
+  },
+  "大同興業": {
+    "makername": "大同興業"
+  },
+  "スリーエムジャパン": {
+    "makername": "スリーエムジャパン"
+  },
+  "守屋商店": {
+    "makername": "守屋商店"
+  },
+  "solis": {
+    "makername": "Solis"
+  },
+  "rayqual": {
+    "makername": "RAYQUAL"
+  },
+  "amazon": {
+    "makername": "Amazon"
+  },
+  "森井": {
+    "makername": "森井"
+  },
+  "コンヨ": {
+    "makername": "コンヨ"
+  },
+  "元林": {
+    "makername": "元林"
+  },
+  "岩渕ウェルネス": {
+    "makername": "岩渕ウェルネス"
+  },
+  "ブルーネクストジャパン": {
+    "makername": "ブルーネクストジャパン"
+  },
+  "bcジャパン": {
+    "makername": "BCジャパン"
+  },
+  "サカベ": {
+    "makername": "サカベ"
+  },
+  "tsutaya stationery network": {
+    "makername": "TSUTAYA STATIONERY NETWORK"
+  },
+  "島産業": {
+    "makername": "島産業"
+  },
+  "八幡化成": {
+    "makername": "八幡化成"
+  },
+  "アマノ": {
+    "makername": "アマノ"
+  },
+  "エレコム": {
+    "makername": "ELECOM",
+    "methodname": "elecom"
+  },
+  "マリン商事": {
+    "makername": "マリン商事"
+  },
+  "せいらく": {
+    "makername": "せいらく"
+  },
+  "oppo digital japan": {
+    "makername": "OPPO Digital"
+  },
+  "ヤマグチ": {
+    "makername": "ヤマグチ"
+  },
+  "三ッ星貿易": {
+    "makername": "三ッ星貿易"
+  },
+  "rip-tie": {
+    "makername": "RIP-TIE"
+  },
+  "松吉医科器械": {
+    "makername": "松吉医科器械"
+  },
+  "kouziro": {
+    "makername": "KOUZIRO"
+  },
+  "スガイエンタープライズ": {
+    "makername": "スガイエンタープライズ"
+  },
+  "ウィンテクノ": {
+    "makername": "ウィンテクノ"
+  },
+  "日本マース": {
+    "makername": "日本マース"
+  },
+  "高須産業": {
+    "makername": "高須産業"
+  },
+  "日本ヒューレットパッカード": {
+    "makername": "HP"
+  },
+  "ツインバード": {
+    "makername": "TWINBIRD",
+    "methodname": "twinbird"
+  },
+  "新潟精機": {
+    "makername": "新潟精機"
+  },
+  "hario": {
+    "makername": "HARIO"
+  },
+  "ノバック": {
+    "makername": "ノバック"
+  },
+  "campa by dimplex": {
+    "makername": "Dimplex"
+  },
+  "ウイルコム": {
+    "makername": "ウイルコム"
+  },
+  "asus tek": {
+    "makername": "ASUS",
+    "methodname": "asus"
+  },
+  "docomo": {
+    "makername": "NTTドコモ"
+  },
+  "日本サムスン": {
+    "makername": "SAMSUNG"
+  },
+  "瀧住電機工業": {
+    "makername": "瀧住電機工業"
+  },
+  "ミクニ": {
+    "makername": "ミクニ"
+  },
+  "ce la vie": {
+    "makername": "セラヴィ"
+  },
+  "三宝産業": {
+    "makername": "三宝"
+  },
+  "協和工業": {
+    "makername": "協和工業"
+  },
+  "レイ・アウト": {
+    "makername": "レイ・アウト"
+  },
+  "スキャンデックス": {
+    "makername": "スキャンデックス"
+  },
+  "シェンペクス・インターナショナル": {
+    "makername": "シェンペクス・インターナショナル"
+  },
+  "ユタカメイク": {
+    "makername": "ユタカメイク"
+  },
+  "epson": {
+    "makername": "EPSON",
+    "methodname": "epson"
+  },
+  "エム・エス・シー": {
+    "makername": "エム・エス・シー"
+  },
+  "jvcケンウッド": {
+    "makername": "JVC KENWOOD",
+    "methodname": "jvc_kenwood"
+  },
+  "lomography": {
+    "makername": "LOMOGRAPHY"
+  },
+  "audioquest": {
+    "makername": "audioquest"
+  },
+  "holga": {
+    "makername": "HOLGA"
+  },
+  "ジーナス": {
+    "makername": "ジーナス"
+  },
+  "quadral": {
+    "makername": "Quadral"
+  },
+  "ソニー  サイバーショット": {
+    "makername": "SONY",
+    "methodname": "sony"
+  },
+  "キタコ": {
+    "makername": "キタコ"
+  },
+  "ヤマハ": {
+    "makername": "YAMAHA",
+    "methodname": "yamaha"
+  },
+  "仲佐": {
+    "makername": "仲佐"
+  },
+  "ハシモト": {
+    "makername": "ハシモト"
+  },
+  "monitor audio": {
+    "makername": "Monitor Audio"
+  },
+  "ホリ": {
+    "makername": "ホリ"
+  },
+  "日立": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "ローネジャパン": {
+    "makername": "ローネジャパン"
+  },
+  "インプリンク": {
+    "makername": "インプリンク"
+  },
+  "エスティトレード": {
+    "makername": "エスティトレード"
+  },
+  "suiden": {
+    "makername": "Suiden",
+    "methodname": "suiden"
+  },
+  "ハイテック マルチプレックス ジャパン": {
+    "makername": "HITEC",
+    "methodname": "hitec"
+  },
+  "大阪ブラシ": {
+    "makername": "大阪ブラシ"
+  },
+  "toyotomi": {
+    "makername": "TOYOTOMI",
+    "methodname": "toyotomi"
+  },
+  "moser baer": {
+    "makername": "Moser Baer"
+  },
+  "タンノイ": {
+    "makername": "タンノイ"
+  },
+  "徳安": {
+    "makername": "徳安"
+  },
+  "キャネット": {
+    "makername": "キャネット"
+  },
+  "角利産業": {
+    "makername": "角利産業"
+  },
+  "三菱電機エンジニアリング": {
+    "makername": "Mitsubishi",
+    "methodname": "mitsubishi"
+  },
+  "和気産業": {
+    "makername": "和気産業"
+  },
+  "mipow": {
+    "makername": "MIPOW"
+  },
+  "神沢鉄工": {
+    "makername": "神沢鉄工"
+  },
+  "日本ヒルスコーヒー": {
+    "makername": "日本ヒルスコーヒー"
+  },
+  "日本精密測器": {
+    "makername": "NISSEI"
+  },
+  "ユニバーサル": {
+    "makername": "ユニバーサル"
+  },
+  "ミュージックバード": {
+    "makername": "ミュージックバード"
+  },
+  "長堀工業": {
+    "makername": "長堀工業"
+  },
+  "スクウェア・エニックス": {
+    "makername": "スクウェア・エニックス"
+  },
+  "日進工具": {
+    "makername": "日進工具"
+  },
+  "ドスパラ": {
+    "makername": "ドスパラ"
+  },
+  "シンワ測定": {
+    "makername": "シンワ測定"
+  },
+  "華芝ジャパン": {
+    "makername": "華芝ジャパン"
+  },
+  "マキノトレーディング": {
+    "makername": "マキノトレーディング"
+  },
+  "ttrobotix": {
+    "makername": "TTRobotix"
+  },
+  "日本トリム": {
+    "makername": "日本トリム"
+  },
+  "沖電気工業": {
+    "makername": "OKI"
+  },
+  "アルファックス": {
+    "makername": "アルファックス"
+  },
+  "優文": {
+    "makername": "優文"
+  },
+  "garmin": {
+    "makername": "GARMIN"
+  },
+  "アミジェス": {
+    "makername": "アミジェス"
+  },
+  "toho": {
+    "makername": "TOHO"
+  },
+  "キャンブロ": {
+    "makername": "キャンブロ"
+  },
+  "fdk": {
+    "makername": "FDK"
+  },
+  "mvpenテクノロジーズ": {
+    "makername": "MVPenテクノロジーズ"
+  },
+  "クイジナート": {
+    "makername": "Cuisinart",
+    "methodname": "cuisinart"
+  },
+  "福さ屋": {
+    "makername": "福さ屋"
+  },
+  "ニッセイ": {
+    "makername": "NISSEI",
+    "methodname": "nissei"
+  },
+  "sanwa supply": {
+    "makername": "SANWA SUPPLY",
+    "methodname": "sanwa"
+  },
+  "大作商事": {
+    "makername": "大作商事"
+  },
+  "アサダ": {
+    "makername": "アサダ"
+  },
+  "impex optronics technology co., ltd.": {
+    "makername": "Impex Optronics Technology Co., Ltd."
+  },
+  "ハヤシ": {
+    "makername": "ハヤシ"
+  },
+  "アイロボット": {
+    "makername": "iRobot"
+  },
+  "富士ホーロー": {
+    "makername": "富士ホーロー"
+  },
+  "ウィズ": {
+    "makername": "ウィズ"
+  },
+  "タフコ": {
+    "makername": "タフコ"
+  },
+  "クレオ工業": {
+    "makername": "クレオ工業"
+  },
+  "幡ヶ谷カバン製作所": {
+    "makername": "幡ヶ谷カバン製作所"
+  },
+  "リンナイ": {
+    "makername": "Rinnai",
+    "methodname": "rinnai"
+  },
+  "エステー産業": {
+    "makername": "エステー産業"
+  },
+  "自然": {
+    "makername": "自然"
+  },
+  "ニシガキ工業": {
+    "makername": "ニシガキ工業"
+  },
+  "東彼セラミックス": {
+    "makername": "東彼セラミックス"
+  },
+  "リンクスインターナショナル": {
+    "makername": "リンクス"
+  },
+  "堀商店": {
+    "makername": "堀商店"
+  },
+  "センチュリー": {
+    "makername": "センチュリー"
+  },
+  "アークランドサカモト": {
+    "makername": "アークランドサカモト"
+  },
+  "プロスペック": {
+    "makername": "プロスペック"
+  },
+  "pantech": {
+    "makername": "PANTECH"
+  },
+  "dnpフォトルシオ": {
+    "makername": "DNPフォトルシオ"
+  },
+  "オークセール": {
+    "makername": "Auc Sale",
+    "methodname": "aucsale"
+  },
+  "レックスマーク": {
+    "makername": "レックスマーク"
+  },
+  "サン・プランニング": {
+    "makername": "サン・プランニング"
+  },
+  "アットワーキング": {
+    "makername": "アットワーキング"
+  },
+  "サン電子": {
+    "makername": "サン電子"
+  },
+  "よこやま": {
+    "makername": "よこやま"
+  },
+  "ディーリンクジャパン": {
+    "makername": "ディーリンクジャパン"
+  },
+  "アール・ダブリュー・シー": {
+    "makername": "R.W.C"
+  },
+  "コロンバスサークル": {
+    "makername": "コロンバスサークル"
+  },
+  "bejoy": {
+    "makername": "BEJOY"
+  },
+  "マキコーポレーション": {
+    "makername": "マキコーポレーション"
+  },
+  "cambridge audio": {
+    "makername": "Cambridge Audio"
+  },
+  "ラックスマン": {
+    "makername": "ラックスマン"
+  },
+  "コンパル": {
+    "makername": "コンパル"
+  },
+  "カリタ": {
+    "makername": "カリタ"
+  },
+  "プリンストン": {
+    "makername": "プリンストン"
+  },
+  "象印マホービン": {
+    "makername": "ZOJIRUSHI",
+    "methodname": "zojirushi"
+  },
+  "ノーブランド": {
+    "makername": "ノーブランド"
+  },
+  "ハルショウライフ": {
+    "makername": "ハルショウライフ"
+  },
+  "gac": {
+    "makername": "GAC"
+  },
+  "ノア": {
+    "makername": "NOA"
+  },
+  "panasonic": {
+    "makername": "Panasonic",
+    "methodname": "panasonic"
+  },
+  "睦技研": {
+    "makername": "睦技研"
+  },
+  "r&m": {
+    "makername": "R&M"
+  },
+  "de'longhi": {
+    "makername": "De'Longhi",
+    "methodname": "delonghi"
+  },
+  "optoma technology": {
+    "makername": "OPTOMA TECHNOLOGY"
+  },
+  "島崎蔀商店": {
+    "makername": "島崎蔀商店"
+  },
+  "geanee": {
+    "makername": "GEANEE"
+  },
+  "ベンチャークラフト": {
+    "makername": "ベンチャークラフト"
+  },
+  "ドール": {
+    "makername": "ドール"
+  },
+  "クロシオ": {
+    "makername": "クロシオ"
+  },
+  "mag-lab": {
+    "makername": "MAG-LAB"
+  },
+  "j-force": {
+    "makername": "フォースメディア"
+  },
+  "ガイズ": {
+    "makername": "GAIS"
+  },
+  "ツインズ": {
+    "makername": "ツインズ"
+  },
+  "アンドーインターナショナル": {
+    "makername": "アンドーインターナショナル"
+  },
+  "ヤマト自動車": {
+    "makername": "ヤマト自動車"
+  },
+  "富士器業": {
+    "makername": "富士器業"
+  },
+  "レックマウント": {
+    "makername": "レックマウント"
+  },
+  "bluedot": {
+    "makername": "BLUEDOT",
+    "methodname": "bluedot"
+  },
+  "fujix": {
+    "makername": "FUJIX"
+  },
+  "フィリップス": {
+    "makername": "PHILIPS",
+    "methodname": "philips"
+  },
+  "大阪漁具": {
+    "makername": "大阪漁具"
+  },
+  "吉田産業": {
+    "makername": "RAYNOX"
+  },
+  "レノボ・ジャパン": {
+    "makername": "Lenovo"
+  },
+  "daiko": {
+    "makername": "DAIKO",
+    "methodname": "daiko"
+  },
+  "ヤザワ": {
+    "makername": "YAZAWA",
+    "methodname": "yazawa"
+  },
+  "パイオニアホームエレクトロニクス": {
+    "makername": "Pioneer",
+    "methodname": "pioneer"
+  },
+  "レイクォール": {
+    "makername": "RAYQUAL"
+  },
+  "areti": {
+    "makername": "Areti"
+  },
+  "レアック・ジャパン": {
+    "makername": "レアック・ジャパン"
+  },
+  "村上スッポン本舗": {
+    "makername": "村上スッポン本舗"
+  },
+  "アックスブレーン": {
+    "makername": "アックスブレーン"
+  },
+  "キングジム": {
+    "makername": "キングジム"
+  },
+  "マザーツール": {
+    "makername": "マザーツール"
+  },
+  "フナソー": {
+    "makername": "フナソー"
+  },
+  "art work studio": {
+    "makername": "アートワークスタジオ"
+  },
+  "濱田プレス工藝": {
+    "makername": "濱田プレス工藝"
+  },
+  "東芝コンシューママーケティング": {
+    "makername": "TOSHIBA",
+    "methodname": "toshiba"
+  },
+  "microsoft": {
+    "makername": "Microsoft"
+  },
+  "uniden": {
+    "makername": "Uniden",
+    "methodname": "uniden"
+  },
+  "エイスース": {
+    "makername": "ASUS",
+    "methodname": "asus"
+  },
+  "yonex": {
+    "makername": "YONEX"
+  },
+  "パナソニック  let'snote": {
+    "makername": "Panasonic",
+    "methodname": "panasonic"
+  },
+  "高尾食品": {
+    "makername": "高尾食品"
+  },
+  "ノーブランド品": {
+    "makername": "ノーブランド"
+  },
+  "カモン": {
+    "makername": "COMON"
+  },
+  "竹原製缶": {
+    "makername": "竹原製罐"
+  },
+  "ロジテックinaソリューションズ": {
+    "makername": "Logitec",
+    "methodname": "logitec"
+  },
+  "山水": {
+    "makername": "山水"
+  },
+  "le creuset": {
+    "makername": "Le Creuset"
+  },
+  "marware": {
+    "makername": "Marware"
+  },
+  "津田商事": {
+    "makername": "津田商事"
+  },
+  "日本洋食器": {
+    "makername": "日本洋食器"
+  },
+  "スカイニー": {
+    "makername": "スカイニー"
+  },
+  "富士倉": {
+    "makername": "富士倉"
+  },
+  "eschenbach": {
+    "makername": "ESCHENBACH"
+  },
+  "nishiyama": {
+    "makername": "nishiyama"
+  },
+  "oral-b": {
+    "makername": "BRAUN",
+    "methodname": "braun"
+  },
+  "クレイダ": {
+    "makername": "クレイダ"
+  },
+  "コムワークス": {
+    "makername": "コムワークス"
+  },
+  "新和トレーディング": {
+    "makername": "新和トレーディング"
+  },
+  "プライマー": {
+    "makername": "ナスペック"
+  },
+  "ビックツール": {
+    "makername": "ビックツール"
+  },
+  "shure": {
+    "makername": "SHURE"
+  },
+  "dxアンテナ": {
+    "makername": "DXアンテナ",
+    "methodname": "dxantenna"
+  },
+  "テンパール工業": {
+    "makername": "テンパール工業"
+  },
+  "トランストレード": {
+    "makername": "トランストレード"
+  },
+  "桜木電子": {
+    "makername": "桜木電子"
+  },
+  "lg電子": {
+    "makername": "LG",
+    "methodname": "lg"
+  },
+  "富士メディック": {
+    "makername": "富士メディック"
+  },
+  "eiyaaa": {
+    "makername": "eiYAAA"
+  },
+  "星光産業": {
+    "makername": "星光産業"
+  },
+  "ハイパーツールズ": {
+    "makername": "ハイパーツールズ"
+  },
+  "アイデック": {
+    "makername": "アイデック"
+  },
+  "日東工器": {
+    "makername": "日東工器"
+  },
+  "aurisonics": {
+    "makername": "Aurisonics"
+  },
+  "エスピーガジェット": {
+    "makername": "エスピーガジェット"
+  },
+  "田中金属製作所": {
+    "makername": "田中金属製作所"
+  },
+  "川嶋工業": {
+    "makername": "川嶋工業"
+  },
+  "早川繊維工業": {
+    "makername": "早川繊維工業"
+  },
+  "日立化成": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "ハッピー金属工業": {
+    "makername": "ハッピー金属工業"
+  },
+  "エルックス": {
+    "makername": "エルックス"
+  },
+  "東出漆器店": {
+    "makername": "東出漆器店"
+  },
+  "キヤノン電子": {
+    "makername": "Canon",
+    "methodname": "canon"
+  },
+  "replayxd": {
+    "makername": "Replay"
+  },
+  "レイノックス": {
+    "makername": "RAYNOX"
+  },
+  "スマートライフソリューションズ": {
+    "makername": "スマートライフソリューションズ"
+  },
+  "トップ・ワン": {
+    "makername": "トップ・ワン"
+  },
+  "sknet": {
+    "makername": "SKNET",
+    "methodname": "sknet"
+  },
+  "東京企画": {
+    "makername": "東京企画"
+  },
+  "knack industry": {
+    "makername": "KNACK Industry"
+  },
+  "ホスピタルサービス": {
+    "makername": "ホスピタルサービス"
+  },
+  "映像センター": {
+    "makername": "映像センター"
+  },
+  "etymotic": {
+    "makername": "Etymotic Research"
+  },
+  "富士珈機": {
+    "makername": "富士珈機"
+  },
+  "泉精器製作所": {
+    "makername": "IZUMI",
+    "methodname": "izumi"
+  },
+  "エピオス": {
+    "makername": "エピオス"
+  },
+  "日本精器": {
+    "makername": "日本精器"
+  },
+  "otogino": {
+    "makername": "OTOGINO"
+  },
+  "アプライド": {
+    "makername": "アプライド"
+  },
+  "ハンザ": {
+    "makername": "ハンザ"
+  },
+  "digital blue": {
+    "makername": "Digital Blue"
+  },
+  "マランツ": {
+    "makername": "マランツ"
+  },
+  "ジャパンアート": {
+    "makername": "ジャパンアート"
+  },
+  "ラディウス": {
+    "makername": "ラディウス"
+  },
+  "山崎産業": {
+    "makername": "山崎産業"
+  },
+  "タニタ": {
+    "makername": "TANITA",
+    "methodname": "tanita"
+  },
+  "藤本千寿堂": {
+    "makername": "藤本千寿堂"
+  },
+  "ナリス化粧品": {
+    "makername": "ナリス化粧品"
+  },
+  "マクサー": {
+    "makername": "マクサー"
+  },
+  "興和": {
+    "makername": "興和"
+  },
+  "メイクビー": {
+    "makername": "メイクビー"
+  },
+  "cogito": {
+    "makername": "COGITO"
+  },
+  "アラミック": {
+    "makername": "アラミック"
+  },
+  "ミヨシ": {
+    "makername": "ミヨシ"
+  },
+  "audio-technica": {
+    "makername": "audio-technica",
+    "methodname": "audio_technica"
+  },
+  "新日本通商": {
+    "makername": "新日本通商"
+  },
+  "モンスターケーブル": {
+    "makername": "MONSTER"
+  },
+  "ecorica": {
+    "makername": "ecorica"
+  },
+  "リュミエリーナ": {
+    "makername": "リュミエリーナ"
+  },
+  "永光": {
+    "makername": "永光"
+  },
+  "カクセー": {
+    "makername": "カクセー"
+  },
+  "寺西商事": {
+    "makername": "寺西商事"
+  },
+  "和平フレイズ": {
+    "makername": "和平フレイズ"
+  },
+  "cecホールディングス": {
+    "makername": "CECホールディングス"
+  },
+  "カラークリエーション": {
+    "makername": "カラークリエーション"
+  },
+  "大阪加工水産": {
+    "makername": "大阪加工水産"
+  },
+  "サイズ": {
+    "makername": "サイズ"
+  },
+  "アイム": {
+    "makername": "アイム"
+  },
+  "ミラリード": {
+    "makername": "ミラリード"
+  },
+  "リーベ": {
+    "makername": "リーベ"
+  },
+  "日本ウォール": {
+    "makername": "日本ウォール"
+  },
+  "パトライト": {
+    "makername": "パトライト"
+  },
+  "日晴金属": {
+    "makername": "日晴金属"
+  },
+  "aisin": {
+    "makername": "AISIN",
+    "methodname": "aisin"
+  },
+  "qnap": {
+    "makername": "QNAP"
+  },
+  "茶谷産業": {
+    "makername": "茶谷産業"
+  },
+  "belkin components": {
+    "makername": "Belkin Components"
+  },
+  "feuer hand": {
+    "makername": "FEUER HAND"
+  },
+  "dimplex": {
+    "makername": "Dimplex"
+  },
+  "三栄コーポレーション": {
+    "makername": "三栄"
+  },
+  "泉食品": {
+    "makername": "泉食品"
+  },
+  "日健サンゴ": {
+    "makername": "日健サンゴ"
+  },
+  "replay": {
+    "makername": "Replay"
+  },
+  "ccp": {
+    "makername": "CCP",
+    "methodname": "ccp"
+  },
+  "レッドスパイス": {
+    "makername": "レッドスパイス"
+  },
+  "singer": {
+    "makername": "SINGER",
+    "methodname": "singer"
+  },
+  "富士パックス販売": {
+    "makername": "富士パックス販売"
+  },
+  "エイコー": {
+    "makername": "エイコー"
+  },
+  "丸山技研": {
+    "makername": "丸山技研"
+  },
+  "アドフィールド": {
+    "makername": "アドフィールド"
+  },
+  "シシクアドクライス": {
+    "makername": "シシクアドクライス"
+  },
+  "yo-ko": {
+    "makername": "YO-KO"
+  },
+  "mjsoft": {
+    "makername": "MJSOFT"
+  },
+  "ほんやら堂": {
+    "makername": "ほんやら堂"
+  },
+  "apple japan": {
+    "makername": "Apple"
+  },
+  "ゲットイット": {
+    "makername": "ゲットイット"
+  },
+  "アスク": {
+    "makername": "アスク"
+  },
+  "ヴィトラ": {
+    "makername": "ヴィトラ"
+  },
+  "ratoc": {
+    "makername": "RATOC",
+    "methodname": "ratocsystems"
+  },
+  "リラージュ": {
+    "makername": "リラージュ"
+  },
+  "datel japan": {
+    "makername": "DATEL JAPAN"
+  },
+  "サトー商事": {
+    "makername": "サトー商事"
+  },
+  "cresyn": {
+    "makername": "CRESYN"
+  },
+  "kobold japan": {
+    "makername": "Kobold Japan"
+  },
+  "doshisha": {
+    "makername": "DOSHISHA",
+    "methodname": "doshisha"
+  },
+  "apple": {
+    "makername": "Apple"
+  },
+  "日立コンシューマ・マーケティング": {
+    "makername": "HITACHI",
+    "methodname": "hitachi"
+  },
+  "マコト": {
+    "makername": "マコト"
+  },
+  "川本産業": {
+    "makername": "川本産業"
+  },
+  "sound freaq": {
+    "makername": "SOUND FREAQ"
+  },
+  "etymotic research": {
+    "makername": "Etymotic Research"
+  },
+  "東心": {
+    "makername": "東心"
+  },
+  "芳国産業": {
+    "makername": "芳国産業"
+  },
+  "ボダム": {
+    "makername": "Bodum"
+  },
+  "中越自動車用品": {
+    "makername": "中越自動車用品"
+  },
+  "東洋水産": {
+    "makername": "東洋水産"
+  },
+  "アドミラル産業": {
+    "makername": "アドミラル産業"
+  },
+  "藤田食糧物産": {
+    "makername": "藤田食糧物産"
+  },
+  "カートン": {
+    "makername": "カートン光学"
+  },
+  "fissler": {
+    "makername": "Fissler"
+  },
+  "太郎吉商店": {
+    "makername": "太郎吉商店"
+  },
+  "ハンファ・ジャパン": {
+    "makername": "ハンファ・ジャパン"
+  },
+  "フジックス": {
+    "makername": "FUJIX"
+  },
+  "デザインファクトリー": {
+    "makername": "デザインファクトリー"
+  },
+  "中初": {
+    "makername": "中初"
+  },
+  "東北新社": {
+    "makername": "東北新社"
+  },
+  "エムケー精工": {
+    "makername": "MK",
+    "methodname": "mk"
+  },
+  "fs": {
+    "makername": "FS"
+  },
+  "ニコテック": {
+    "makername": "ニコテック"
+  },
+  "岡田金属工業所": {
+    "makername": "岡田金属工業所"
+  },
+  "キクチ科学研究所": {
+    "makername": "キクチ科学研究所"
+  },
+  "廣瀬無線電機": {
+    "makername": "廣瀬無線電機"
+  },
+  "ナカバヤシ": {
+    "makername": "ナカバヤシ"
+  },
+  "dukshin": {
+    "makername": "DUKSHIN"
+  },
+  "marshal": {
+    "makername": "MARSHAL"
+  },
+  "掃除機": {
+    "makername": "掃除機"
+  },
+  "ディバーシー": {
+    "makername": "ディバーシー"
+  },
+  "ユビキタスエンターテインメント": {
+    "makername": "ユビキタスエンターテインメント"
+  },
+  "第一電波工業": {
+    "makername": "第一電波工業"
+  },
+  "佐藤計量器製作所": {
+    "makername": "佐藤計量器製作所"
+  },
+  "アール": {
+    "makername": "アール"
+  },
+  "小山金属工業所": {
+    "makername": "小山金属工業所"
+  },
+  "エムアイセブンジャパン": {
+    "makername": "エムアイセブンジャパン"
+  },
+  "高芝ギムネ製作所": {
+    "makername": "高芝ギムネ製作所"
+  },
+  "mib": {
+    "makername": "MIB"
+  },
+  "マルサン近藤": {
+    "makername": "マルサン近藤"
+  },
+  "マーナ": {
+    "makername": "マーナ"
+  },
+  "トレードワークス": {
+    "makername": "トレードワークス"
+  },
+  "プラスワン・マーケティング": {
+    "makername": "プラスワン・マーケティング"
+  },
+  "テックウインド": {
+    "makername": "テックウインド"
+  },
+  "dr.aires": {
+    "makername": "Dr.Aires"
+  },
+  "msソリューションズ": {
+    "makername": "MSソリューションズ"
+  },
+  "フジワーク": {
+    "makername": "フジワーク"
+  },
+  "フォースメディア": {
+    "makername": "フォースメディア"
+  },
+  "ロジクール": {
+    "makername": "logicool"
+  },
+  "若井ホールディングス": {
+    "makername": "若井ホールディングス"
+  }
+}
