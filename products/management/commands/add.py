@@ -19,8 +19,6 @@ class Command(BaseCommand):
                     if is_product:
                         continue
 
-
-                    # 取得した製品のメーカーが今回保存する必要のないものだった場合、保存を無視する
                     with open('ethan_hunt/config/makers.json', 'r') as f:
                         makers = json.load(f)
                         if product['maker']:
@@ -28,7 +26,7 @@ class Command(BaseCommand):
                             if maker in makers:
                                 product['maker'] = makers[maker]['makername']
                             else:
-                                continue
+                                pass
 
                     # 保存したいけど、postgresにメーカーデータがないため、保存を断念
                     maker = Maker.objects.filter(name=product['maker']).first()
@@ -38,14 +36,13 @@ class Command(BaseCommand):
 
 
 
-                    # 取得した製品のジャンルが今回保存する必要のないものだった場合、保存を無視する
                     with open('ethan_hunt/config/genres.json', 'r') as f:
                         genres = json.load(f)
                         genre_name = product['genre']
                         if genre_name in genres:
                             product['genre'] = genres[genre_name]
                         else:
-                            continue
+                            pass
 
                     # 保存したいけど、postgresにジャンルデータがないため、保存を断念
                     genre_name_list = product['genre'].split('/')
@@ -58,8 +55,13 @@ class Command(BaseCommand):
                     if product['jancode'] is None:
                         product['jancode'] = ''
 
-                    if product['manual'] is None:
+                    if not 'manual' in product:
                         product['manual'] = ''
+                    elif product['manual'] is None:
+                        product['manual'] = ''
+
+                    if product['thumbnail'] is None:
+                        product['thumbnail'] = ''
 
                     releasedate = product['releasedate']
                     if releasedate and re.search('\[', releasedate):
