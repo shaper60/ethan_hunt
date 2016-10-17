@@ -13,11 +13,18 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         for file in glob.glob('products/products/*.json'):
             with open(file, 'r') as f:
+                print(f.name)
                 products = json.load(f)
                 for product in products:
+                    print(product['modelnumber'])
                     is_product = Product.objects.filter(modelnumber=product['modelnumber']).first()
                     if is_product:
+                        if not is_product.manual and product['manual']:
+                            print('update manual')
+                            is_product.manual = product['manual']
+                            is_product.save()
                         continue
+
 
                     with open('ethan_hunt/config/makers.json', 'r') as f:
                         makers = json.load(f)
@@ -31,9 +38,8 @@ class Command(BaseCommand):
                     # 保存したいけど、postgresにメーカーデータがないため、保存を断念
                     maker = Maker.objects.filter(name=product['maker']).first()
                     if maker is None:
-                        print(product['maker'])
+                        print('maker name "%s" is not in database' % product['maker'])
                         continue
-
 
 
                     with open('ethan_hunt/config/genres.json', 'r') as f:
@@ -48,7 +54,7 @@ class Command(BaseCommand):
                     genre_name_list = product['genre'].split('/')
                     genre = Genre.objects.filter(name=genre_name_list[-1]).first()
                     if genre is None:
-                        print(product['genre'])
+                        print('genre name "%s" is not in database' % product['genre'])
                         continue
 
 
