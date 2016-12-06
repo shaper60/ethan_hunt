@@ -11,11 +11,14 @@ from products.models import Product, Maker, Genre
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
+        count = 1
         for file in glob.glob('products/products/*.json'):
             with open(file, 'r') as f:
                 print(f.name)
                 products = json.load(f)
                 for product in products:
+                    print(count)
+                    count += 1
                     print(product['modelnumber'])
                     is_product = Product.objects.filter(modelnumber=product['modelnumber']).first()
                     if is_product:
@@ -68,6 +71,9 @@ class Command(BaseCommand):
 
                     if product['thumbnail'] is None:
                         product['thumbnail'] = ''
+
+                    if not product['images']:
+                        product['images'] = [product['thumbnail']]
 
                     releasedate = product['releasedate']
                     if releasedate and re.search('\[', releasedate):
