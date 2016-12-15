@@ -14,12 +14,13 @@ from products.models import Product, Maker, Genre
 
 class Command(BaseCommand):
     def handle(self, *args, **options):
-        print('hello')
+        today = datetime.datetime.now()
         for file in glob.glob('products/products/mobile/*.csv'):
             with open(file, 'r') as f:
                 print(file)
                 rows = csv.reader(f)
                 next(rows)
+                product_list = []
                 for row in rows:
                     modelnumber = self.get_modelnumber(row[0])
                     genre       = self.get_genre(row[1])
@@ -30,20 +31,8 @@ class Command(BaseCommand):
                     productname = self.get_productname(row[6])
                     releasedate = self.get_releasedate(row[7])
 
-                    is_product = Product.objects.filter(modelnumber=modelnumber)
-                    try:
-                        if is_product:
-                            continue
-                    # すでにDBに保存されているデータが正しい形式ではない場合があり、
-                    # その際、
-                    # django.core.exceptions.ValidationError: [u'Enter valid JSON']
-                    # が発生するのでexception handlingを行う
-                    except ValidationError:
-                        continue
-
-                    if maker is None:
-                        print('maker name "%s" is not in database' % row[2])
-                        continue
+                    if modelnumber == '':
+                        break
 
                     info = {
                         'modelnumber': modelnumber,
@@ -57,13 +46,19 @@ class Command(BaseCommand):
                         'jancode': ''
                     }
                     print(info)
+                    product_list.append(info)
+
+            with open("products/products/mobile.json", 'w') as f:
+                json.dump(product_list, f, indent=2)
+
 
     def get_modelnumber(self, key):
         return unicodedata.normalize('NFKC', key.decode('utf8')).strip()
 
     def get_genre(self, key):
-        genre = Genre.objects.filter(name=key).first()
-        return genre
+        return key
+        # genre = Genre.objects.filter(name=key).first()
+        # return genre
 
     def get_maker(self, key):
         with open('ethan_hunt/config/makers.json', 'r') as f:
@@ -72,7 +67,7 @@ class Command(BaseCommand):
                 maker = re.sub('\(.+\)', '', key).strip().lower()
                 if maker in makers:
                     maker = makers[maker]['makername']
-                    return Maker.objects.filter(name=maker).first()
+                    return maker
                 else:
                     return None
 
@@ -103,9 +98,6 @@ class Command(BaseCommand):
         return unicodedata.normalize('NFKC', key.decode('utf8')).strip()
 
     def get_releasedate(self, key):
-        if not key:
-            return None
-        releasedate = datetime.datetime.strptime(key, '%Y-%m-%d')
-        return releasedate
+        return key
 
 
